@@ -1,0 +1,2001 @@
+City,Industry,Average_Salary
+NULL,"Accounting, Banking & Finance",38000.0000
+" Berkley Heights ","Recruitment or HR",90000.0000
+" Chicago","Accounting, Banking & Finance",130000.0000
+" Chicago",Insurance,66100.0000
+" Chicago ","Computing or Tech",186000.0000
+" Rural Florida Panhandle","Education (Higher Education)",33280.0000
+" Ventura ",Law,48800.0000
+"A city small enough to not answer this question","Business or Consulting",103000.0000
+"A large city","Government and Public Administration",103000.0000
+"A small city","Accounting, Banking & Finance",70000.0000
+"a small city","Education (Higher Education)",65386.0000
+"A very large city","Government and Public Administration",130000.0000
+Aachen,"Computing or Tech",61000.0000
+Abbotsford,Law,95000.0000
+Aberdeen,"Computing or Tech",40300.0000
+Aberdeen,"Engineering or Manufacturing",53000.0000
+Aberdeen,"Government and Public Administration",70473.0000
+Aberdeen,"Health care",34000.0000
+Aberdeen,Nonprofits,22200.0000
+Aberdeen,"Oil and Gas",51000.0000
+Aberdeen,Sales,40000.0000
+"Aberdeen ","Utilities & Telecommunications",27600.0000
+Abidjan,Energy,67500.0000
+Abilene,"Health care",50000.0000
+Abilene,manufacturing,95000.0000
+"Abington ","Health care",43000.0000
+"Abington, PA","Health care",56000.0000
+Accra,Nonprofits,82583.0000
+Adairsville,"Engineering or Manufacturing",45760.0000
+Addis,"Engineering or Manufacturing",86000.0000
+Addison,"Computing or Tech",145000.0000
+Adelaide,"Agriculture or Forestry",50768.0000
+Adelaide,"Computing or Tech",133500.0000
+Adelaide,"Education (Higher Education)",82000.0000
+Adelaide,"Education (Primary/Secondary)",82546.5000
+Adelaide,"Engineering or Manufacturing",103000.0000
+Adelaide,"Government and Public Administration",90000.0000
+Adelaide,"Health care",79000.0000
+Adelaide,Law,85000.0000
+Adelaide,"Media & Digital",120000.0000
+Adelaide,Nonprofits,65000.0000
+Adelaide,Retail,72000.0000
+Adelaide,"Science/Biotech ",65000.0000
+"Adelaide ",Nonprofits,68816.0000
+"Affluent Chicago suburb","Computing or Tech",140000.0000
+Agawam,"Education (Primary/Secondary)",20000.0000
+Agawam,Nonprofits,95000.0000
+Aguadilla,Sales,16000.0000
+Aiken,"Cultural Resources Management/Major Univ.",30000.0000
+Aiken,"Engineering or Manufacturing",223000.0000
+Aiken,Retail,29120.0000
+"Ainsworth ","Health care",33800.0000
+Akron,"Accounting, Banking & Finance",66000.0000
+Akron,"Computing or Tech",85500.0000
+Akron,"Engineering or Manufacturing",86000.0000
+Akron,"Government and Public Administration",53017.6667
+Akron,"Health care",49920.0000
+Akron,Nonprofits,93000.0000
+"Akron, Ohio","Education (Higher Education)",38500.0000
+"Al Khobar","Oil & Gas",107045.0000
+Alabama,"Art & Design",64000.0000
+"Alabama ","Computing or Tech",35000.0000
+Alameda,"Beauty/service industry ",72800.0000
+Alameda,Biotech,93000.0000
+Alameda,"Engineering or Manufacturing",112333.3333
+Alamogordo,"Education (Primary/Secondary)",60000.0000
+"Alamogordo ",Nonprofits,42000.0000
+Albany,"Accounting, Banking & Finance",70000.0000
+Albany,"Computing or Tech",69654.5000
+Albany,"Education (Higher Education)",56280.0000
+Albany,"Education (Primary/Secondary)",35000.0000
+Albany,"Engineering or Manufacturing",79784.8000
+Albany,"Government and Public Administration",74215.4167
+Albany,"Health care",71500.0000
+Albany,Law,85500.0000
+Albany,"Learning and Development",62000.0000
+Albany,Library,60000.0000
+Albany,"Marketing, Advertising & PR",106000.0000
+Albany,Nonprofits,70750.0000
+Albany,"Pharma & Biotech",125760.0000
+Albany,"Pharmaceutical research (chemist)",64000.0000
+Albany,"Utilities & Telecommunications",60900.0000
+"Albany ","Business or Consulting",66250.0000
+"Albany-Schenectady-Troy Metro Area","Education (Primary/Secondary)",64000.0000
+"Albany, NY","Education (Higher Education)",72000.0000
+"Albany, NY","Media & Digital",125000.0000
+Albemarle,"Government and Public Administration",62000.0000
+Alberta,"Accounting, Banking & Finance",52500.0000
+Alberta,"Business or Consulting",80000.0000
+Alberta,Retail,55000.0000
+Alberta,"Utilities & Telecommunications",54400.0000
+Albuquerque,"Accounting, Banking & Finance",72000.0000
+Albuquerque,Architecture,60000.0000
+Albuquerque,"Business or Consulting",89000.0000
+Albuquerque,"Computing or Tech",130000.0000
+albuquerque,"Education (Higher Education)",64000.0000
+Albuquerque,"Education (Primary/Secondary)",51000.0000
+Albuquerque,"Engineering or Manufacturing",106000.0000
+Albuquerque,"Government and Public Administration",82118.3333
+Albuquerque,"Health care",64070.0000
+Albuquerque,Insurance,78833.3333
+Albuquerque,Law,58840.0000
+Albuquerque,library,49500.0000
+Albuquerque,Nonprofits,34000.0000
+Albuquerque,"Property or Construction",100000.0000
+Albuquerque,Retail,20800.0000
+Albuquerque,"Science Research, government",131000.0000
+Albuquerque,"Transport or Logistics",90000.0000
+"Albuquerque ","Business or Consulting",70000.0000
+"Albuquerque ","Engineering or Manufacturing",119666.6667
+"Albuquerque ","Government and Public Administration",102000.0000
+"Albuquerque ","Health care",74333.3333
+"Albuquerque ",Law,120000.0000
+"Albuquerque ",Nonprofits,36900.0000
+"Albuquerque ",Retail,44033.5000
+"Albuquerque ","Utilities & Telecommunications",113500.0000
+Albuquerqur,"Engineering or Manufacturing",77000.0000
+"Aldie ","Education (Primary/Secondary)",37400.0000
+"Aldie, VA","Education (Primary/Secondary)",63000.0000
+Alexandria,"Accounting, Banking & Finance",113000.0000
+Alexandria,"Art & Design",64000.0000
+Alexandria,Association,67000.0000
+Alexandria,"Business or Consulting",335500.0000
+Alexandria,"Computing or Tech",109000.0000
+Alexandria,"Education (Higher Education)",55000.0000
+Alexandria,"Education (Primary/Secondary)",105000.0000
+Alexandria,"Engineering or Manufacturing",110162.5000
+Alexandria,"Government and Public Administration",118165.5000
+Alexandria,"Health care",118750.0000
+Alexandria,"Hospitality & Events",62000.0000
+Alexandria,"Instructional Design and Training",104000.0000
+Alexandria,Insurance,41447.0000
+Alexandria,Law,121500.0000
+Alexandria,"Marketing, Advertising & PR",62125.0000
+Alexandria,Nonprofits,92964.2857
+Alexandria,"Professional Association ",56500.0000
+Alexandria,Publishing,62000.0000
+Alexandria,Science,160000.0000
+"Alexandria ","Accounting, Banking & Finance",45000.0000
+"Alexandria ","Computing or Tech",109200.0000
+"Alexandria ","Education (Primary/Secondary)",111340.0000
+"Alexandria ","Engineering or Manufacturing",92000.0000
+"Alexandria ","Government and Public Administration",98827.0000
+"Alexandria ","Health care",399000.0000
+"Alexandria ",Law,97000.0000
+"Alexandria ",Nonprofits,170000.0000
+"Alexandria ","Property or Construction",72000.0000
+"Alexandria, LA","Government and Public Administration",92580.0000
+"Alexandria, VA","Marketing, Advertising & PR",87000.0000
+"Alexandria, VA",Nonprofits,63000.0000
+Alexandrira,"Trade Associations",67000.0000
+Algonac,"Engineering or Manufacturing",54080.0000
+"Aliso Viejo","Computing or Tech",162390.0000
+"Aliso Viejo","Health care",108000.0000
+"Aliso Viejo","Veterinary medicine",34000.0000
+"Aliso Viejo","Video Games",70000.0000
+"All over",Rideshare,48000.0000
+"all over N CA",restoration,184000.0000
+"All, travel","Government and Public Administration",43000.0000
+Allegan,Libraries,44335.0000
+Allen,"Computing or Tech",91500.0000
+Allen,"Education (Higher Education)",52798.0000
+"Allen Park","Education (Primary/Secondary)",48809.0000
+"Allen, TX","Utilities & Telecommunications",95900.0000
+Allen/Plano,"Health care",65000.0000
+"Allendale, MI","Education (Higher Education)",50000.0000
+Allentown,"Accounting, Banking & Finance",74000.0000
+Allentown,"Engineering or Manufacturing",96500.0000
+Allentown,"Health care",138000.0000
+Allentown,Insurance,67000.0000
+Allentown,"Recruitment or HR",140000.0000
+Allentown,"Transport or Logistics",33800.0000
+Allentown,"Utilities & Telecommunications",75000.0000
+"Allentown ","Leisure, Sport & Tourism",34500.0000
+Alma,"Health care",66300.0000
+Alpharetta,"Computing or Tech",124933.3333
+Alpharetta,"Government and Public Administration",45000.0000
+Alpharetta,Nonprofits,70000.0000
+Alpharetta,"Recruitment or HR",66000.0000
+Alpharetta,Retail,55000.0000
+Alpharetta,"Transport or Logistics",45000.0000
+Alpharetta,"Utilities & Telecommunications",118000.0000
+"Alpharetta ","Health care",40770.0000
+"Alpharetta ",Unknown,120000.0000
+"Alpharetta ","Utilities & Telecommunications",60000.0000
+"Alpharetta, GA","Health care",110000.0000
+Altoona,"Accounting, Banking & Finance",97000.0000
+Altus,Insurance,31200.0000
+Alvarado,"Education (Primary/Secondary)",53000.0000
+Amarillo,"Recruitment or HR",90000.0000
+Amarillo,"Utilities & Telecommunications",104269.0000
+Ambler,"Engineering or Manufacturing",76900.0000
+Ambler,"Property or Construction",72000.0000
+"American Fork","Marketing, Advertising & PR",92000.0000
+Ames,"Art & Design",50000.0000
+Ames,"Education (Higher Education)",61845.6667
+Ames,"Government and Public Administration",68110.0000
+Ames,"Transport or Logistics",36000.0000
+Amesbury,Library,65000.0000
+Amherst,"Education (Higher Education)",43350.0000
+Amherst,"Engineering or Manufacturing",42000.0000
+Amherst,Law,90000.0000
+"Amherst, MA","Agriculture or Forestry",56000.0000
+Amityville,"Engineering or Manufacturing",37440.0000
+Ammon,"Education (Primary/Secondary)",46000.0000
+Amsterdam,"Accounting, Banking & Finance",68750.0000
+Amsterdam,Biotech,61500.0000
+Amsterdam,"Business or Consulting",52000.0000
+Amsterdam,"Computing or Tech",74878.2308
+Amsterdam,"Engineering or Manufacturing",35000.0000
+Amsterdam,Entertainment,60000.0000
+Amsterdam,Insurance,72800.0000
+Amsterdam,"Marketing, Advertising & PR",110000.0000
+Amsterdam,"Media & Digital",78000.0000
+Amsterdam,"Renewable fuels",72000.0000
+Amsterdam,Sales,29965.0000
+Amsterdam,"Social research",33048.0000
+"Amsterdam ","Computing or Tech",59000.0000
+"Amsterdam ","Engineering or Manufacturing",84000.0000
+"Amsterdam ","Health care",72500.0000
+Amsterdsm,"Marketing, Advertising & PR",38400.0000
+"An exact answer would out me","Computing or Tech",116000.0000
+Anaconda,"Health care",72000.0000
+Anacortes,"Accounting, Banking & Finance",55000.0000
+Anaheim,"Accounting, Banking & Finance",45760.0000
+Anaheim,"Education (Primary/Secondary)",80000.0000
+Anaheim,"Marketing, Advertising & PR",85000.0000
+Anaheim,Nonprofits,120000.0000
+Anchorage,"Accounting, Banking & Finance",111866.6667
+Anchorage,"Computing or Tech",67000.0000
+Anchorage,"Engineering or Manufacturing",88481.0000
+Anchorage,Fundraising,95000.0000
+Anchorage,"Government and Public Administration",74446.6667
+Anchorage,"Health care",111333.3333
+Anchorage,Law,132500.0000
+Anchorage,Libraries,62000.0000
+anchorage,Nonprofits,52000.0000
+Anchorage,Research,94000.0000
+Anchorage,Retail,50000.0000
+Anchorage,Sales,90000.0000
+"Anchorage ","Government and Public Administration",63000.0000
+"Anchorage ","Health care",71040.0000
+"Anchorage ",Nonprofits,27040.0000
+"Anchorage ","Social Work",51000.0000
+Anchoragr,"Government Contracting",130800.0000
+Anderson,"Computing or Tech",40000.0000
+Anderson,"Education (Higher Education)",62000.0000
+"Anderson ","Transport or Logistics",60000.0000
+Andover,"Accounting, Banking & Finance",64200.0000
+Andover,"Computing or Tech",143000.0000
+Andover,"Engineering or Manufacturing",101800.0000
+Andover,"Health care",69000.0000
+Andover,Pharmaceutical,116358.0000
+"Andover ","Education (Higher Education)",81600.0000
+Ankeny,"Computing or Tech",47840.0000
+Ankeny,"Engineering or Manufacturing",58000.0000
+"Ann Arbor","Academia / Research",68500.0000
+"Ann Arbor","Accounting, Banking & Finance",89000.0000
+"Ann Arbor",Biotech,80975.0000
+"Ann Arbor","Business or Consulting",90000.0000
+"Ann Arbor","Computing or Tech",114784.3333
+"Ann Arbor","Education (Higher Education)",64732.9000
+"Ann Arbor","Education (Primary/Secondary)",38000.0000
+"Ann Arbor","Engineering or Manufacturing",97660.0000
+"Ann Arbor","Government and Public Administration",110500.0000
+"Ann Arbor","Health care",68187.5000
+"Ann Arbor","Media & Digital",70500.0000
+"Ann Arbor",Nonprofits,44366.6667
+"ann arbor","public health",87000.0000
+"Ann Arbor","Public health (not medical)",65000.0000
+"Ann Arbor",Publishing,9000.0000
+"Ann Arbor","Recruitment or HR",91300.0000
+"Ann Arbor",Retail,25000.0000
+"Ann Arbor",Sales,105000.0000
+"Ann Arbor ","Education (Higher Education)",75000.0000
+"Ann Arbor ","Leisure, Sport & Tourism",54000.0000
+"Ann Arbor ",Nonprofits,48000.0000
+"Ann Arbor area","Engineering or Manufacturing",65000.0000
+"Ann Arbor, Michigan","Social Work",55000.0000
+Annandale,"Government and Public Administration",125000.0000
+Annapolis,"Accounting, Banking & Finance",85000.0000
+Annapolis,"Computing or Tech",138000.0000
+Annapolis,"Education (Higher Education)",111333.3333
+Annapolis,"Engineering or Manufacturing",97000.0000
+Annapolis,"Government and Public Administration",68903.6667
+Annapolis,"Health care",94000.0000
+Annapolis,Insurance,96000.0000
+Annapolis,Law,89000.0000
+Annapolis,Nonprofits,66000.0000
+"Annapolis ","Government and Public Administration",62000.0000
+"Annapolis Junction","Government and Public Administration",113000.0000
+"Annapolis Valley","Computing or Tech",170000.0000
+Annecy,Translation,22800.0000
+Anon,"Education (Higher Education)",82000.0000
+Anonymous,"Education (Higher Education)",160000.0000
+anonymous,Library,48028.0000
+"Anonymous ","Education (Primary/Secondary)",83000.0000
+"Anonymous ","Government and Public Administration",86000.0000
+Antwerp,"Business or Consulting",63560.0000
+Antwerpen,Mining,73000.0000
+"Apache Junction","Computing or Tech",116000.0000
+Apex,"Computing or Tech",190550.0000
+Apex,Retail,64300.0000
+"Apple Valley","Accounting, Banking & Finance",85000.0000
+"Apple Valley","Education (Primary/Secondary)",53000.0000
+Appleton,"Education (Higher Education)",46500.0000
+Appleton,"Engineering or Manufacturing",80000.0000
+Appleton,Nonprofits,72500.0000
+Appleton,"Social Work",50000.0000
+"Appleton ","Accounting, Banking & Finance",62000.0000
+"Appleton ","Health care",64105.0000
+"Appleton ","Social Work",52400.0000
+Arden,Sales,40300.0000
+Ardrossan,"Education (Primary/Secondary)",47000.0000
+århus,"Computing or Tech",64000.0000
+Arkadelphia,Law,35000.0000
+Arles,"Education (Primary/Secondary)",34000.0000
+Arlington,"Accounting, Banking & Finance",119500.0000
+Arlington,"Business or Consulting",106750.0000
+Arlington,"Communication Research",90456.0000
+Arlington,"Computing or Tech",147016.1667
+Arlington,"Education (Primary/Secondary)",58000.0000
+Arlington,"Engineering or Manufacturing",98500.0000
+Arlington,"Government and Public Administration",120847.4545
+Arlington,"Government contracting",68000.0000
+Arlington,"Health care",113000.0000
+Arlington,"Healthcare technology ",83900.0000
+arlington,Insurance,60000.0000
+Arlington,Law,163000.0000
+Arlington,"Market Research",70000.0000
+Arlington,"Marketing, Advertising & PR",72000.0000
+Arlington,"Media & Digital",94600.0000
+Arlington,Nonprofits,77528.3333
+Arlington,"Political Research",40000.0000
+Arlington,"Religious institution",54080.0000
+Arlington,"Think tank",90280.0000
+Arlington,"Transport or Logistics",57340.0000
+Arlington,"Utilities & Telecommunications",112400.0000
+"Arlington ","Business or Consulting",108850.0000
+"Arlington ","Computing or Tech",172500.0000
+"Arlington ","Government and Public Administration",96000.0000
+"Arlington ",Law,171912.0000
+"Arlington ","Oil and Gas",350000.0000
+"Arlington ","Recruitment or HR",130000.0000
+"Arlington ","Utilities & Telecommunications",102000.0000
+"Arlington Heights","Accounting, Banking & Finance",60000.0000
+"Arlington Heights","Business or Consulting",40000.0000
+"Arlington Heights","Public safety ",82550.0000
+"Arlington, VA","Computing or Tech",125000.0000
+"Arlington, VA (Washington D.C. metro area)","Media & Digital",58000.0000
+Arnold,"Education (Higher Education)",80000.0000
+"Arroyo Grande","Accounting, Banking & Finance",75000.0000
+"Arroyo Grande","Marketing, Advertising & PR",50000.0000
+Arvada,Biotechnology,82000.0000
+"Arvada ","Recruitment or HR",107000.0000
+"Asbury Park","Media & Digital",73000.0000
+Ashburn,"Government and Public Administration",86500.0000
+"Ashburn ","Art & Design",54000.0000
+"Ashburn ","Computing or Tech",120000.0000
+Asheboro,"Education (Primary/Secondary)",54000.0000
+Asheville,"Accounting, Banking & Finance",200000.0000
+Asheville,"Art & Design",63000.0000
+Asheville,"Computing or Tech",115250.0000
+Asheville,"Education (Higher Education)",145000.0000
+Asheville,"Engineering or Manufacturing",80000.0000
+Asheville,"Government and Public Administration",71000.0000
+Asheville,"Health care",90000.0000
+Asheville,Retail,26000.0000
+"Asheville ","Computing or Tech",100000.0000
+"Asheville ",Nonprofits,35211.0000
+"Asheville ","Property or Construction",95000.0000
+"Asheville ",Science,76000.0000
+"Asheville, NC","Business or Consulting",51000.0000
+"Ashford ","Engineering or Manufacturing",23000.0000
+Ashland,"Accounting, Banking & Finance",106600.0000
+Ashland,"Computing or Tech",200000.0000
+Ashland,"Health care",43680.0000
+Ashland,Insurance,27000.0000
+Ashland,Manufacturing,60800.0000
+Ashland,"Wholesale - Apparel",90000.0000
+Asmara,"Government and Public Administration",98000.0000
+Aspen,"Hospitality & Events",107000.0000
+Aspen,"Property or Construction",65000.0000
+aston,manufacturing,70000.0000
+Athens,"Accounting, Banking & Finance",80530.0000
+Athens,"Computing or Tech",46000.0000
+Athens,"Education (Higher Education)",54299.6667
+Athens,"Government and Public Administration",34000.0000
+Athens,"Health care",43680.0000
+Athens,"Property or Construction",67500.0000
+Athens,"Public Library",40000.0000
+"Athens ","Education (Higher Education)",64000.0000
+Athlone,"Marketing, Advertising & PR",45000.0000
+Athol,Nonprofits,42500.0000
+AtlantA,"Accounting, Banking & Finance",125495.2381
+Atlanta,"Art & Design",70800.0000
+Atlanta,"Business or Consulting",96296.8500
+Atlanta,"College Athletics",37500.0000
+Atlanta,"Commercial Real Estate",75000.0000
+Atlanta,"Computing or Tech",119546.7045
+Atlanta,CPG,68000.0000
+atlanta,"Education (Higher Education)",67531.4286
+Atlanta,"Education (Primary/Secondary)",56340.0000
+Atlanta,"Engineering or Manufacturing",119537.3333
+Atlanta,Entertainment,87000.0000
+Atlanta,"Environmental Consulting",105000.0000
+Atlanta,"Government and Public Administration",93040.2500
+Atlanta,"Graduate Student",2350.0000
+Atlanta,"Health care",96396.9231
+Atlanta,"Hospitality & Events",133333.3333
+Atlanta,"Human Capital Management",108000.0000
+Atlanta,Insurance,91878.3333
+atlanta,"Interior Design (commercial)",40000.0000
+Atlanta,Law,141050.0000
+Atlanta,"Libraries / Archives / Information",51000.0000
+Atlanta,"Marketing, Advertising & PR",96237.5000
+Atlanta,"Media & Digital",86000.0000
+Atlanta,Nonprofits,61421.8750
+Atlanta,Politics/campaigns,72000.0000
+Atlanta,"Private Equity",75000.0000
+Atlanta,"Property or Construction",62706.7500
+Atlanta,"Public Health",63000.0000
+Atlanta,"Public health ",55000.0000
+Atlanta,"Real Estate",135000.0000
+Atlanta,"Recruitment or HR",66226.2857
+Atlanta,Restaurant,15080.0000
+Atlanta,Retail,60206.0000
+Atlanta,Sales,65320.0000
+Atlanta,Science,65000.0000
+Atlanta,"Social Work",72000.0000
+Atlanta,"Transport or Logistics",84583.3333
+Atlanta,"Utilities & Telecommunications",90666.6667
+Atlanta,"Virtual reality",55000.0000
+Atlanta,"Wholesale Industrial & Welding Supplies & Equipment",50000.0000
+"Atlanta ","Accounting, Banking & Finance",87000.0000
+"Atlanta ","Agriculture or Forestry",10500.0000
+"Atlanta ","Brain research ",28000.0000
+"Atlanta ","Business or Consulting",118968.5000
+"Atlanta ","Computing or Tech",120333.3333
+"Atlanta ","Education (Primary/Secondary)",46813.0000
+"Atlanta ","Engineering or Manufacturing",86500.0000
+"Atlanta ","Health care",70000.0000
+"Atlanta ","Hospitality & Events",92000.0000
+"Atlanta ",Insurance,69000.0000
+"Atlanta ",Law,87500.0000
+"Atlanta ","Marketing, Advertising & PR",153000.0000
+"Atlanta ","Media & Digital",70000.0000
+"Atlanta ","Medical/Pharmaceutical ",220000.0000
+"Atlanta ",Nonprofits,45000.0000
+"Atlanta ","Property or Construction",60500.0000
+"Atlanta ","Recruitment or HR",42500.0000
+"Atlanta ","Utilities & Telecommunications",95000.0000
+"Atlanta Metro","Education (Higher Education)",62000.0000
+"Atlanta metro area","Education (Higher Education)",44000.0000
+"Atlanta metro area","Government and Public Administration",69500.0000
+"Atlanta metro area","Health care",124000.0000
+"Atlanta metro area","Marketing, Advertising & PR",69500.0000
+"Atlanta suburb","Government and Public Administration",91000.0000
+"Atlanta, Georgia","Engineering or Manufacturing",63000.0000
+Atlanta/Decatur,"Education (Higher Education)",46040.0000
+"Atlantic City","Government and Public Administration",58000.0000
+"Atlantic City","Government contractor",62000.0000
+"Atlantic City","Public Libraries",47700.0000
+Attleboro,"Education (Primary/Secondary)",67000.0000
+Attleboro,Sales,65000.0000
+Auburn,"Accounting, Banking & Finance",108250.0000
+Auburn,"Computing or Tech",29120.0000
+Auburn,"Education (Higher Education)",76350.0000
+Auburn,"Hospitality & Events",90000.0000
+"Auburn Hills",Sales,55000.0000
+Auckland,"Accounting, Banking & Finance",162800.0000
+Auckland,"Art & Design",100000.0000
+Auckland,"Business or Consulting",205000.0000
+Auckland,"Computing or Tech",169937.5000
+Auckland,"Education (Higher Education)",115000.0000
+Auckland,"Education (Primary/Secondary)",60000.0000
+Auckland,"Engineering or Manufacturing",69000.0000
+Auckland,"Government and Public Administration",84000.0000
+Auckland,Insurance,115500.0000
+Auckland,Law,132500.0000
+Auckland,"Market research",34000.0000
+Auckland,"Marketing, Advertising & PR",122000.0000
+Auckland,"Property or Construction",92000.0000
+Auckland,"Transport or Logistics",92000.0000
+Auckland,"Utilities & Telecommunications",121000.0000
+"Auckland ",Law,160000.0000
+"Auckland ","Leisure, Sport & Tourism",56000.0000
+"Auckland ","Manufacturing ",120000.0000
+Augusta,"Agriculture or Forestry",91000.0000
+Augusta,"Computing or Tech",51000.0000
+Augusta,"Education (Higher Education)",120000.0000
+Augusta,"Engineering or Manufacturing",74500.0000
+Augusta,"Government and Public Administration",67969.5000
+Augusta,"Health care",68640.0000
+Augusta,Insurance,86000.0000
+Augusta,Nonprofits,50000.0000
+Augusta,"Transport or Logistics",78000.0000
+"Augusta ","Animal Care",32000.0000
+"Augusta ","Computing or Tech",62000.0000
+"Augusta - remote","Computing or Tech",110000.0000
+"Augusta IL","Health care",24900.0000
+Aurora,"Computing or Tech",167000.0000
+Aurora,"Education (Primary/Secondary)",48000.0000
+Aurora,"Engineering or Manufacturing",92500.0000
+Aurora,"Government and Public Administration",111000.0000
+Aurora,"Health care",102235.8333
+Aurora,IT,56000.0000
+Aurora,"Law Enforcement & Security",41000.0000
+Aurora,Nonprofits,57000.0000
+Aurora,Retail,110500.0000
+"Aurora ","Health care",105000.0000
+Austin,"Academia--cell and molecular biology",48000.0000
+Austin,"Accounting, Banking & Finance",104416.6667
+Austin,architecture,70000.0000
+Austin,"Art & Design",80000.0000
+Austin,"Business or Consulting",100277.7778
+Austin,"Computing or Tech",121794.1707
+Austin,"Consulting ",65000.0000
+Austin,"Education (Higher Education)",67850.5238
+Austin,"Education (Primary/Secondary)",54197.1667
+Austin,"Engineering or Manufacturing",103893.6923
+Austin,"Environmental Consulting",132000.0000
+Austin,"Food & Beverage",67000.0000
+Austin,Gaming,68500.0000
+Austin,"Government and Public Administration",68220.1905
+Austin,"Health care",86490.7273
+Austin,"Hospitality & Events",35360.0000
+Austin,Insurance,88600.0000
+Austin,"Interior landscaping ",33000.0000
+Austin,Law,155621.8182
+Austin,"Marketing, Advertising & PR",100522.2222
+Austin,"Media & Digital",58252.5000
+Austin,Music,65000.0000
+Austin,Nonprofits,83808.6667
+Austin,"Property or Construction",72875.0000
+Austin,"Public Library",55000.0000
+Austin,"Real Estate customer care",50000.0000
+Austin,"Recruitment or HR",65427.7143
+Austin,Retail,63450.0000
+Austin,Sales,50604.2857
+Austin,"Social Work",54500.0000
+Austin,"Transport or Logistics",160000.0000
+Austin,Unknown,65000.0000
+Austin,"Utilities & Telecommunications",70000.0000
+Austin,"Video games",95000.0000
+"Austin ","Business or Consulting",108000.0000
+"Austin ","Computing or Tech",117000.0000
+"Austin ","Engineering or Manufacturing",104250.0000
+"Austin ",Entertainment,110000.0000
+"Austin ","Marketing, Advertising & PR",60000.0000
+"Austin Metro Area","Education (Higher Education)",54000.0000
+"Austin, Texas","Recruitment or HR",45000.0000
+"Austin, TX","Art & Design",57000.0000
+"Austin, TX",Law,126000.0000
+"Austin, TX ","Computing or Tech",169000.0000
+"Australia not Sydney","Computing or Tech",70000.0000
+"Avon Lake","Computing or Tech",62000.0000
+Ayer,"Accounting, Banking & Finance",140000.0000
+Ayer,"Health care",83200.0000
+Aylesbury,"Transport or Logistics",43000.0000
+Bagdad,"Engineering or Manufacturing",130000.0000
+"Bahía Blanca, Buenos Aires, province Argentina",Nonprofits,804000.0000
+"Bainbridge Island",Retail,32000.0000
+Bakersfield,"Education (Higher Education)",90000.0000
+Bakersfield,"Education (Primary/Secondary)",65.0000
+Bakersfield,Law,125000.0000
+Ballarat,"Engineering or Manufacturing",90000.0000
+Baltimore,"Accounting, Banking & Finance",88192.0000
+Baltimore,"Agriculture or Forestry",50000.0000
+Baltimore,"Art & Design",58800.0000
+Baltimore,"Business or Consulting",260000.0000
+Baltimore,coaching,44000.0000
+Baltimore,"Computing or Tech",101322.8571
+Baltimore,"Education (Higher Education)",84020.3750
+Baltimore,"Education (Primary/Secondary)",78250.0000
+Baltimore,"Engineering or Manufacturing",127170.5000
+Baltimore,"Government and Public Administration",76325.6667
+Baltimore,"Health care",84180.7778
+Baltimore,Insurance,74592.5000
+Baltimore,Law,81833.3333
+Baltimore,"Leisure, Sport & Tourism",91000.0000
+Baltimore,Library,55000.0000
+Baltimore,"Marketing, Advertising & PR",73833.3333
+Baltimore,"Media & Digital",73725.0000
+Baltimore,Museums,75000.0000
+Baltimore,Nonprofits,94142.8571
+Baltimore,Pharmaceuticals,85000.0000
+Baltimore,Philanthropy,80000.0000
+Baltimore,"Recruitment or HR",46000.0000
+Baltimore,Retail,91000.0000
+Baltimore,"Social Work",50000.0000
+Baltimore,"Transport or Logistics",69847.3333
+Baltimore,"Utilities & Telecommunications",121066.6667
+"Baltimore ","Business or Consulting",101000.0000
+"Baltimore ","Computing or Tech",162000.0000
+"Baltimore ","Education (Higher Education)",68000.0000
+"Baltimore ","Education (Primary/Secondary)",353200.0000
+"Baltimore ","Government and Public Administration",114000.0000
+"Baltimore ","Health care",160000.0000
+"Baltimore ","Hospitality & Events",72000.0000
+"Baltimore ",Law,200000.0000
+"Baltimore ","Marketing, Advertising & PR",145000.0000
+"Baltimore ",Nonprofits,66500.0000
+"Baltimore ","Recruitment or HR",100000.0000
+"Baltimore ",Retail,40000.0000
+"Baltimore ","Utilities & Telecommunications",155000.0000
+"Baltimore (but I work fully remotely)","Clean Energy (eg. energy efficiency, renewables, etc.)",200000.0000
+"Baltimore Area","biomedical research",53000.0000
+"Baltimore County","Education (Higher Education)",60000.0000
+"Baltimore County","Public Libraries",110000.0000
+"baltimore metro","Government and Public Administration",77000.0000
+"Baltimore suburb ","Engineering or Manufacturing",91000.0000
+"Baltimore suburbs","Accounting, Banking & Finance",56000.0000
+"Baltimore, MD","Computing or Tech",106000.0000
+Bangalore,"Business or Consulting",343300.0000
+Bangalore,"Computing or Tech",1450000.0000
+Bangkok,"Computing or Tech",52000.0000
+Bangkok,"Engineering or Manufacturing",424823.0000
+Bangkok,"Marketing, Advertising & PR",720000.0000
+Bangkok,Retail,30000.0000
+Bangor,"Accounting, Banking & Finance",37440.0000
+Bangor,"Education (Higher Education)",58500.0000
+Bangor,Nonprofits,39000.0000
+Bangor,"Science/research non-academic",76000.0000
+Bangot,"Social Work",28080.0000
+Bannockburn,"Business or Consulting",72500.0000
+barcelona,"Accounting, Banking & Finance",30.0000
+Barcelona,"Computing or Tech",57200.0000
+Barcelona,"Education (Primary/Secondary)",40000.0000
+Barcelona,"Engineering or Manufacturing",60000.0000
+Barcelona,Entertainment,214000.0000
+Barcelona,"Games development",48000.0000
+Barcelona,"Health care",55000.0000
+Barcelona,"Media & Digital",32000.0000
+Barcelona,"Transport or Logistics",40000.0000
+"Barcelona ",Nonprofits,36000.0000
+"Barcelona ","Translation ",8000.0000
+Barnstable,"Accounting, Banking & Finance",37700.0000
+Barnstable,"Agriculture or Forestry",60000.0000
+Barnstable,"Government and Public Administration",72000.0000
+Barrie,"Media & Digital",72000.0000
+"Barrie Ontario","Health care",96000.0000
+Barrington,Nonprofits,40000.0000
+Bartlesville,"Oil & Gas",160000.0000
+Bartlett,"Recruitment or HR",55000.0000
+barxelona,"Utilities & Telecommunications",57000.0000
+"Based on current client project","Computing or Tech",155000.0000
+Basel,Chemical,110000.0000
+Basel,"Education (Higher Education)",68000.0000
+Basel,"Government and Public Administration",125000.0000
+Basel,"Health care",115000.0000
+BASEL,Retail,55.0000
+Basingstoke,Aviation,52400.0000
+"Basking Ridge","Computing or Tech",60000.0000
+"Basking Ridge","Utilities & Telecommunications",75000.0000
+Batangas,"Engineering or Manufacturing",264.0000
+Batavia,"Agriculture or Forestry",66250.0000
+Batavia,"Government and Public Administration",102000.0000
+Batavia,"Marketing, Advertising & PR",35500.0000
+Batesville,Law,85000.0000
+Batesville,"Medical Technology",133000.0000
+Bath,"Accounting, Banking & Finance",45000.0000
+Bath,"Defense Contractor",69000.0000
+Bath,"Education (Higher Education)",27500.0000
+Bath,"Engineering or Manufacturing",108300.0000
+Bath,"Health care",37500.0000
+Bathesda,"Corporate Sustainability ",110000.0000
+"Baton Rouge","Accounting, Banking & Finance",59000.0000
+"Baton Rouge","Computing or Tech",81600.0000
+"Baton Rouge","Education Publishing ",52500.0000
+"Baton Rouge","Engineering or Manufacturing",96262.0000
+"Baton Rouge",Entertainment,65520.0000
+"Baton Rouge","Environmental compliance",54000.0000
+"Baton Rouge","Government and Public Administration",68000.0000
+"Baton Rouge","Health care",54200.0000
+"Baton Rouge",Law,73000.0000
+"Baton Rouge","Marketing, Advertising & PR",65000.0000
+"Baton Rouge","Recruitment or HR",67800.0000
+"Baton Rouge","Utilities & Telecommunications",70000.0000
+"Baton Rouge ","Engineering or Manufacturing",61800.0000
+"Bay area","Agriculture or Forestry",74000.0000
+"Bay Area",Biotech,120000.0000
+"Bay Area",Biotech/Pharma,116000.0000
+"Bay Area","Computing or Tech",199500.0000
+"Bay Area","Education (Higher Education)",60000.0000
+"Bay Area","Education (Primary/Secondary)",64000.0000
+"Bay Area","Engineering or Manufacturing",75000.0000
+"Bay Area",Entertainment,140000.0000
+"Bay Area","Health care",191000.0000
+"Bay Area",Insurance,80000.0000
+"Bay Area",Law,235000.0000
+"Bay Area",Nonprofits,80000.0000
+"Bay Area","Transport or Logistics",80000.0000
+"Bay Area","Video Games",130000.0000
+"Bay Area ",Nonprofits,90000.0000
+"Bay Area, CA","Business or Consulting",130000.0000
+"Bay City","Computing or Tech",70000.0000
+"Bay City","Education (Higher Education)",45000.0000
+"Bay City","Transport or Logistics",54080.0000
+"Bay City ","Hospitality & Events",13000.0000
+"Bay of Plenty",Insurance,65000.0000
+"Bay St. Louis","Engineering or Manufacturing",84000.0000
+BC,Mining,86500.0000
+BC,Nonprofits,59800.0000
+Beachwood,"Education (Higher Education)",50000.0000
+Beachwood,Law,73000.0000
+Beacon,"Marketing, Advertising & PR",60000.0000
+Beaufort,"Computing or Tech",93000.0000
+Beaumont,"Education (Higher Education)",82500.0000
+Beaumont,"Engineering or Manufacturing",100000.0000
+Beaumont,Insurance,55000.0000
+Beaumont,Retail,26100.0000
+Beaverton,"Accounting, Banking & Finance",90000.0000
+Beaverton,"Art & Design",93600.0000
+Beaverton,"Computing or Tech",69000.0000
+Beaverton,"Government and Public Administration",120000.0000
+Beaverton,"Marketing, Advertising & PR",73000.0000
+Beaverton,Nonprofits,34000.0000
+Beaverton,Operations,110000.0000
+Beaverton,Retail,43130.0000
+"Beaverton ","Computing or Tech",114000.0000
+"Beaverton ","Data Breach",56410.0000
+"Beaverton, OR (Portland suburb)",Nonprofits,67000.0000
+Bedford,"Computing or Tech",120000.0000
+Bedford,"Engineering or Manufacturing",86000.0000
+Bedford,Insurance,59800.0000
+"Bedford ","Computing or Tech",35000.0000
+"Bedford ",Nonprofits,40000.0000
+"Bedford ","Property or Construction",37500.0000
+"Bedford, NH","Property or Construction",90000.0000
+Bedfordshire,"Accounting, Banking & Finance",80000.0000
+Bedminster,Biotech/Pharma,175000.0000
+Beijing,"Computing or Tech",38526.0000
+Beijing,"Education (Primary/Secondary)",260000.0000
+BELFAST,"Accounting, Banking & Finance",32000.0000
+Belfast,"Computing or Tech",33427.5000
+Belfast,"Education (Higher Education)",24500.0000
+Belfast,Environmental,42000.0000
+Belfast,"Health care",56000.0000
+Belfast,"Marketing, Advertising & PR",35000.0000
+Belfast,Nonprofits,78000.0000
+"Belfast ",Pharmaceutical,53000.0000
+"Belfast - for context, our organization has country-based payscales, not city/state",Nonprofits,83000.0000
+Belleville,"Law Enforcement & Security",104640.0000
+Bellevue,"Business or Consulting",122000.0000
+Bellevue,"Computing or Tech",134900.0000
+Bellevue,"Customer Service",41600.0000
+Bellevue,"Education (Higher Education)",46750.0000
+Bellevue,"Engineering or Manufacturing",62400.0000
+Bellevue,Entertainment,112500.0000
+Bellevue,"Government and Public Administration",90000.0000
+Bellevue,"Marketing, Advertising & PR",91500.0000
+Bellevue,Nonprofits,72333.3333
+Bellevue,"Property or Construction",40320.0000
+Bellevue,"Recruitment or HR",96500.0000
+Bellevue,"Utilities & Telecommunications",92562.0000
+"Bellevue ","Computing or Tech",100000.0000
+"Bellevue ","Health care",70000.0000
+"Bellevue ","Telecommunications ",78894.0000
+"Bellevue, WA","Utilities & Telecommunications",117000.0000
+"Bellevue, wa, usa","Computing or Tech",180000.0000
+Bellingham,"Computing or Tech",104525.0000
+Bellingham,"Education (Higher Education)",90000.0000
+Bellingham,"Engineering or Manufacturing",457000.0000
+Bellingham,"Health care",49000.0000
+Bellingham,Nonprofits,59000.0000
+Bellingham,"Property or Construction",47840.0000
+"Bellingham ","Government and Public Administration",93000.0000
+"Bellingham (remote)","Computing or Tech",199000.0000
+Belmont,"Academic research (Psychology)",36883.0000
+Belmont,"Religious (church)",49500.0000
+"Belmont, CA (SF Bay Area)","Landscaping/Tree Work",58240.0000
+"Belo Horizonte ","Computing or Tech",182000.0000
+Beltsville,Biotech/Pharmaceuticals,90000.0000
+Bemidji,"Accounting, Banking & Finance",34500.0000
+Bemidji,"Health care",62400.0000
+Bemidji,Law,95000.0000
+"Bemidji ","Engineering or Manufacturing",85000.0000
+Bend,Nonprofits,44000.0000
+Bennettsville,"Education (Primary/Secondary)",70000.0000
+Bennington,"Computing or Tech",120000.0000
+Bennington,"Education (Higher Education)",123000.0000
+Bensenville,"Property or Construction",60000.0000
+Benton,"Agriculture or Forestry",42000.0000
+Benton,"Government and Public Administration",50000.0000
+"Benton harbor","Engineering or Manufacturing",128000.0000
+"Benton Harbor ","Sales Operations",96000.0000
+Bentonville,"Computing or Tech",77229.5000
+Bentonville,"Education (Primary/Secondary)",51000.0000
+Bentonville,Retail,117000.0000
+Bentonville,"Transport or Logistics",52000.0000
+Bentonville,Unknown,98000.0000
+"Bentonville ","Media & Digital",60000.0000
+"Bentonville ","Transport or Logistics",170000.0000
+"Bergen County","Automotive ",97000.0000
+"Bergen County","Engineering or Manufacturing",134000.0000
+"Bergen County","Government and Public Administration",45427.0000
+Berkeley,"Business or Consulting",87000.0000
+Berkeley,"Computing or Tech",185000.0000
+Berkeley,"Education (Higher Education)",66375.0000
+Berkeley,"Government and Public Administration",113400.0000
+Berkeley,"Media & Digital",85000.0000
+Berkeley,Nonprofits,135000.0000
+Berkeley,"Pharmaceutical Manufacturing",114000.0000
+Berkeley,Retail,41000.0000
+Berkeley,"University libraries",54000.0000
+"Berkeley ","Computing or Tech",74618.0000
+"Berkeley ","Education (Higher Education)",70800.0000
+"Berkeley ","Health care",131000.0000
+"Berkley ","music therapy ",56000.0000
+Berlin,"Accounting, Banking & Finance",70000.0000
+Berlin,"Business or Consulting",52440.0000
+Berlin,"Computing or Tech",140469.2308
+Berlin,"Engineering or Manufacturing",80.0000
+Berlin,Entertainment,13000.0000
+Berlin,"Marketing, Advertising & PR",70000.0000
+Berlin,"Media & Digital",30000.0000
+Berlin,Nonprofits,75000.0000
+Berlin,Pharmaceutical,82000.0000
+Berlin,Retail,103000.0000
+Berlin,"Transport or Logistics",140000.0000
+"Berlin ","Computing or Tech",96000.0000
+"Berlin ","Engineering or Manufacturing",84000.0000
+"Berlin ",Entertainment,38400.0000
+"Berlin ","Government and Public Administration",36000.0000
+"Berlin, Germany","Social Work",28800.0000
+Berryville,"Health care",38480.0000
+Berwick,"Business or Consulting",22880.0000
+Berwyn,"Government and Public Administration",60345.0000
+Berwyn,"Social Work",45000.0000
+Bessemer,"Marketing, Advertising & PR",70000.0000
+Bethel,Nonprofits,51000.0000
+Bethesda,"Accounting, Banking & Finance",103000.0000
+Bethesda,"Business or Consulting",84700.0000
+Bethesda,"Computing or Tech",129140.3333
+Bethesda,"Education (Higher Education)",41050.0000
+Bethesda,"Engineering or Manufacturing",60000.0000
+Bethesda,"Government and Public Administration",87404.6667
+Bethesda,"Health care",176350.0000
+Bethesda,Law,195000.0000
+Bethesda,"Media & Digital",61.0000
+Bethesda,Nonprofits,95000.0000
+Bethesda,"Science academia",65000.0000
+Bethesda,"Scientific Research",32500.0000
+"Bethesda ","Business or Consulting",250000.0000
+"Bethesda ","Government and Public Administration",155000.0000
+"Bethesda ","Hospitality & Events",137000.0000
+"Bethesda ",Retail,60.0000
+"Bethesda MD","Computing or Tech",135000.0000
+"Bethesda MD","Government and Public Administration",76000.0000
+Bethlehem,"Education (Higher Education)",65125.0000
+Bethlehem,"Engineering or Manufacturing",70000.0000
+Bethlehem,"Health care",69000.0000
+Bethlehem,"Marketing, Advertising & PR",65000.0000
+Bethlehem,"Utilities & Telecommunications",92700.0000
+"Bethlehem ","Computing or Tech",65000.0000
+"Bethlehem ","Education (Higher Education)",54000.0000
+"Bethlehem ","Recruitment or HR",147000.0000
+"Bethlehem, PA","Utilities & Telecommunications",47090.0000
+"Bettendorf ","Social Work",45150.0000
+"Beverly Hills",Retail,44200.0000
+"Beverly Hills ","Health care",65000.0000
+Biddeford,"Education (Higher Education)",42000.0000
+Biddeford,Retail,36400.0000
+"BIG BEAR CITY","Government and Public Administration",185700.0000
+Bigfork,"Accounting, Banking & Finance",62088.0000
+bilbao,"Business or Consulting",51.0000
+"Billingham ",Pharmaceuticals,38600.0000
+Billings,"Accounting, Banking & Finance",34840.0000
+Billings,"Government and Public Administration",53040.0000
+Billings,"Health care",172000.0000
+Billings,"Marketing, Advertising & PR",45000.0000
+"Billings ","Environmental sciences",42000.0000
+Binghamton,"Education (Higher Education)",80000.0000
+Binghamton,"Education (Primary/Secondary)",63000.0000
+Birmingham,"Accounting, Banking & Finance",77987.5000
+Birmingham,"Art & Design",54.0000
+birmingham,"Business or Consulting",59000.0000
+Birmingham,"Computing or Tech",55250.0000
+Birmingham,"Data Analytics",55000.0000
+Birmingham,Edtech,27000.0000
+Birmingham,"Education (Higher Education)",45532.7500
+Birmingham,"Engineering or Manufacturing",60750.0000
+Birmingham,"Government and Public Administration",34116.6667
+Birmingham,Insurance,33600.0000
+Birmingham,Law,49000.0000
+Birmingham,"Marketing, Advertising & PR",52500.0000
+Birmingham,"Media & Digital",37388.0000
+Birmingham,Nonprofits,38398.0000
+Birmingham,"Utilities & Telecommunications",33500.0000
+"Birmingham ","Computing or Tech",60000.0000
+"Birmingham ","Education (Higher Education)",44363.5000
+"Birmingham ","Engineering or Manufacturing",30000.0000
+"Birmingham ","Government and Public Administration",27500.0000
+"Birmingham ",Insurance,45000.0000
+"Birmingham ",Law,180000.0000
+"Birmingham ","Marketing, Advertising & PR",44500.0000
+"Birmingham ",Nonprofits,37200.0000
+"Birmingham ",Retail,44666.6667
+"Birmingham ","STEM medical research",40000.0000
+"Birmingham UK ","Computing or Tech",156000.0000
+"Birmingham, AL","Health care",78000.0000
+"Birmingham, AL","Marketing, Advertising & PR",55000.0000
+"Birmingham, AL",Nonprofits,71000.0000
+"Birmingham, England","Education (Primary/Secondary)",23541.0000
+"Birmingham, England","Health care",18642.0000
+"Birmingham, UK","Accounting, Banking & Finance",61000.0000
+Bishop,"Engineering or Manufacturing",74000.0000
+"Bishop ","Health care",118268.0000
+Bismarck,environmental,87880.0000
+Bismarck,"Government and Public Administration",61032.0000
+Bismarck,"Health care",72000.0000
+Blacksburg,"Computing or Tech",160000.0000
+Blacksburg,"Education (Higher Education)",45000.0000
+Blacksburg,"Health care",80000.0000
+Blacksburg,"Hospitality & Events",35000.0000
+Blaine,"Engineering or Manufacturing",85000.0000
+Bloomfield,"Business or Consulting",70000.0000
+Bloomfield,Nonprofits,50000.0000
+"Bloomfield Hills","Architecture ",53000.0000
+"Blooming Prairie","Engineering or Manufacturing",42500.0000
+Bloomington,"Accounting, Banking & Finance",110000.0000
+Bloomington,"Art & Design",67000.0000
+Bloomington,"Computing or Tech",95000.0000
+Bloomington,"Educ tech",42000.0000
+Bloomington,"Education (Higher Education)",44228.5714
+Bloomington,"Educational Technology - hybrid between book publishing and technology really",67000.0000
+Bloomington,"Engineering or Manufacturing",57845.0000
+Bloomington,"Government and Public Administration",91000.0000
+Bloomington,"Health care",80439.6667
+Bloomington,Insurance,80556.2000
+Bloomington,"Marketing, Advertising & PR",54075.0000
+Bloomington,Pharmaceutical,50000.0000
+Bloomington,"Property or Construction",38000.0000
+Bloomington,"Recruitment or HR",40000.0000
+Bloomington,Retail,86000.0000
+"Bloomington ","Accounting, Banking & Finance",60000.0000
+"Bloomington ","Architect ",96000.0000
+"Bloomington ","Computing or Tech",74000.0000
+"Bloomington ","Education (Higher Education)",55000.0000
+"Bloomington ",Entertainment,111300.0000
+"Bloomington ",Insurance,101500.0000
+"Bloomington ",Library,70000.0000
+"Bloomington ","Utilities & Telecommunications",71000.0000
+"Bloomington, IL","Education (Higher Education)",48000.0000
+"Bloomington, IN",Libraries,42000.0000
+"Blue Bell","Health care",75000.0000
+"Blue Bell",Insurance,74000.0000
+Bluffdale,Retail,56000.0000
+Bluffton,"Education (Primary/Secondary)",54000.0000
+"Boca Chica","Engineering or Manufacturing",76000.0000
+"Boca Raton","Accounting, Banking & Finance",96642.0000
+"Boca Raton","Computing or Tech",165000.0000
+"Boca Raton","Recruitment or HR",125000.0000
+"Boca Raton","Social Work",43000.0000
+"Boca Raton ","Library (its a non-profit and its a govt job - how would I list that? Not all libraries are govt jobs)",41394.0000
+"Boerne ",Retail,23920.0000
+Bogota,"Oil & Gas",25000.0000
+"Bogotá ","Accounting, Banking & Finance",15000.0000
+Boise,"Accounting, Banking & Finance",54700.0000
+Boise,"Agriculture or Forestry",88950.0000
+Boise,"Computing or Tech",119666.6667
+Boise,"Education (Higher Education)",94500.0000
+Boise,"Education (Primary/Secondary)",53500.0000
+Boise,"Government and Public Administration",55120.0000
+Boise,"Health care",126575.0000
+Boise,Insurance,91000.0000
+Boise,"Landscape Contracting",47840.0000
+Boise,"Library ",48000.0000
+Boise,"Media & Digital",47000.0000
+Boise,Nonprofits,56769.0000
+Boise,Retail,119000.0000
+Boise,"Utilities & Telecommunications",64303.0000
+"Boise ","Computing or Tech",124930.0000
+"Boise-but remote. Company located in Boston ","Computing or Tech",144000.0000
+Bolingbrook,"Engineering or Manufacturing",60000.0000
+Bolivar,"Education (Higher Education)",44000.0000
+"Bolton ","Engineering or Manufacturing",30000.0000
+"Bonita Springs","Accounting, Banking & Finance",60000.0000
+Bonn,"Computing or Tech",58000.0000
+Bonn,"Utilities & Telecommunications",101000.0000
+Bordeaux,"Computing or Tech",94000.0000
+Bordeaux,Law,41303.0000
+Boron,"Mining/Resource Extraction",74568.0000
+Boston,"Accounting, Banking & Finance",109767.1111
+Boston,"Agriculture or Forestry",174400.0000
+Boston,"Art & Design",75061.8182
+Boston,"Beer sales",60000.0000
+Boston,"Bio tech",107250.0000
+Boston,Biopharma,132000.0000
+Boston,Biotech,132600.0000
+Boston,"Biotech / Research",100000.0000
+Boston,Biotech/Pharma,107000.0000
+Boston,Biotech/pharmaceuticals,222000.0000
+Boston,Biotechnology,108500.0000
+Boston,"Business or Consulting",114161.2903
+Boston,"Computing or Tech",148591.6929
+Boston,"Cultural Heritage",60500.0000
+Boston,E-Commerce,61800.0000
+Boston,"Education (Higher Education)",76456.9538
+Boston,"Education (Primary/Secondary)",70420.5000
+Boston,"Engineering or Manufacturing",115354.6000
+Boston,Fundraising,53000.0000
+Boston,"Government and Public Administration",87105.5333
+Boston,"Health care",102877.1778
+Boston,"I have two jobs. Marketing / Business ",135000.0000
+Boston,Insurance,102509.3750
+Boston,Law,120556.1379
+Boston,"Law Enforcement & Security",49000.0000
+Boston,"Leisure, Sport & Tourism",253000.0000
+Boston,Libraries,65000.0000
+Boston,"Life Sciences",50000.0000
+Boston,"Marketing, Advertising & PR",95176.4706
+Boston,"Media & Digital",78672.2222
+Boston,"Medical Research",43000.0000
+Boston,Nonprofits,83943.0175
+Boston,Pharma,131000.0000
+Boston,Pharma/Biotech,151500.0000
+Boston,Pharmaceutical,135000.0000
+Boston,"Pharmaceutical ",185000.0000
+Boston,"Pharmaceutical Development",230000.0000
+Boston,"Pharmaceutical research",90000.0000
+Boston,"Pharmaceuticals ",160000.0000
+Boston,Pharmacuticals,160000.0000
+Boston,"Property or Construction",89583.3333
+Boston,"Public health in higher education",67000.0000
+Boston,"Public Health- state level",71989.0000
+Boston,"Public Library",63000.0000
+Boston,publishing,71116.6667
+Boston,"Recruitment or HR",93103.8462
+Boston,"Renewable Energy",71000.0000
+Boston,"Renewable Energy Development",170000.0000
+Boston,Research,68681.0000
+Boston,"Research Scientist, Pharma",175000.0000
+Boston,Retail,92500.0000
+Boston,Saas,89000.0000
+Boston,Sales,146750.0000
+Boston,Scientist,103500.0000
+Boston,"Social Work",62333.3333
+Boston,"Software Products",115000.0000
+Boston,"Transport or Logistics",74000.0000
+Boston,"Urban Planning",82500.0000
+Boston,"Utilities & Telecommunications",104737.7500
+"Boston ","Accounting, Banking & Finance",133825.2000
+"Boston ","Art & Design",49000.0000
+"Boston ","Business or Consulting",136666.6667
+"Boston ","Computing or Tech",124400.0000
+"Boston ","Engineering or Manufacturing",90600.0000
+"Boston ","Health care",138244.4444
+"Boston ",Insurance,125000.0000
+"Boston ",Law,300000.0000
+"Boston ","Marketing, Advertising & PR",99500.0000
+"Boston ",Nonprofits,80000.0000
+"Boston ","Pharma/biotechnology ",104500.0000
+"Boston ","Recruitment or HR",48000.0000
+"Boston ",Sales,70000.0000
+"Boston ","Social Work",58500.0000
+"Boston (greater Boston metro area)","Computing or Tech",144000.0000
+"Boston (Somerville specifically)",Sales,55000.0000
+"Boston (suburb)","Computing or Tech",200000.0000
+"Boston Area","Biotech ",105000.0000
+"Boston Area","Computing or Tech",111575.5000
+"Boston area","Government and Public Administration",95000.0000
+"Boston area",Law,54000.0000
+"Boston area","Marketing, Advertising & PR",115000.0000
+"Boston area",Nonprofits,72000.0000
+"Boston Area",Retail,75000.0000
+"Boston area","Utilities & Telecommunications",121500.0000
+"Boston MA","Church ministry",55000.0000
+"Boston Massachusetts","Social Work",68000.0000
+"Boston Metro",Law,235186.0000
+"Boston metro ","Health care",82500.0000
+"Boston Metro area","Computing or Tech",180000.0000
+"Boston Metro Area","Engineering or Manufacturing",149074.0000
+"Boston Suburb",Law,78000.0000
+"Boston suburbs","Education (Primary/Secondary)",54000.0000
+"Boston suburbs",Library,70000.0000
+"Boston, MA","Business or Consulting",82000.0000
+"Boston, MA","Computing or Tech",160000.0000
+"Boston, MA",Law,85000.0000
+"Boston, MA","Media & Digital",85000.0000
+"Boston, MA",Nonprofits,53500.0000
+"Boston, MA",Pharma,147000.0000
+"Boston, MA",Sales,104722.0000
+"Boston(ish) ","Leisure, Sport & Tourism",45000.0000
+Boston/Cambridge,"Computing or Tech",62400.0000
+Bothell,Biotech/Pharma,145000.0000
+Bothell,"Computing or Tech",143600.0000
+Bothell,"Health care",110000.0000
+Bothell,"Leisure, Sport & Tourism",36962.0000
+Boulder,"Accounting, Banking & Finance",54000.0000
+Boulder,"Art & Design",70000.0000
+Boulder,"Business or Consulting",67075.0000
+Boulder,Cannabis,65000.0000
+Boulder,"Computing or Tech",175694.1176
+Boulder,"Education (Higher Education)",60000.0000
+Boulder,"Engineering or Manufacturing",117000.0000
+Boulder,"Health care",50000.0000
+Boulder,Library,74000.0000
+Boulder,"Marketing, Advertising & PR",168000.0000
+Boulder,Nonprofits,88625.0000
+Boulder,"Pharmaceutical manufacturing",64200.0000
+Boulder,"Physical sciences",103000.0000
+Boulder,Publishing,63000.0000
+Boulder,Retail,88750.0000
+Boulder,"Science publishing",103000.0000
+"Boulder ",Retail,62666.6667
+"Boulder but we are remote",Nonprofits,162000.0000
+"Boulder City","Utilities & Telecommunications",73330.0000
+Bournemouth,"Computing or Tech",49500.0000
+Bournemouth,"Health care",30000.0000
+"Bowling Green","Education (Higher Education)",76000.0000
+"Bowling Green","Engineering or Manufacturing",113000.0000
+"Bowling Green","Real estate services",47500.0000
+"Bowling Green",Software,78000.0000
+Boxborough,"Engineering or Manufacturing",160000.0000
+"Boynton Beach","Accounting, Banking & Finance",33200.0000
+"Boynton Beach",Law,93000.0000
+Bozeman,"Accounting, Banking & Finance",69916.0000
+Bozeman,"Computing or Tech",90000.0000
+Bozeman,"Education (Higher Education)",35140.0000
+Bozeman,"Government and Public Administration",46000.0000
+Bozeman,"Leisure, Sport & Tourism",75000.0000
+Bozeman,Nonprofits,35360.0000
+"Bozeman, MT","Marketing, Advertising & PR",185000.0000
+Bracknell,Research,40000.0000
+Bradenton,"Computing or Tech",160000.0000
+Bradenton,"Education (Primary/Secondary)",44631.6667
+Bradenton,"Public Library",44500.0000
+Bradford,"Health care",72000.0000
+"Bradford ","Education (Primary/Secondary)",39000.0000
+Braine,pharma,65000.0000
+Brambleton,"Health care",40000.0000
+Brampton,"Government and Public Administration",62000.0000
+Brampton,"Recruitment or HR",57000.0000
+Branchburg,"Property or Construction",156800.0000
+Brandon,Retail,27000.0000
+Branford,Pharmaceutical,43000.0000
+Branford,"Pharmaceutical ",43000.0000
+Brantford,"Engineering or Manufacturing",101000.0000
+Bratislava,"Computing or Tech",140000.0000
+Brattleboro,"Aerospace and Defense Manufacturing",60000.0000
+Brattleboro,Nonprofits,43800.0000
+Braunschweig,"Computing or Tech",58000.0000
+"Braunschweig ","Computing or Tech",45000.0000
+Brea,"Transport or Logistics",67000.0000
+Bremen,"Business or Consulting",82000.0000
+Bremerhaven,"Health care",54870.0000
+Bremerton,"Education (Higher Education)",60000.0000
+Bremerton,"Government and Public Administration",107670.0000
+Brentwood,"Education (Primary/Secondary)",55232.0000
+Brentwood,"Health care",114000.0000
+"Brentwood ","Accounting, Banking & Finance",78000.0000
+"Brentwood ",Retail,30000.0000
+Brewster,"Marketing, Advertising & PR",135400.0000
+Brick,"Accounting, Banking & Finance",77776.0000
+Bridgend,"Health care",150000.0000
+Bridgeport,"Health care",139000.0000
+Bridgeport,Insurance,155000.0000
+Bridgewater,"Education (Higher Education)",39000.0000
+Bridgewater,"Marketing, Advertising & PR",130000.0000
+"Bridgewater ","Health care",175000.0000
+"Bridgewater, NJ","Computing or Tech",62000.0000
+"Brigham City","Engineering or Manufacturing",74000.0000
+Brighton,"Accounting, Banking & Finance",57000.0000
+Brighton,"Business or Consulting",66850.0000
+Brighton,"Computing or Tech",51500.0000
+Brighton,Digital,42860.0000
+Brighton,"Education (Higher Education)",55000.0000
+Brighton,"Engineering or Manufacturing",52200.0000
+Brighton,"Health care",30807.5000
+Brighton,"Leisure, Sport & Tourism",23000.0000
+Brighton,"Marketing, Advertising & PR",22676.0000
+Brighton,"Media & Digital",37500.0000
+Brighton,"Transport or Logistics",51000.0000
+"Brighton & Hove","Marketing, Advertising & PR",34500.0000
+"Brighton, MI","Environmental Consulting",52000.0000
+Brisbane,"Accounting, Banking & Finance",73673.3333
+Brisbane,"Agriculture or Forestry",90000.0000
+Brisbane,"Computing or Tech",112600.0000
+Brisbane,"Education (Higher Education)",103500.0000
+Brisbane,"Engineering or Manufacturing",115850.0000
+Brisbane,Entertainment,55000.0000
+Brisbane,"Government and Public Administration",105862.0000
+Brisbane,"Health care",98000.0000
+Brisbane,"Hospitality & Events",32000.0000
+Brisbane,Law,215000.0000
+Brisbane,"Marketing, Advertising & PR",63200.0000
+Brisbane,"Media & Digital",140000.0000
+Brisbane,"Mining and natural resources",200000.0000
+Brisbane,Nonprofits,85000.0000
+Brisbane,Sales,43313.0000
+Brisbane,"Transport or Logistics",100000.0000
+"Brisbane ","Computing or Tech",89000.0000
+"Brisbane ","Education (Higher Education)",104000.0000
+"Brisbane ","Government and Public Administration",106000.0000
+"Brisbane ",Law,70000.0000
+"Brisbane ","medical research ",69000.0000
+"Brisbane ",Retail,85000.0000
+"Brisbane, Queensland",Environment,730000.0000
+Bristol,"Accounting, Banking & Finance",42000.0000
+Bristol,"Business or Consulting",55000.0000
+Bristol,"Computing or Tech",54947.5000
+Bristol,"Engineering or Manufacturing",60000.0000
+Bristol,Entertainment,83500.0000
+Bristol,"Government and Public Administration",42839.0000
+Bristol,"Health care",19797.0000
+Bristol,"Law Enforcement & Security",24870.0000
+Bristol,Manufacturing,89000.0000
+Bristol,"Marketing, Advertising & PR",200000.0000
+Bristol,Nonprofits,101983.3333
+Bristol,"Not for profit education consultancy",36700.0000
+Bristol,"Property or Construction",27000.0000
+Bristol,"Transport or Logistics",55.0000
+"Bristol ","Accounting, Banking & Finance",24000.0000
+"Bristol ","Government and Public Administration",36000.0000
+"Bristol ","Health care",98000.0000
+"Bristol ",Nonprofits,35208.0000
+"Bristol UK","Computing or Tech",25881.0000
+"Bristol, UK","Government and Public Administration",39000.0000
+Bristow,"Healthcare IT",106080.0000
+"British columbia","Agriculture or Forestry",68500.0000
+"British Columbia","Government and Public Administration",80000.0000
+"British Columbia (not a city, but I am rural)",Nonprofits,65000.0000
+"British Columbia (Province)","Education (Higher Education)",106469.0000
+Brittany,"Transport or Logistics",24000.0000
+Brno,"Computing or Tech",1300000.0000
+Brockton,"Engineering or Manufacturing",79600.0000
+Brockville,"Public Library",47000.0000
+"Broken Arrow","Computing or Tech",32747.0000
+"Broken Arrow","Engineering or Manufacturing",37638.0000
+"Broken Arrow",Entertainment,40500.0000
+"Broken Arrow ","Restaurant ",38000.0000
+Bronx,"Computing or Tech",65000.0000
+Bronx,"Education (Higher Education)",85000.0000
+Bronx,Law,89470.0000
+Bronx,"Social Work",67500.0000
+Brookfield,"Computing or Tech",120000.0000
+Brookfield,Nonprofits,60000.0000
+Brookline,Nonprofits,67500.0000
+Brooklyn,"Accounting, Banking & Finance",150000.0000
+Brooklyn,"Art & Design",79900.0000
+Brooklyn,"Business or Consulting",90000.0000
+Brooklyn,"Computing or Tech",133466.6667
+Brooklyn,"Education (Higher Education)",115500.0000
+Brooklyn,"Education (Primary/Secondary)",96300.0000
+Brooklyn,Entertainment,200000.0000
+Brooklyn,"Government and Public Administration",114000.0000
+Brooklyn,"Health care",153500.0000
+Brooklyn,Law,103000.0000
+Brooklyn,"Librarian ",58000.0000
+Brooklyn,"Marketing, Advertising & PR",125000.0000
+Brooklyn,"Media & Digital",128500.0000
+Brooklyn,Nonprofits,66500.0000
+Brooklyn,"Property or Construction",45000.0000
+Brooklyn,Retail,58589.5000
+Brooklyn,"Social Work",61000.0000
+Brooklyn,"Supply Chain",98736.0000
+"Brooklyn ","Business or Consulting",87550.0000
+"Brooklyn ","Education (Higher Education)",115000.0000
+"Brooklyn ","Education (Primary/Secondary)",89000.0000
+"Brooklyn ","Fashion/e-commerce ",58500.0000
+"Brooklyn ",Law,81000.0000
+"Brooklyn ",Nonprofits,120000.0000
+"Brooklyn ","Professional services / architecture ",78000.0000
+"Brooklyn (WFH)","Computing or Tech",70000.0000
+"Brooklyn Park","Engineering or Manufacturing",110000.0000
+"Brooklyn Park, MN","Health care",96000.0000
+Brookston,"Education (Primary/Secondary)",38083.0000
+"Brooksville ","Government and Public Administration",80000.0000
+Brookville,"Engineering or Manufacturing",38000.0000
+Broomfield,"Accounting, Banking & Finance",55325.0000
+Broomfield,"Computing or Tech",102500.0000
+Broomfield,"Engineering or Manufacturing",72200.0000
+Broomfield,"Recruitment or HR",86500.0000
+"Broomfield ","Computing or Tech",190000.0000
+Brownsville,"Education (Primary/Secondary)",48475.0000
+Brunswick,"Property or Construction",55000.0000
+Brunswick,"Sales operations",75000.0000
+Brussel,"Computing or Tech",70000.0000
+Brussels,"Accounting, Banking & Finance",114333.3333
+Brussels,"Business or Consulting",40000.0000
+Brussels,"Computing or Tech",79833.3333
+Brussels,"Education (Primary/Secondary)",60000.0000
+Brussels,"Government and Public Administration",48333.3333
+Brussels,"Health care",170000.0000
+Brussels,Nonprofits,24550.0000
+"Brussels ",Unknown,32400.0000
+"Bryn Mawr","Health care",97000.0000
+Bucharest,"Computing or Tech",8600.0000
+Bucharest,"Engineering or Manufacturing",80000.0000
+Buckhannon,"Education (Primary/Secondary)",39820.0000
+"Buckinghamshire ","Education (Primary/Secondary)",29420.0000
+Budapest,"Computing or Tech",69241.0000
+"Buenos Aires","Accounting, Banking & Finance",845000.0000
+"Buenos Aires","Government and Public Administration",780000.0000
+Buffalo,"Accounting, Banking & Finance",49316.0000
+Buffalo,"Beauty Manufacturing & Education ",35360.0000
+buffalo,"Computing or Tech",72500.0000
+Buffalo,"Education (Higher Education)",85857.2500
+Buffalo,"Engineering or Manufacturing",100666.6667
+Buffalo,"Government and Public Administration",80000.0000
+Buffalo,"Government Contracting R&D",100000.0000
+Buffalo,"Health care",60500.0000
+Buffalo,"Hospitality & Events",40000.0000
+Buffalo,Law,57000.0000
+Buffalo,"Marketing, Advertising & PR",51500.0000
+Buffalo,"Media & Digital",95000.0000
+Buffalo,Nonprofits,57448.4000
+Buffalo,"Recruitment or HR",75500.0000
+Buffalo,"Social Work",37000.0000
+"Buffalo ","Accounting, Banking & Finance",77666.6667
+"Buffalo ","Recruitment or HR",95000.0000
+"Buffalo Grove","Property or Construction",50000.0000
+"Buffalo, NY",Insurance,100000.0000
+Buford,"Accounting, Banking & Finance",250000.0000
+burbank,"Accounting, Banking & Finance",89900.0000
+Burbank,"Computing or Tech",172000.0000
+Burbank,"Engineering or Manufacturing",70000.0000
+Burbank,Entertainment,171500.0000
+Burbank,"Health care",31000.0000
+Burbank,"Media & Digital",135200.0000
+Burleson,"Education (Primary/Secondary)",72500.0000
+"Burlingame ","Health care",56000.0000
+Burlington,"Accounting, Banking & Finance",52000.0000
+Burlington,"Business or Consulting",125000.0000
+Burlington,"Computing or Tech",129312.5000
+Burlington,"Education (Higher Education)",33000.0000
+Burlington,"Education (Primary/Secondary)",99635.5000
+Burlington,"Engineering or Manufacturing",115000.0000
+Burlington,"Government and Public Administration",77800.0000
+Burlington,"Health care",72000.0000
+Burlington,"International Development",101900.0000
+Burlington,"Marketing, Advertising & PR",71333.3333
+Burlington,"Media & Digital",98000.0000
+Burlington,"Medical Devices",91155.0000
+Burlington,"Mining & Mineral Processing",55000.0000
+Burlington,Nonprofits,48886.0000
+Burlington,"Recruitment or HR",130000.0000
+Burlington,Retail,32420.0000
+Burlington,"Social Work",95000.0000
+Burlington,"Utilities & Telecommunications",120000.0000
+"Burlington ","Business or Consulting",49120.0000
+"Burlington ","Food processing and packaging",84000.0000
+"Burlington ","Social Work",51000.0000
+"Burlington, MA","Computing or Tech",100000.0000
+Burly,Nonprofits,68571.0000
+Burnaby,"Accounting, Banking & Finance",90100.0000
+"Burnaby BC","Utilities & Telecommunications",63000.0000
+Butler,"Education (Primary/Secondary)",23337.0000
+Calgary,"Accounting, Banking & Finance",105142.8571
+Calgary,"Business or Consulting",80000.0000
+Calgary,"Computing or Tech",110447.8000
+Calgary,"Education (Higher Education)",57369.5000
+Calgary,"Education (Primary/Secondary)",92000.0000
+Calgary,Energy,185000.0000
+Calgary,"Engineering or Manufacturing",80811.1111
+Calgary,"Environment - Oil and Gas",124800.0000
+Calgary,"Government and Public Administration",106900.0000
+Calgary,"Health care",86500.0000
+Calgary,"Hospitality & Events",49000.0000
+Calgary,Insurance,89000.0000
+Calgary,Law,65020.0000
+Calgary,"Marketing, Advertising & PR",95000.0000
+Calgary,Nonprofits,79400.0000
+Calgary,"Oil & Gas",160000.0000
+Calgary,"Oil and gas",125000.0000
+Calgary,"Recruitment or HR",80000.0000
+Calgary,Retail,35000.0000
+Calgary,Sales,52200.0000
+Calgary,"Social Work",53500.0000
+Calgary,"Trades (Supply Chain) Oil and Gas",91160.0000
+Calgary,"Transport or Logistics",93875.0000
+Calgary,"Utilities & Telecommunications",98625.0000
+"Calgary ","Engineering or Manufacturing",112320.0000
+"Calgary ",Sales,100000.0000
+"Calgary AB","Engineering or Manufacturing",52500.0000
+"Calgary Alberta",Nonprofits,54080.0000
+"Calgary, AB","Accounting, Banking & Finance",47000.0000
+"Calgary, AB",Law,48000.0000
+"Calgary, Alberta","Computing or Tech",135000.0000
+"Calhoun, GA","Engineering or Manufacturing",56000.0000
+Camarillo,"Engineering or Manufacturing",107000.0000
+"Camarillo ","Engineering or Manufacturing",77000.0000
+Cambridge,"Accounting, Banking & Finance",68500.0000
+Cambridge,"Art & Design",65300.0000
+Cambridge,"Biological Sciences",78000.0000
+Cambridge,"Biomedical Research",120000.0000
+Cambridge,Biopharma,121000.0000
+Cambridge,Biotech,117560.4000
+Cambridge,Biotech/pharma,120500.0000
+Cambridge,Biotechnology,76500.0000
+Cambridge,"Business or Consulting",95500.0000
+Cambridge,"Computing or Tech",129978.3256
+Cambridge,"Contract Research",105000.0000
+Cambridge,"Education (Higher Education)",74107.4000
+Cambridge,"Education (Primary/Secondary)",75000.0000
+Cambridge,"Engineering or Manufacturing",64775.0000
+Cambridge,Entertainment,55000.0000
+Cambridge,"Government and Public Administration",107000.0000
+Cambridge,"Health care",119210.4444
+Cambridge,Law,91142.6667
+Cambridge,"Marketing, Advertising & PR",79000.0000
+Cambridge,"Media & Digital",43850.0000
+Cambridge,Nonprofits,78978.5714
+Cambridge,"Pharma research",180000.0000
+Cambridge,Pharmaceutical,113000.0000
+Cambridge,Pharmaceutical/biotechnology,227500.0000
+Cambridge,Pharmaceuticals/Biotechnology,194000.0000
+Cambridge,PhD,19000.0000
+Cambridge,"Property or Construction",76500.0000
+Cambridge,Publishing,75500.0000
+Cambridge,"Recruitment or HR",115000.0000
+Cambridge,"Research ",54000.0000
+Cambridge,"Research and Development",162500.0000
+Cambridge,"Science research",82000.0000
+"Cambridge ","Accounting, Banking & Finance",27825.0000
+"Cambridge ","Biotech ",123000.0000
+"Cambridge ","Biotechnology ",187416.6667
+"Cambridge ","Computing or Tech",137500.0000
+"Cambridge ","Education (Higher Education)",98666.6667
+"Cambridge ","Engineering or Manufacturing",78000.0000
+"Cambridge ","Entrepreneur high net worth ",46000.0000
+"Cambridge ","Health care",97000.0000
+"Cambridge ",Law,225000.0000
+"Cambridge ",Pharmaceutical/Biotech,160000.0000
+"Cambridge ",Retail,20000.0000
+"Cambridge ","Social Work",20800.0000
+"Cambridge (Boston metro area)",Nonprofits,70000.0000
+"Cambridge MA","Education (Higher Education)",86000.0000
+"Cambridge, MA",biotech,110000.0000
+"Cambridge, MA","Biotech/Drug Development",90000.0000
+"Cambridge, MA","Computing or Tech",114944.0000
+"Cambridge, MA","Education (Higher Education)",51800.8000
+"Cambridge, Massachusetts","Computing or Tech",118000.0000
+"Cambridge, ON","Accounting, Banking & Finance",80340.0000
+"Cambridge, ON","Health care",74500.0000
+"Cambridge, Ontario","Engineering or Manufacturing",93000.0000
+"Cambridge, Ontario",Insurance,52260.0000
+"Cambridge, UK","Engineering or Manufacturing",43750.0000
+Cambridge/Boston,Biotech/Pharma,190000.0000
+Camden,"Accounting, Banking & Finance",75000.0000
+Camden,Communications,76500.0000
+Camden,"Computing or Tech",93500.0000
+Camden,"Education (Primary/Secondary)",103000.0000
+"Camp hill","Computing or Tech",73000.0000
+"Camp Hill","Health Insurance ",72000.0000
+"Camp Verde","Government and Public Administration",32000.0000
+"Campbell River ","Agriculture or Forestry",72100.0000
+"can't say",Retail,35000.0000
+"Can't share","Education (Higher Education)",50000.0000
+Canada,"Engineering or Manufacturing",86000.0000
+"Canada ","Property or Construction",70000.0000
+Canberra,"Accounting, Banking & Finance",166400.0000
+Canberra,"Business or Consulting",125000.0000
+Canberra,"Computing or Tech",190000.0000
+Canberra,Construction,116000.0000
+Canberra,"Education (Higher Education)",135100.0000
+Canberra,"Government and Public Administration",124274.8750
+Canberra,Law,75000.0000
+Canberra,Research,86158.0000
+Canberra,Retail,60000.0000
+"Canberra ","Business or Consulting",186000.0000
+"Canbridge, UK",Pharmaceuticals,38800.0000
+Cannock,"Engineering or Manufacturing",31594.0000
+Canton,"Accounting, Banking & Finance",67500.0000
+Canton,"Auto Mfg.",104000.0000
+Canton,"Computing or Tech",70960.0000
+Canton,"Education (Higher Education)",65000.0000
+Canton,"Engineering or Manufacturing",75000.0000
+Canton,Law,45000.0000
+Canton,"Property or Construction",38000.0000
+"Cape Canaveral","Engineering or Manufacturing",75000.0000
+"Cape Cod region","oceanography research",45000.0000
+"Cape Girardeau ","Accounting, Banking & Finance",52500.0000
+"Cape Town","Business or Consulting",276000.0000
+"Cape Town","Computing or Tech",462000.0000
+"Cape Town","Media & Digital",543000.0000
+"Cape Town ","Computing or Tech",78000.0000
+Carbondale,"Health care",46800.0000
+Cardiff,"Business or Consulting",30500.0000
+Cardiff,"Computing or Tech",77000.0000
+Cardiff,"Engineering or Manufacturing",38500.0000
+Cardiff,"Government and Public Administration",36097.5000
+Cardiff,"Hospitality & Events",42000.0000
+Cardiff,"Recruitment or HR",28000.0000
+Cardiff,"Transport or Logistics",30300.0000
+"Cardiff ","Accounting, Banking & Finance",32500.0000
+Cardington,"Accounting, Banking & Finance",30000.0000
+Carlisle,"Accounting, Banking & Finance",10500.0000
+"Carlisle ","Accounting, Banking & Finance",27500.0000
+Carlsbad,"Accounting, Banking & Finance",62400.0000
+Carlsbad,"Business or Consulting",69000.0000
+Carlsbad,"Computing or Tech",112250.0000
+Carmel,"Government and Public Administration",65000.0000
+Carmel,"Hospitality & Events",59000.0000
+"Carmel, Indiana","Engineering or Manufacturing",70000.0000
+Carpinteria,"Accounting, Banking & Finance",50000.0000
+Carpinteria,Manufacturing,54538.0000
+Carrollton,"Education (Higher Education)",66000.0000
+Carrollton,"Engineering or Manufacturing",51000.0000
+Carrollton,"Health care",55120.0000
+"Carson City","Government and Public Administration",70754.7500
+"Carson City",Law,99250.0000
+"Carson City","Marketing, Advertising & PR",45000.0000
+"Cartersville ",Nonprofits,39000.0000
+"Cartersville GA","Auto Repair",50000.0000
+Cary,"Accounting, Banking & Finance",95000.0000
+Cary,"Computing or Tech",97142.8571
+Cary,"Health care",111000.0000
+Cary,"Marketing, Advertising & PR",95000.0000
+Cary,"Media & Digital",53500.0000
+Cary,Retail,47736.0000
+"Cary, NC","Health care",38000.0000
+Casper,"Education (Primary/Secondary)",78000.0000
+Castlegar,"Utilities & Telecommunications",110000.0000
+Caterham,Insurance,39140.0000
+CDA,Insurance,47000.0000
+"Cedar Grove, NJ","Health care",64147.0000
+"Cedar Rapids","Accounting, Banking & Finance",50614.0000
+"Cedar Rapids","Computing or Tech",126000.0000
+"cedar rapids","Engineering or Manufacturing",96500.0000
+"Cedar rapids","Government and Public Administration",105000.0000
+"Cedar Rapids","Hospitality & Events",40040.0000
+"Cedar Rapids","Internal Communications",100800.0000
+"Cedar Rapids","Media & Digital",43680.0000
+"Cedar Rapids",Nonprofits,74000.0000
+"Cedar Rapids",Retail,38000.0000
+"Cedar Rapids ","Computing or Tech",142000.0000
+"Cedar Rapids ",Nonprofits,37000.0000
+Cedarhurst,"Media & Digital",96200.0000
+Celina,"Education (Primary/Secondary)",46000.0000
+Centennial,"Property or Construction",60000.0000
+Centennial,"Utilities & Telecommunications",62000.0000
+"Centennial ",Law,42800.0000
+Center,Retail,32448.0000
+"Central IL","Education (Higher Education)",50000.0000
+"Central IL","Health care",49000.0000
+"Central Illinois","Accounting, Banking & Finance",115000.0000
+"Central KY","Public Libraries",62000.0000
+"Central Maine","Education (Higher Education)",44000.0000
+"central nj",Nonprofits,93000.0000
+"Central NY","Education (Higher Education)",59713.0000
+"Central PA","Engineering or Manufacturing",61000.0000
+"Central PA",Insurance,53000.0000
+"Central Qld","Engineering or Manufacturing",110000.0000
+"Central Valley","Education (Higher Education)",99000.0000
+"Central Virginia","Education (Higher Education)",56000.0000
+"Central Virginia",Nonprofits,98000.0000
+Centralia,"Agriculture or Forestry",72000.0000
+Centreville,"Computing or Tech",72000.0000
+Cerritos,"Restaurant ",29120.0000
+CFL,"Government and Public Administration",48000.0000
+Chambersburg,"Education (Higher Education)",1000.0000
+Champaign,"Accounting, Banking & Finance",36075.0000
+Champaign,"Computing or Tech",82000.0000
+Champaign,"Education (Higher Education)",56373.0000
+Champaign,"Engineering or Manufacturing",100000.0000
+Champaign,"Government and Public Administration",65160.0000
+Champaign,"Health care",71000.0000
+Champaign,Insurance,48500.0000
+Champaign,"Marketing, Advertising & PR",25012.0000
+Champaign,"Property or Construction",105000.0000
+"Champaign Area","Agriculture or Forestry",66000.0000
+"Champaign Urbana","Education (Higher Education)",55000.0000
+Champaign-Urbana,"Education (Higher Education)",53000.0000
+"Champaign, IL","Education (Higher Education)",18500.0000
+Chandler,"Accounting, Banking & Finance",55000.0000
+Chandler,"Computing or Tech",71000.0000
+Chandler,"Engineering or Manufacturing",114500.0000
+Chandler,"Health care",37440.0000
+Chandler,"Recruitment or HR",98000.0000
+Chandler,Retail,69500.0000
+Chanhassen,"Computing or Tech",85000.0000
+Chanhassen,"Marketing, Advertising & PR",77250.0000
+Chanhassen,"Media & Digital",72800.0000
+Chantilly,"Computing or Tech",168500.0000
+Chantilly,"Engineering or Manufacturing",83500.0000
+Chantilly,Nonprofits,58650.0000
+Chantilly,"Recruitment or HR",116600.0000
+Chantilly,Sales,103000.0000
+"Chantilly, VA",Nonprofits,55000.0000
+"Chapel Hill","Accounting, Banking & Finance",70025.0000
+"Chapel Hill","clinical trials research coordination",44000.0000
+"Chapel Hill","Computing or Tech",140962.5000
+"Chapel Hill","Education (Higher Education)",73224.9000
+"Chapel Hill","Health care",63000.0000
+"Chapel Hill","Media & Digital",68900.0000
+"Chapel Hill",Nonprofits,62550.0000
+"Chapel Hill",Sales,50003.0000
+"Chapel Hill","Utilities & Telecommunications",140000.0000
+Charleston,"Accounting, Banking & Finance",45000.0000
+Charleston,"Business or Consulting",121000.0000
+Charleston,"Defense Contracting",95000.0000
+Charleston,"Education (Primary/Secondary)",37500.0000
+Charleston,"Engineering or Manufacturing",70000.0000
+Charleston,Entertainment,250000.0000
+Charleston,"Government and Public Administration",73512.0000
+Charleston,"Hospitality & Events",56250.0000
+Charleston,Manufacturing,77000.0000
+Charleston,"Marketing, Advertising & PR",45000.0000
+Charleston,"Property or Construction",52000.0000
+Charleston,Retail,34017.5000
+Charleston,"Veterinary care",36000.0000
+"Charleston ","Education (Higher Education)",41600.0000
+"Charleston ","Government and Public Administration",33534.0000
+"Charleston ",Nonprofits,27000.0000
+"Charleston area",Nonprofits,65000.0000
+Charlestown,"Grocery delivery",50000.0000
+"Charlestown (Boston)","Engineering or Manufacturing",75000.0000
+Charlotte,"Accounting, Banking & Finance",89366.6667
+Charlotte,"Agriculture or Forestry",150000.0000
+Charlotte,"Art & Design",32000.0000
+Charlotte,"Business or Consulting",106000.0000
+Charlotte,"Commercial Real Estate",64250.0000
+Charlotte,"Computing or Tech",115537.7500
+Charlotte,"Education (Higher Education)",65250.0000
+Charlotte,"Education (Primary/Secondary)",68000.0000
+Charlotte,"Engineering or Manufacturing",96900.0000
+Charlotte,"Government and Public Administration",53500.0000
+Charlotte,"Health care",73848.3333
+Charlotte,"I work in the finance function of a large global conglomerate",90000.0000
+Charlotte,Insurance,66520.0000
+Charlotte,Law,147000.0000
+Charlotte,Library,69665.0000
+Charlotte,Library--public,81916.0000
+charlotte,"Manufacturing ",72000.0000
+Charlotte,"Marketing, Advertising & PR",88000.0000
+Charlotte,"Media & Digital",140000.0000
+Charlotte,Nonprofits,78300.0000
+Charlotte,"Print / Mail",87000.0000
+Charlotte,"Property or Construction",94000.0000
+Charlotte,"Real Estate",40000.0000
+Charlotte,"Recruitment or HR",91000.0000
+Charlotte,Retail,93600.0000
+Charlotte,"Utilities & Telecommunications",46000.0000
+"Charlotte ","Accounting, Banking & Finance",116666.6667
+"Charlotte ","Education (Higher Education)",92000.0000
+"Charlotte ","Health care",93000.0000
+"Charlotte ","Hospitality & Events",59800.0000
+"Charlotte ",Law,56750.0000
+"Charlotte ",Nonprofits,85000.0000
+"Charlotte ",Unknown,74000.0000
+"Charlotte ","User Experience Design",140000.0000
+"Charlotte ","Utilities & Telecommunications",105000.0000
+"Charlotte area ","Government and Public Administration",75000.0000
+Charlottesville,"Accounting, Banking & Finance",75700.0000
+Charlottesville,"Computing or Tech",113910.5000
+Charlottesville,"Education (Higher Education)",57750.0000
+Charlottesville,"Education (Primary/Secondary)",47612.0000
+Charlottesville,"Engineering or Manufacturing",67000.0000
+charlottesville,"Health care",56149.0000
+Charlottesville,"Hospitality & Events",50180.0000
+Charlottesville,"Marketing, Advertising & PR",124800.0000
+Charlottesville,"Recruitment or HR",93000.0000
+Charlottesville,Research,43000.0000
+Charlottesville,Science,54000.0000
+Charlottesville,"Utilities & Telecommunications",57000.0000
+Charlottesville,Veterinary,227000.0000
+"Charlottesville ","Accounting, Banking & Finance",120000.0000
+"Charlottesville ","Business or Consulting",39000.0000
+"Charlottesville ","Education (Higher Education)",45000.0000
+"Charlottesville ","Health care",93000.0000
+"Charlottesville ",Nonprofits,78000.0000
+"Charlottesville ","Property or Construction",56000.0000
+"Charlottesville ","Science/government ",110500.0000
+Charlottetown,"Education (Higher Education)",114000.0000
+Charlottetown,"Government and Public Administration",102500.0000
+Charlottetown,"Hospitality & Events",40000.0000
+Charlton,"Health care",85000.0000
+Chaska,"Engineering or Manufacturing",117000.0000
+Chatham,"Marketing, Advertising & PR",400000.0000
+Chatham,"Property or Construction",60000.0000
+Chatsworth,"Consumer Goods",130000.0000
+Chattanooga,"Accounting, Banking & Finance",77000.0000
+Chattanooga,"Art & Design",67000.0000
+Chattanooga,"Computing or Tech",129245.0000
+Chattanooga,"Education (Higher Education)",67000.0000
+Chattanooga,"Education (Primary/Secondary)",65000.0000
+Chattanooga,"Health care",93000.0000
+Chattanooga,Insurance,75333.3333
+Chattanooga,Law,123666.6667
+Chattanooga,"Marketing, Advertising & PR",55000.0000
+Chattanooga,Nonprofits,40881.0000
+Chattanooga,"Transport or Logistics",66000.0000
+Chattanooga,"Utilities & Telecommunications",82275.0000
+"Chattanooga ",Insurance,155500.0000
+"Chehalis ","Business or Consulting",105000.0000
+Chelmsford,"Education (Primary/Secondary)",74000.0000
+Chelmsford,"Engineering or Manufacturing",96000.0000
+Chelmsford,Insurance,58500.0000
+Chelmsford,"Utilities & Telecommunications",50000.0000
+Chelsea,"Hospitality & Events",135000.0000
+Chelsea,Nonprofits,49939.0000
+Cheltenham,"Computing or Tech",38300.0000
+Cheltenham,"Education (Higher Education)",61000.0000
+Chennai,"Education (Primary/Secondary)",60000.0000
+chennai,"Marketing, Advertising & PR",4740.0000
+"Cherry Hill","Accounting, Banking & Finance",186000.0000
+"Cherry Hill","Education (Primary/Secondary)",44800.0000
+"Cherry Hill",Libraries,51300.0000
+"Cherry Hill","Recruitment or HR",70000.0000
+"Cherry Hill","Sales ",76000.0000
+"Cherry hill",Unknown,140000.0000
+"Cherry Hill ",Retail,40000.0000
+"Cherry Hill, NJ","Computing or Tech",60000.0000
+Chesapeake,"Government and Public Administration",77000.0000
+CHESAPEAKE,"Government Contracting",123000.0000
+Chesapeake,"Health care",135000.0000
+Chesapeake,Law,110000.0000
+Cheshire,"Engineering or Manufacturing",74200.0000
+Cheshire,"Health care",85000.0000
+Chester,"Chemical Manufacturing",47902.0000
+Chester,"Education (Higher Education)",42000.0000
+Chester,"Education (Primary/Secondary)",47000.0000
+Chester,"Engineering or Manufacturing",125000.0000
+Chester,"Health care",45000.0000
+Chester,Nonprofits,92000.0000
+"Chester County","Accounting, Banking & Finance",133000.0000
+"Chester Springs, PA","Health care",136000.0000
+Chesterbrook,"Computing or Tech",69000.0000
+Chesterfield,"Education (Primary/Secondary)",32448.0000
+Chesterfield,Nonprofits,27640.0000
+Chesterfield,Retail,75660.0000
+"Chesterfield ","Health care",50336.0000
+"Chesterfield, MI",Retail,33280.0000
+Chestertown,"Education (Higher Education)",43860.0000
+"Chestnut Hill","Education (Higher Education)",64000.0000
+"Chestnut Hill","Education (Primary/Secondary)",97000.0000
+"Chevy Chase","Computing or Tech",175000.0000
+"Chevy Chase",Insurance,82000.0000
+Cheyenne,"Education (Primary/Secondary)",90000.0000
+Cheyenne,"Public library",81000.0000
+"Cheyenne, Wy","State DOT",45000.0000
+Chicacgo,"Art & Design",40000.0000
+Chicago,"Academic Medicine ",55000.0000
+Chicago,"Accounting, Banking & Finance",118912.8571
+Chicago,"Aerospace ",107000.0000
+Chicago,"Architectural/Land Planning/Civil Engineering",53500.0000
+Chicago,Architecture,65000.0000
+Chicago,"Art & Design",69857.1429
+Chicago,"Business or Consulting",110195.7576
+Chicago,"Commercial Real Estate",105000.0000
+Chicago,"Computing or Tech",126462.6729
+Chicago,"consumer product design",117000.0000
+Chicago,"Consumer Products design ",69000.0000
+Chicago,"Customer Service",55000.0000
+Chicago,Eap,73000.0000
+Chicago,"Editor in educational publishing",49000.0000
+Chicago,"Education (Higher Education)",76755.0000
+Chicago,"Education (Primary/Secondary)",82585.4545
+Chicago,"Educational Research",56000.0000
+Chicago,"Engineering or Manufacturing",107548.5000
+Chicago,Entertainment,93000.0000
+Chicago,"Food and Flavor",104000.0000
+Chicago,Gambling,66820.0000
+Chicago,"Gaming (Gambling)",72000.0000
+Chicago,"Government and Public Administration",85352.6471
+Chicago,"Health care",109573.5517
+Chicago,"Hospitality & Events",302250.0000
+Chicago,Insurance,102939.4783
+Chicago,Law,158172.4242
+Chicago,"Legal Services",98500.0000
+Chicago,"Leisure, Sport & Tourism",59324.6667
+Chicago,Libraries,61000.0000
+Chicago,Library,48900.0000
+Chicago,Manufacturing,84000.0000
+Chicago,"Marketing, Advertising & PR",91544.7442
+Chicago,"Media & Digital",70429.5789
+Chicago,Museum,87000.0000
+Chicago,Nonprofits,73964.2286
+Chicago,"Pharmaceutical R&D",119000.0000
+Chicago,Politics,64000.0000
+Chicago,"Property or Construction",92710.0000
+Chicago,Publishing,97000.0000
+Chicago,"Real estate",55350.0000
+Chicago,"Real estate valuation",62000.0000
+Chicago,"Recruitment or HR",90225.0000
+Chicago,"Renewable Energy",75000.0000
+Chicago,"Research and Development, Food and Beverage ",50000.0000
+Chicago,Retail,82000.0000
+Chicago,"Retail real estate",67000.0000
+Chicago,Sales,90111.1111
+Chicago,"Scientific Research",34000.0000
+Chicago,"Social Work",47428.5714
+Chicago,"Transport or Logistics",69774.1667
+Chicago,Unknown,87500.0000
+Chicago,"Utilities & Telecommunications",89142.8571
+"Chicago ","Accounting, Banking & Finance",74750.0000
+"Chicago ","Architecture ",108000.0000
+"Chicago ","Art & Design",38000.0000
+"Chicago ","Business or Consulting",103000.0000
+"Chicago ","Computing or Tech",140500.0000
+"Chicago ","Education (Higher Education)",64750.0000
+"Chicago ","Government and Public Administration",106000.0000
+"Chicago ","Health care",65750.0000
+"Chicago ",Insurance,94772.5000
+"Chicago ","Labor Union",70000.0000
+"Chicago ",Law,66666.6667
+"Chicago ","Marketing, Advertising & PR",105000.0000
+"Chicago ","Media & Digital",75000.0000
+"Chicago ",Mining,59000.0000
+"Chicago ",Nonprofits,69000.0000
+"Chicago ",Purchasing,86200.0000
+"Chicago ","Real Estate/ Mortgage ",47008.0000
+"Chicago ","Recruitment or HR",44750.0000
+"Chicago ",Retail,84000.0000
+"Chicago ","Shared office space",48000.0000
+"Chicago ","Transport or Logistics",83366.6667
+"Chicago ","Utilities & Telecommunications",101000.0000
+"Chicago -remote position though ",Insurance,47500.0000
+"Chicago (but distributed workplace)","Media & Digital",140000.0000
+"Chicago (remote) ","Computing or Tech",110000.0000
+"Chicago (suburbs)",Library,69000.0000
+"Chicago / FT Remote","Computing or Tech",130000.0000
+"Chicago area","Engineering or Manufacturing",136843.0000
+"Chicago Area","Environmental/Cultural Resource Management",48500.0000
+"Chicago area","Government and Public Administration",21250.0000
+"Chicago but the company is remote","Computing or Tech",65000.0000
+"Chicago metro","Government and Public Administration",38000.0000
+"Chicago suburbs","Accounting, Banking & Finance",76950.0000
+"Chicago suburbs","Business or Consulting",87500.0000
+"Chicago Suburbs","Computing or Tech",55000.0000
+"Chicago Suburbs","Education (Higher Education)",67500.0000
+"Chicago Suburbs","Education services (tutoring)",100000.0000
+"Chicago suburbs","Engineering or Manufacturing",106000.0000
+"Chicago suburbs","Government and Public Administration",90000.0000
+"Chicago suburbs","Health care",138000.0000
+"Chicago suburbs",Law,80000.0000
+"Chicago Suburbs","Recruitment or HR",78500.0000
+"Chicago, IL","Computing or Tech",117750.0000
+"Chicago, IL",Nonprofits,47000.0000
+"Chicago, IL",Retail,72000.0000
+"Chicago, IL ","Education (Higher Education)",51500.0000
+"Chicago, IL (but I work remotely) ","Education start-up",93600.0000
+"Chicago/Deerfield (two offices)","Accounting, Banking & Finance",46280.0000
+Chicagoland,"Government and Public Administration",73000.0000
+Chicagoland,Insurance,47425.0000
+Chicagoland,"Law Enforcement & Security",76500.0000
+Chickasha,"Education (Higher Education)",25500.0000
+Chico,"Business or Consulting",67000.0000
+Chico,"Education (Higher Education)",52000.0000
+Chico,"Government and Public Administration",130660.0000
+Chico,Retail,39520.0000
+Chicopee,"Education (Higher Education)",15000.0000
+Chicopee,"Health care",147147.0000
+Chilliwack,"Law Enforcement & Security",75000.0000
+Chilliwack,"Marketing, Advertising & PR",83000.0000
+"Chilliwack ","Engineering or Manufacturing",63000.0000
+"Chilliwack, BC","Engineering or Manufacturing",112000.0000
+"China Lake","Government and Public Administration",136716.0000
+Chirk,"Engineering or Manufacturing",30000.0000
+Chomutov,Retail,233160.0000
+"choose not to answer","Computing or Tech",124000.0000
+Christchurch,"Education (Higher Education)",75608.0000
+Christchurch,"Government and Public Administration",93000.0000
+Christchurch,"Health care",54000.0000
+Christchurch,Nonprofits,58500.0000
+Christchurch,"Transport or Logistics",86000.0000
+"Christchurch ","Engineering or Manufacturing",77250.0000
+"Christchurch ",Nonprofits,79000.0000
+"Chula Vista","Education (Primary/Secondary)",54000.0000
+"Church Hill","Education (Primary/Secondary)",62000.0000
+Cincinatti,"Engineering or Manufacturing",94350.0000
+Cincinnati,"Accounting, Banking & Finance",83988.5714
+Cincinnati,"Art & Design",62400.0000
+Cincinnati,"Business or Consulting",83493.3333
+Cincinnati,"Computing or Tech",100870.0000
+Cincinnati,Construction,60000.0000
+Cincinnati,"Consumer Research",97000.0000
+Cincinnati,"Education (Higher Education)",58525.0000
+Cincinnati,"Education (Primary/Secondary)",59885.0000
+Cincinnati,"Engineering or Manufacturing",76687.5000
+Cincinnati,"Government and Public Administration",57500.0000
+Cincinnati,"Government Contractor",100000.0000
+Cincinnati,"Health care",70131.8750
+Cincinnati,"Hospitality & Events",47500.0000
+Cincinnati,Insurance,140000.0000
+Cincinnati,Law,100000.0000
+Cincinnati,"Marketing, Advertising & PR",57810.0000
+Cincinnati,"Media & Digital",56000.0000
+Cincinnati,Pharmaceuticals,83000.0000
+Cincinnati,"Property or Construction",41638.0000
+Cincinnati,"Recruitment or HR",91500.0000
+Cincinnati,Retail,84500.0000
+Cincinnati,Sales,64500.0000
+Cincinnati,"Social Work",35360.0000
+Cincinnati,"Utilities & Telecommunications",86078.0000
+"Cincinnati ","Accounting, Banking & Finance",112000.0000
+"Cincinnati ","Business or Consulting",56000.0000
+"Cincinnati ","Education (Higher Education)",81000.0000
+"Cincinnati ","Government and Public Administration",42000.0000
+"Cincinnati ","Health care",120000.0000
+"Cincinnati ",Insurance,73000.0000
+"Cincinnati ","Manufacturing ",78500.0000
+"Cincinnati ","Marketing, Advertising & PR",185000.0000
+"Cincinnati ","Media & Digital",260000.0000
+"Cincinnati ","Property or Construction",66000.0000
+"Cincinnati ","Recruitment or HR",80000.0000
+"Cincinnati ","Research & Development ",65000.0000
+"Cincinnati, OH","Engineering or Manufacturing",123000.0000
+"Cincinnati, OH","Health care",107900.0000
+"Cincinnati, OH",Law,101000.0000
+"Cincinnati, Ohio",Insurance,180000.0000
+City,"Hospitality & Events",150000.0000
+"city in Middle Georgia ","Education (Higher Education)",54000.0000
+"City is too identifiable, state of NRW","Education (Higher Education)",45506.0000
+"City of Buenos Aires","Health care",1080000.0000
+"Ciudad de Panamá","Accounting, Banking & Finance",27600.0000
+Claremont,"Education (Higher Education)",75000.0000
+Claremont,"Education (Primary/Secondary)",53000.0000
+Clarksburg,"Computing or Tech",116500.0000
+Clarksburg,"Education (Higher Education)",47500.0000
+"Clarksville ","Government and Public Administration",72000.0000
+Clayton,Insurance,61000.0000
+Clearfield,"Computing or Tech",94000.0000
+Clearwater,"Health care",66000.0000
+Clemson,"Computing or Tech",79000.0000
+"Clemson ","Education (Higher Education)",63000.0000
+Clermont,"Beverage & Spirits",103000.0000
+Cleveland,"Accounting, Banking & Finance",77451.2500
+Cleveland,"Aerospace/Aviation ",90000.0000
+Cleveland,"Business or Consulting",141025.0000
+Cleveland,"Computing or Tech",111136.3636
+Cleveland,"Education (Higher Education)",53232.2500
+Cleveland,"Education (Primary/Secondary)",81866.6667
+Cleveland,"Engineering or Manufacturing",87475.0000
+Cleveland,Entertainment,42000.0000
+Cleveland,"Environment, health, and safety",70000.0000
+Cleveland,"Environmental Science",65000.0000
+Cleveland,"Government and Public Administration",114900.0000
+Cleveland,"Health care",116250.0000
+Cleveland,"Hospitality & Events",29500.0000
+Cleveland,Insurance,92525.0000
+Cleveland,Law,132785.7143
+Cleveland,"Leisure, Sport & Tourism",120000.0000
+Cleveland,"Marketing, Advertising & PR",66330.0000
+Cleveland,"Medical Communications",130000.0000
+Cleveland,Nonprofits,57242.5000
+Cleveland,"Professional Public Librarian",34500.0000
+Cleveland,"Property or Construction",64666.6667
+Cleveland,"Real World Evidence (data for pharma research)",181290.0000
+Cleveland,"Recruitment or HR",60500.0000
+Cleveland,"Research & Development",75000.0000
+Cleveland,Retail,93500.0000
+Cleveland,Sales,145500.0000
+Cleveland,"Science (Laboratory)",59000.0000
+Cleveland,Unknown,68000.0000
+"Cleveland ","Business or Consulting",60000.0000
+"Cleveland ","Computing or Tech",510000.0000
+"Cleveland ","Education (Higher Education)",53000.0000
+"Cleveland ","Food & Beverages",55000.0000
+"Cleveland ","Government and Public Administration",70000.0000
+"Cleveland ","Health care",222000.0000
+"Cleveland ",Insurance,101500.0000
+"Cleveland ",Law,60500.0000
+"Cleveland ","LIBRARIES ",43000.0000
+"Cleveland ","Marketing, Advertising & PR",105000.0000
+"Cleveland ",Nonprofits,50000.0000
+"Cleveland ",Sales,480000.0000
+"Cleveland ","Social Work",37620.0000
+"Cleveland Area","Education (Higher Education)",75000.0000
+"Cleveland, Ohio","Computing or Tech",75000.0000
+"Cleveland, Ohio","Government and Public Administration",77895.0000
+"Clifton Park","Accounting, Banking & Finance",59500.0000
+Clinton,"Animal Health",72000.0000
+Clinton,"Animal Health Product Manufacturing",75000.0000
+"Clinton Township","Computing or Tech",46170.0000
+Cloquet,Law,40664.0000
+"Cluj-Napoca ","Business or Consulting",24000.0000
+Cobourg,"Government and Public Administration",63826.0000
+"Coconut creek","Marketing, Advertising & PR",88500.0000
+cody,"Accounting, Banking & Finance",55120.0000
+"Coeur d Alene","Computing or Tech",82000.0000
+"Coeur d'Alene","Accounting, Banking & Finance",60000.0000
+"Coeur d'Alene","Health care",66000.0000
+"Coeur d’Alene","Health care",36000.0000
+"Cold Spring, NY","Agriculture or Forestry",55000.0000
+"College Park","Education (Higher Education)",86265.6000
+"College Park","Government and Public Administration",151000.0000
+"College Park","Hospitality & Events",51800.0000
+"College Station","Education (Higher Education)",79000.0000
+"College Station","Recruitment or HR",52000.0000
+Collegeville,"Pharmaceuticals R&D",106000.0000
+"Collegeville ","Pharmaceutical research ",120000.0000
+Collinsville,"Health care",85000.0000
+"Collinsville ","Accounting, Banking & Finance",60200.0000
+Cologne,"Business or Consulting",48000.0000
+Cologne,"Computing or Tech",88000.0000
+Cologne,Insurance,70000.0000
+Colorado,"Health care",151257.0000
+"Colorado Springs","Accounting, Banking & Finance",93000.0000
+"Colorado Springs","Aerospace and Defense/Government Contracting",52000.0000
+"Colorado Springs","Aerospace contracting",122000.0000
+"Colorado Springs","Computing or Tech",97611.1111
+"Colorado Springs","Education (Higher Education)",64000.0000
+"Colorado Springs","Education (Primary/Secondary)",60000.0000
+"Colorado Springs","Engineering or Manufacturing",81038.0000
+"Colorado Springs","Government and Public Administration",58666.6667
+"Colorado Springs","Marketing, Advertising & PR",27000.0000

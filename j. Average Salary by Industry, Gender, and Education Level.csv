@@ -1,0 +1,1689 @@
+Industry,Gender,Education_Level,Average_Salary
+" Buyer",Woman,"Some college",76650.0000
+Academia,Man,PhD,56400.0000
+Academia,Woman,PhD,25400.0000
+"Academia ",Woman,PhD,15000.0000
+"Academia / Research",Woman,"Master's degree",68500.0000
+"Academia--cell and molecular biology",Woman,PhD,48000.0000
+"Academic Medicine ",Man,"College degree",55000.0000
+"Academic publishing",Woman,"Master's degree",73000.0000
+"Academic Publishing",Woman,"College degree",64250.0000
+"academic research",Man,PhD,80000.0000
+"academic research",Woman,PhD,64000.0000
+"Academic research",Woman,"Master's degree",52166.6667
+"Academic research (Psychology)",Woman,"College degree",36883.0000
+"Academic science",Woman,PhD,50000.0000
+"Academic science",Woman,"Master's degree",37000.0000
+"Academic Science ",Non-binary,PhD,40322.0000
+"Academic/nonprofit research",Woman,"College degree",37440.0000
+accessibility,Non-binary,"Master's degree",4000.0000
+Accessibility,Woman,"College degree",74000.0000
+"Accounting, Banking & Finance",Man,PhD,206000.0000
+"Accounting, Banking & Finance",Man,"Professional degree (MD, JD, etc.)",132400.0000
+"Accounting, Banking & Finance",Man,"Master's degree",125635.1282
+"Accounting, Banking & Finance",Man,"Some college",106451.8966
+"Accounting, Banking & Finance",Man,"College degree",101689.6224
+"Accounting, Banking & Finance",Man,"High School",98910.5556
+"Accounting, Banking & Finance",Man,Unknown,85000.0000
+"Accounting, Banking & Finance",Non-binary,"High School",1694166.6667
+"Accounting, Banking & Finance",Non-binary,"Some college",60375.0000
+"Accounting, Banking & Finance",Non-binary,"College degree",54781.1111
+"Accounting, Banking & Finance",Non-binary,"Master's degree",54000.0000
+"Accounting, Banking & Finance","Other or prefer not to answer","Professional degree (MD, JD, etc.)",128500.0000
+"Accounting, Banking & Finance","Other or prefer not to answer","College degree",107000.0000
+"Accounting, Banking & Finance","Other or prefer not to answer","Master's degree",95771.4286
+"Accounting, Banking & Finance","Other or prefer not to answer",Unknown,30.0000
+"Accounting, Banking & Finance",Unknown,Unknown,145000.0000
+"Accounting, Banking & Finance",Unknown,"Master's degree",136800.0000
+"Accounting, Banking & Finance",Unknown,"College degree",96000.0000
+"Accounting, Banking & Finance",Woman,Unknown,193314.2857
+"Accounting, Banking & Finance",Woman,"Professional degree (MD, JD, etc.)",120872.8750
+"Accounting, Banking & Finance",Woman,PhD,109777.7778
+"Accounting, Banking & Finance",Woman,"Master's degree",99514.4351
+"Accounting, Banking & Finance",Woman,"College degree",83689.5312
+"Accounting, Banking & Finance",Woman,"Some college",63155.6887
+"Accounting, Banking & Finance",Woman,"High School",60089.4828
+Actuarial,Woman,"College degree",41000.0000
+Administration,Woman,"College degree",40000.0000
+"Administration ",Woman,"College degree",30000.0000
+"Administration (food service)",Woman,"College degree",29120.0000
+"Administration in MLM",Woman,"Some college",42000.0000
+"Administration, IT",Woman,"College degree",63300.0000
+"Administrative ",Woman,"Some college",35360.0000
+"Administrative Support",Woman,"Some college",67558.0000
+"Administrative Work",Woman,"College degree",51000.0000
+"Adult education",Woman,"College degree",35568.0000
+Aerospace,Man,"Master's degree",155000.0000
+Aerospace,Woman,"College degree",82500.0000
+"Aerospace ",Woman,"College degree",107000.0000
+"Aerospace & Defense",Woman,"College degree",128000.0000
+"Aerospace and Defense",Woman,"College degree",78750.0000
+"Aerospace and Defense Manufacturing",Woman,"College degree",60000.0000
+"Aerospace and Defense/Government Contracting",Woman,"College degree",52000.0000
+"Aerospace contracting",Woman,"Master's degree",122000.0000
+"aerospace data",Woman,"Master's degree",57000.0000
+"Aerospace/Aviation ",Woman,"Master's degree",90000.0000
+"Affordable Housing Real Estate Development (nonprofit)",Woman,"Master's degree",144200.0000
+"Agriculture or Forestry",Man,"High School",140000.0000
+"Agriculture or Forestry",Man,"College degree",81058.7500
+"Agriculture or Forestry",Man,"Some college",38056.5000
+"Agriculture or Forestry",Non-binary,PhD,500000.0000
+"Agriculture or Forestry",Non-binary,"Some college",484151.5000
+"Agriculture or Forestry",Non-binary,"College degree",66200.0000
+"Agriculture or Forestry",Non-binary,"Master's degree",41000.0000
+"Agriculture or Forestry","Other or prefer not to answer","College degree",77550.0000
+"Agriculture or Forestry","Other or prefer not to answer","Some college",26000.0000
+"Agriculture or Forestry","Prefer not to answer",PhD,88000.0000
+"Agriculture or Forestry",Woman,"High School",91800.0000
+"Agriculture or Forestry",Woman,PhD,91658.8889
+"Agriculture or Forestry",Woman,"Master's degree",79183.0909
+"Agriculture or Forestry",Woman,"College degree",65688.5366
+"Agriculture or Forestry",Woman,"Some college",42988.5556
+"Agriculture/Agriculture Chemical ",Man,"College degree",91112.0000
+Airline,Woman,"College degree",80000.0000
+"Analytical Chemistry",Woman,"College degree",56000.0000
+"Analytical lab",Woman,"College degree",30368.0000
+Analytics,Woman,"Master's degree",162000.0000
+"Animal Care",Woman,"College degree",32244.5000
+"Animal Caretaker",Woman,"Some college",72800.0000
+"Animal Health",Woman,"College degree",72000.0000
+"Animal health industry",Woman,"College degree",127000.0000
+"Animal Health Product Manufacturing",Woman,"College degree",75000.0000
+"Animal welfare",Woman,"College degree",82908.0000
+Animation,Woman,"College degree",79000.0000
+Apparel,Woman,"College degree",60000.0000
+"Apparel ",Woman,"Master's degree",125000.0000
+"apparel design/product development ",Woman,"College degree",52000.0000
+"Apparel manufacture",Woman,"Master's degree",66000.0000
+Archaeologist,Man,"College degree",48000.0000
+Archaeology,Woman,"Master's degree",55000.0000
+"Archaeology / Cultural Resource Management",Woman,"Master's degree",79000.0000
+"Archaeology/Cultural Resource Manager","Other or prefer not to answer","Master's degree",110000.0000
+Architect,Woman,"College degree",94500.0000
+"Architect ",Woman,"College degree",96000.0000
+"Architectural/Land Planning/Civil Engineering",Woman,"College degree",53500.0000
+Architecture,Man,"College degree",58000.0000
+Architecture,Non-binary,"College degree",53000.0000
+Architecture,Woman,"Professional degree (MD, JD, etc.)",96333.3333
+Architecture,Woman,"Master's degree",88500.0000
+architecture,Woman,"College degree",77155.0000
+"Architecture ",Woman,"College degree",72333.3333
+"Architecture / Engineering",Woman,"College degree",62860.0000
+"Architecture & Construction",Woman,"Master's degree",75000.0000
+"Architecture, Engineering, Construction",Man,"Master's degree",150000.0000
+Architecture/Construction,Woman,"Master's degree",77400.0000
+Archives,Woman,"College degree",97282.0000
+Archives,Woman,"Master's degree",52000.0000
+Archives,Woman,PhD,40322.0000
+"Archives ",Woman,"Master's degree",67000.0000
+"Art & Design",Man,"Some college",113485.0000
+"Art & Design",Man,"Master's degree",80442.8571
+"Art & Design",Man,"College degree",75920.7407
+"Art & Design",Man,"High School",52166.6667
+"Art & Design",Non-binary,"Some college",69860.0000
+"Art & Design",Non-binary,"College degree",61053.0000
+"Art & Design","Other or prefer not to answer","College degree",63666.6667
+"Art & Design","Other or prefer not to answer","High School",28000.0000
+"Art & Design",Unknown,"Master's degree",100000.0000
+"Art & Design",Woman,"Master's degree",78726.1667
+"Art & Design",Woman,"College degree",78299.1654
+"Art & Design",Woman,"Some college",74000.0000
+"Art & Design",Woman,"Professional degree (MD, JD, etc.)",60000.0000
+"Art & Design",Woman,PhD,37500.0000
+"Art & Design",Woman,Unknown,54.0000
+"Arts Administration ",Woman,"College degree",61000.0000
+"Arts, Culture and Heritage",Woman,"College degree",27030.0000
+Association,Woman,"College degree",67000.0000
+"Association Management ",Woman,"College degree",49000.0000
+"Auction House",Woman,"Master's degree",20000.0000
+"Auto Mfg.",Man,"Some college",104000.0000
+"Auto Repair",Man,"Some college",50000.0000
+"auto repair",Non-binary,"Master's degree",31200.0000
+Automotive,Man,"Master's degree",51500.0000
+Automotive,Woman,PhD,229500.0000
+Automotive,Woman,"Master's degree",105000.0000
+Automotive,Woman,"College degree",95375.0000
+"Automotive ",Man,"High School",75000.0000
+"Automotive ",Woman,"College degree",97000.0000
+"Automotive finance and insurance",Woman,"College degree",87500.0000
+"Automotive Repair",Woman,"Some college",39520.0000
+"Automotive repair",Woman,"Master's degree",31200.0000
+"Automotive technician",Man,"High School",49000.0000
+"Automtive Repair",Woman,"High School",50000.0000
+Aviation,Man,"High School",28700.0000
+aviation,Woman,"Master's degree",75000.0000
+Aviation,Woman,"College degree",52400.0000
+"B2B Services ",Woman,"Some college",115000.0000
+"Background Screening",Woman,"College degree",69000.0000
+Beauty,Woman,"College degree",85000.0000
+"Beauty /CPG ",Woman,"Master's degree",131000.0000
+"Beauty Manufacturing & Education ",Woman,"College degree",35360.0000
+"Beauty, Cosmetics, Fragrance",Woman,"College degree",105000.0000
+"Beauty/service industry ",Woman,"Some college",72800.0000
+"Beer sales",Man,"College degree",60000.0000
+"Behavior analysis/mental health",Woman,"Master's degree",90000.0000
+"Benefits Administration",Man,"College degree",108000.0000
+"Benefits Administration",Woman,"College degree",89000.0000
+Beverage,Woman,"Master's degree",67000.0000
+"Beverage & Spirits",Woman,"Master's degree",103000.0000
+"Beverage Distribution",Woman,"Some college",40000.0000
+"Beverage Production",Man,"College degree",52600.0000
+"Big Pharma",Woman,PhD,220000.0000
+"Bio tech",Woman,"College degree",107250.0000
+"Bioinformatics ",Woman,"Master's degree",110000.0000
+"biological research",Woman,PhD,36364.0000
+"Biological Sciences",Woman,"College degree",78000.0000
+Biology,Man,"Some college",29000.0000
+Biology/Research,Non-binary,"Master's degree",40000.0000
+"Biomedical Research",Man,PhD,112500.0000
+"Biomedical Research",Woman,PhD,67142.5000
+"Biomedical Research",Woman,"College degree",66250.0000
+"Biomedical research",Woman,"Master's degree",58333.3333
+Biopharma,Man,"College degree",114000.0000
+Biopharma,Woman,"Master's degree",175000.0000
+Biopharma,Woman,"College degree",103000.0000
+Biopharmaceuticals,Woman,"Master's degree",150000.0000
+"Bioscience Company",Woman,"College degree",47500.0000
+Biotech,Man,"Some college",225000.0000
+Biotech,Man,PhD,147500.0000
+Biotech,Man,"Master's degree",65000.0000
+Biotech,Man,"College degree",36400.0000
+Biotech,Non-binary,"Master's degree",86000.0000
+Biotech,Woman,PhD,125359.0909
+Biotech,Woman,"High School",107000.0000
+biotech,Woman,"Master's degree",106825.1667
+Biotech,Woman,"College degree",82874.6429
+"Biotech ",Man,"College degree",105000.0000
+"Biotech ",Woman,"College degree",123000.0000
+"Biotech (R&D) ",Woman,PhD,556200.0000
+"Biotech / life sciences ",Woman,"College degree",196000.0000
+"Biotech / Pharmaceutical Industry",Woman,"Master's degree",160000.0000
+"Biotech / Research",Man,"Master's degree",100000.0000
+"Biotech industry",Unknown,"Master's degree",215250.0000
+"Biotech manufacturing",Woman,"College degree",92000.0000
+"Biotech pharmaceuticals",Woman,"College degree",116300.0000
+"Biotech R&D",Woman,"College degree",130000.0000
+"Biotech Research",Woman,"Master's degree",48500.0000
+"Biotech research ",Woman,"Master's degree",112000.0000
+"Biotech/Drug Development",Woman,"College degree",90000.0000
+"Biotech/Food Safety",Man,"College degree",66089.0000
+Biotech/Pharma,Man,PhD,130000.0000
+Biotech/Pharma,Man,"Master's degree",81000.0000
+Biotech/Pharma,Woman,"Master's degree",141000.0000
+Biotech/pharma,Woman,PhD,138400.0000
+Biotech/Pharma,Woman,"College degree",134500.0000
+Biotech/pharmaceuticals,Woman,"Some college",222000.0000
+Biotech/Pharmaceuticals,Woman,PhD,90000.0000
+"Biotech/pharmaceuticals ",Man,"College degree",227000.0000
+"Biotech/pharmaceuticals ",Woman,PhD,156000.0000
+Biotechnology,Man,"Master's degree",108800.0000
+Biotechnology,Man,"College degree",66500.0000
+Biotechnology,Non-binary,"College degree",49000.0000
+Biotechnology,Woman,PhD,88900.0000
+Biotechnology,Woman,"College degree",87400.0000
+"Biotechnology ",Woman,"College degree",155500.0000
+"Biotechnology ",Woman,PhD,132250.0000
+Bitech,Woman,"College degree",175000.0000
+"Book Publishing",Woman,"College degree",55000.0000
+"Book Publishing",Woman,"Master's degree",47033.3333
+"Brain research ",Woman,"College degree",28000.0000
+Brewing,Man,"College degree",57000.0000
+"Business or Consulting",Man,"Professional degree (MD, JD, etc.)",185533.3333
+"Business or Consulting",Man,"Master's degree",161360.5769
+"Business or Consulting",Man,PhD,150000.0000
+"Business or Consulting",Man,"Some college",122034.2857
+"Business or Consulting",Man,"College degree",117014.0469
+"Business or Consulting",Man,"High School",54253.3333
+"Business or Consulting",Non-binary,PhD,112000.0000
+"Business or Consulting",Non-binary,"Master's degree",109000.0000
+"Business or Consulting",Non-binary,"College degree",60122.8571
+"Business or Consulting",Non-binary,"Some college",24000.0000
+"Business or Consulting","Other or prefer not to answer","Professional degree (MD, JD, etc.)",175000.0000
+"Business or Consulting","Other or prefer not to answer","Master's degree",90000.0000
+"Business or Consulting","Other or prefer not to answer","College degree",82780.0000
+"Business or Consulting",Unknown,"Professional degree (MD, JD, etc.)",1300000.0000
+"Business or Consulting",Unknown,PhD,170000.0000
+"Business or Consulting",Unknown,"Master's degree",121000.0000
+"Business or Consulting",Unknown,"College degree",112000.0000
+"Business or Consulting",Unknown,Unknown,83500.0000
+"Business or Consulting",Woman,"Professional degree (MD, JD, etc.)",141416.6667
+"Business or Consulting",Woman,PhD,115724.6667
+"Business or Consulting",Woman,"Some college",113130.6250
+"Business or Consulting",Woman,Unknown,112666.6667
+"Business or Consulting",Woman,"Master's degree",111833.9095
+"Business or Consulting",Woman,"College degree",94195.6579
+"Business or Consulting",Woman,"High School",63853.3333
+"Business Process Outsourcing",Woman,"Master's degree",40000.0000
+"Business Process Outsourcing ",Woman,"Master's degree",53680.0000
+"Call center",Man,"College degree",70000.0000
+"CALL CENTER",Woman,"Some college",25480.0000
+"Cancer research, not for profit",Woman,"Some college",71700.0000
+Cannabis,Man,"College degree",65000.0000
+Cannabis,Woman,"Master's degree",75000.0000
+Cannabis,Woman,"College degree",62333.3333
+"Career & Technical Training",Woman,"Master's degree",46800.0000
+Caregiver,Woman,"College degree",33280.0000
+"CBD Manufacturing",Woman,"College degree",60000.0000
+Charity,Woman,"Some college",17400.0000
+Chemical,Woman,PhD,110000.0000
+"Chemical Manufacturing",Woman,"College degree",47902.0000
+"Chemicals ",Woman,"Master's degree",102000.0000
+"Chemicals/ Materials",Woman,PhD,109400.0000
+Chemistry,Non-binary,"Master's degree",70000.0000
+Chemistry,Woman,PhD,107000.0000
+"Child care",Woman,"College degree",40700.0000
+"Child care",Woman,"Some college",38000.0000
+"Child Care Resource and Referral Agency",Woman,"College degree",3200.0000
+Childcare,Woman,"College degree",48750.0000
+"childcare ",Woman,"College degree",19000.0000
+"Children's Book Wholesale",Woman,"Master's degree",55000.0000
+"Church ministry",Woman,"Master's degree",55000.0000
+"Clean Energy (eg. energy efficiency, renewables, etc.)",Man,"Master's degree",200000.0000
+Clergy,Man,"Master's degree",50000.0000
+Clergy,Woman,"Master's degree",63000.0000
+Clergy,Woman,"College degree",42000.0000
+"Clinical & Translational Reserach",Woman,"College degree",76000.0000
+"clinical research",Woman,"Master's degree",108333.3333
+"Clinical research",Woman,"College degree",69826.0000
+"Clinical research ",Woman,"College degree",58500.0000
+"Clinical Research ",Woman,"Master's degree",58500.0000
+"Clinical research and development ",Woman,"College degree",65000.0000
+"Clinical Research Manager - academic institution",Woman,"College degree",82000.0000
+"Clinical trials",Man,"College degree",68000.0000
+"clinical trials research coordination",Woman,"Master's degree",44000.0000
+coaching,Woman,"Master's degree",44000.0000
+"Coffee - Importing",Non-binary,"College degree",95000.0000
+"College Athletics",Woman,"College degree",37500.0000
+"Commercial Building Material Distribution",Man,"Some college",400000.0000
+"Commercial Fisherman",Man,"Some college",26000.0000
+"Commercial furniture",Woman,"High School",40000.0000
+"Commercial Real Estate",Woman,"College degree",87200.0000
+"Commercial Real Estate ",Woman,"Some college",55000.0000
+"Commercial Real Estate ",Woman,"College degree",49330.0000
+"Commercial Real Estate - Private Equity",Woman,"Master's degree",72000.0000
+"Commercial Real Estate Data and Analytics/Research",Woman,"College degree",68700.0000
+"Commercial real estate tenancy",Woman,"College degree",43187.0000
+"commodities trading",Woman,"College degree",75000.0000
+"Communication Research",Woman,PhD,90456.0000
+Communications,Man,"College degree",76500.0000
+Communications,Woman,"College degree",55935.0000
+"Community Management",Woman,"Some college",64000.0000
+Compliance,Woman,"College degree",54313.0000
+"Computing or Tech",Man,PhD,263578.1714
+"Computing or Tech",Man,"Professional degree (MD, JD, etc.)",182300.0000
+"Computing or Tech",Man,"College degree",150487.3011
+"Computing or Tech",Man,"Master's degree",150218.0616
+"Computing or Tech",Man,"Some college",135463.7761
+"Computing or Tech",Man,"High School",133334.4110
+"Computing or Tech",Man,Unknown,116214.2857
+"Computing or Tech",Non-binary,"High School",232688.0000
+"Computing or Tech",Non-binary,PhD,190000.0000
+"Computing or Tech",Non-binary,"Master's degree",127699.6000
+"Computing or Tech",Non-binary,"Some college",115047.0588
+"Computing or Tech",Non-binary,"College degree",113957.4697
+"Computing or Tech","Other or prefer not to answer","College degree",164088.2353
+"Computing or Tech","Other or prefer not to answer","High School",148333.3333
+"Computing or Tech","Other or prefer not to answer","Master's degree",131871.4286
+"Computing or Tech","Other or prefer not to answer","Some college",109800.0000
+"Computing or Tech","Other or prefer not to answer",Unknown,100040.0000
+"Computing or Tech","Other or prefer not to answer","Professional degree (MD, JD, etc.)",100000.0000
+"Computing or Tech",Unknown,"High School",295000.0000
+"Computing or Tech",Unknown,PhD,245000.0000
+"Computing or Tech",Unknown,"Master's degree",206000.0000
+"Computing or Tech",Unknown,Unknown,118600.0000
+"Computing or Tech",Unknown,"College degree",113142.8571
+"Computing or Tech",Woman,"Professional degree (MD, JD, etc.)",156155.0000
+"Computing or Tech",Woman,PhD,147877.9167
+"Computing or Tech",Woman,"Master's degree",129342.2012
+"Computing or Tech",Woman,"College degree",114855.9330
+"Computing or Tech",Woman,Unknown,101000.0000
+"Computing or Tech",Woman,"Some college",100176.2397
+"Computing or Tech",Woman,"High School",94089.0476
+"Computing/Tech + Higher Ed + Nonprofit",Non-binary,"Master's degree",81200.0000
+Concrete,Woman,"College degree",44000.0000
+Construction,Man,"College degree",70000.0000
+Construction,Man,"Some college",60000.0000
+Construction,Woman,"High School",116000.0000
+Construction,Woman,"College degree",73550.0000
+Construction,Woman,"Some college",48000.0000
+"Construction ",Man,"College degree",80000.0000
+"Construction ",Man,"High School",60000.0000
+"Construction ",Woman,"Some college",100000.0000
+"construction ",Woman,"College degree",62000.0000
+"Construction / Stone industry",Woman,"High School",23000.0000
+"Construction Management",Woman,"College degree",60000.0000
+"Construction, mining, manufacturing",Woman,"College degree",80000.0000
+Consultant,Man,"College degree",60000.0000
+Consulting,Man,"Master's degree",265000.0000
+Consulting,Man,"Some college",250000.0000
+Consulting,Non-binary,"Master's degree",92000.0000
+Consulting,Woman,"Master's degree",177500.0000
+"Consulting ",Man,"Master's degree",65000.0000
+"Consulting / Professional Services",Non-binary,"College degree",50000.0000
+"Consulting Operations- Big 4",Woman,"College degree",100000.0000
+"Consumer food products ",Woman,"Master's degree",145000.0000
+"Consumer Good (Toys)",Woman,"College degree",92000.0000
+"Consumer Goods",Man,"Master's degree",130000.0000
+"Consumer goods",Woman,"Master's degree",142950.0000
+"Consumer Goods",Woman,"College degree",127250.0000
+"Consumer Goods Production",Woman,"College degree",55000.0000
+"Consumer Packaged Goods",Man,"Professional degree (MD, JD, etc.)",160000.0000
+"Consumer packaged goods",Man,"College degree",90000.0000
+"Consumer Packaged Goods",Woman,PhD,134971.0000
+"Consumer Packaged Goods",Woman,"College degree",112472.5000
+"Consumer packaged goods ",Woman,"College degree",95000.0000
+"consumer product design",Man,"Master's degree",117000.0000
+"Consumer Product Organization ",Woman,"Master's degree",85000.0000
+"consumer products",Woman,"Some college",147000.0000
+"Consumer Products design ",Woman,"College degree",69000.0000
+"Consumer Research",Woman,PhD,97000.0000
+"Contact Center",Woman,"College degree",75000.0000
+"Content Review - Copyright/DMCA",Man,"Some college",51000.0000
+"Contract Research",Woman,PhD,105000.0000
+"Contract research organisation",Woman,"College degree",60121.0000
+"Corporate accounting in death care (funeral & cemetery)",Woman,"Master's degree",103000.0000
+"Corporate Learning and Development",Woman,"Master's degree",80000.0000
+"Corporate service management",Woman,"College degree",66000.0000
+"Corporate Sustainability ",Woman,"Master's degree",110000.0000
+"Corporate sustainability ",Woman,"College degree",86000.0000
+"Corporate Training",Woman,"Master's degree",280000.0000
+"Corporate Travel Industry",Woman,"College degree",91000.0000
+"Costruction admin",Woman,"Some college",38000.0000
+Counseling,Woman,"Master's degree",40000.0000
+CPG,Woman,"Some college",68000.0000
+"CPG / Retail",Woman,"Master's degree",175000.0000
+"Cultural Heritage",Woman,"Master's degree",60500.0000
+"Cultural Resource Management",Woman,"College degree",56388.0000
+"Cultural Resources Management/Major Univ.",Woman,"Master's degree",30000.0000
+Culture,Woman,"Master's degree",15000.0000
+"Customer Service",Man,"College degree",41600.0000
+"Customer service",Non-binary,"Master's degree",2300000.0000
+"Customer Service",Woman,"College degree",46916.5000
+"Customer service/call center",Non-binary,"College degree",40000.0000
+"Customer service/publishing-adjacent ",Woman,PhD,64500.0000
+"Data Analytics",Man,"College degree",55000.0000
+"Data Breach",Man,"Some college",56410.0000
+"Data Entry",Woman,"Some college",31000.0000
+"Database subscription services",Woman,"Some college",100000.0000
+Defense,Woman,"College degree",172000.0000
+Defense,Woman,"Master's degree",129666.6667
+Defense,Woman,PhD,86953.0000
+Defense,Woman,"High School",33000.0000
+"Defense ",Man,"College degree",71000.0000
+"Defense contracting",Woman,"College degree",96750.0000
+"Defense Contractor",Woman,"Master's degree",69000.0000
+"Delivery and installation for commercial machinery",Man,"Some college",30000.0000
+"Diagnostic Medical Devices",Man,"Master's degree",68000.0000
+Digital,Woman,"College degree",42860.0000
+"digital commerce / ecommerce",Man,"College degree",100000.0000
+"Digital Marketing",Woman,"College degree",76700.0000
+"digital marketing within a book publishing company (please reclassify as you see fit)",Woman,"College degree",50000.0000
+"Disability services ",Woman,"High School",42000.0000
+Distribution,Woman,"Master's degree",128000.0000
+"Diversity, Equity & Inclusion ",Woman,"College degree",140000.0000
+"Drug development ",Man,"Master's degree",147000.0000
+E-commerce,Woman,"College degree",64000.0000
+E-commerce,Woman,"Master's degree",50083.3333
+"E-commerce ",Woman,"Professional degree (MD, JD, etc.)",50000.0000
+e-learning,Woman,"Master's degree",47000.0000
+Eap,Woman,"College degree",73000.0000
+"Early Childhood Education",Woman,"Master's degree",117500.0000
+"Early childhood education",Woman,"College degree",42000.0000
+"Early childhood education (preschool)",Woman,"Master's degree",106000.0000
+"Early Education",Unknown,"College degree",40000.0000
+"Early Education (corporate office)",Woman,"College degree",52000.0000
+"Earth sciences",Woman,"Master's degree",75000.0000
+Ecommerce,Woman,"College degree",47840.0000
+"ECommerce ",Woman,"College degree",120000.0000
+"Ecommerce - Technology",Man,"College degree",125000.0000
+"Ecommerce fraud",Woman,"College degree",120000.0000
+economics,Woman,PhD,138000.0000
+"Ed Tech",Woman,"College degree",82500.0000
+"Editor in educational publishing",Woman,"Some college",49000.0000
+Edtech,Woman,"College degree",27000.0000
+"Educ tech",Woman,"Some college",42000.0000
+"Education (early childhood)",Woman,"College degree",60000.0000
+"Education (Higher Education)",Man,PhD,143988.6981
+"Education (Higher Education)",Man,"Professional degree (MD, JD, etc.)",91133.3333
+"Education (Higher Education)",Man,Unknown,87552.0000
+"Education (Higher Education)",Man,"College degree",70733.1930
+"Education (Higher Education)",Man,"Master's degree",69431.2857
+"Education (Higher Education)",Man,"High School",60000.0000
+"Education (Higher Education)",Man,"Some college",56977.7778
+"Education (Higher Education)",Non-binary,Unknown,73000.0000
+"Education (Higher Education)",Non-binary,"Some college",60000.0000
+"Education (Higher Education)",Non-binary,"Master's degree",57956.5417
+"Education (Higher Education)",Non-binary,PhD,56469.7143
+"Education (Higher Education)",Non-binary,"College degree",52414.4167
+"Education (Higher Education)",Non-binary,"High School",48000.0000
+"Education (Higher Education)","Other or prefer not to answer",PhD,76500.0000
+"Education (Higher Education)","Other or prefer not to answer","Professional degree (MD, JD, etc.)",65386.0000
+"Education (Higher Education)","Other or prefer not to answer","Master's degree",65372.2222
+"Education (Higher Education)","Other or prefer not to answer","College degree",49950.0000
+"Education (Higher Education)",Unknown,PhD,86000.0000
+"Education (Higher Education)",Unknown,"Master's degree",54700.0000
+"Education (Higher Education)",Unknown,"College degree",51500.0000
+"Education (Higher Education)",Woman,"College degree",2673349.9279
+"Education (Higher Education)",Woman,Unknown,1708500.0000
+"Education (Higher Education)",Woman,"Professional degree (MD, JD, etc.)",87830.3478
+"Education (Higher Education)",Woman,PhD,80646.4801
+"Education (Higher Education)",Woman,"Master's degree",70694.6862
+"Education (Higher Education)",Woman,"Some college",57311.4400
+"Education (Higher Education)",Woman,"High School",57300.0000
+"Education (Other)",Non-binary,"Master's degree",70270.0000
+"Education (Primary/Secondary)",Man,PhD,108666.6667
+"Education (Primary/Secondary)",Man,"Master's degree",77874.3600
+"Education (Primary/Secondary)",Man,"College degree",50389.8462
+"Education (Primary/Secondary)",Man,"Professional degree (MD, JD, etc.)",48000.0000
+"Education (Primary/Secondary)",Man,"Some college",34055.6667
+"Education (Primary/Secondary)",Non-binary,"Professional degree (MD, JD, etc.)",82650.0000
+"Education (Primary/Secondary)",Non-binary,"Master's degree",63884.3333
+"Education (Primary/Secondary)",Non-binary,"College degree",45633.3333
+"Education (Primary/Secondary)",Unknown,"Master's degree",78666.6667
+"Education (Primary/Secondary)",Woman,"Master's degree",85866.1215
+"Education (Primary/Secondary)",Woman,PhD,81806.6667
+"Education (Primary/Secondary)",Woman,"High School",80004.0000
+"Education (Primary/Secondary)",Woman,"Professional degree (MD, JD, etc.)",70168.5294
+"Education (Primary/Secondary)",Woman,"College degree",52299.0828
+"Education (Primary/Secondary)",Woman,Unknown,47900.0000
+"Education (Primary/Secondary)",Woman,"Some college",47689.6923
+"Education Consulting",Woman,"Professional degree (MD, JD, etc.)",118000.0000
+"Education Publishing ",Woman,"College degree",52500.0000
+"Education research- mix of Edtech and non profits",Woman,PhD,140000.0000
+"Education service provider",Woman,"Master's degree",116000.0000
+"Education services (tutoring)",Man,"Master's degree",100000.0000
+"Education start-up",Woman,"College degree",93600.0000
+"education writing",Woman,"College degree",48500.0000
+"Education- museum/public outreach ",Woman,"Master's degree",84000.0000
+Education/vocational,Man,"College degree",100000.0000
+"Educational assessment",Woman,"Master's degree",74000.0000
+"Educational Publishing",Man,"Some college",90000.0000
+"educational publishing",Woman,"College degree",74500.0000
+"Educational publishing / ed tech",Man,PhD,124000.0000
+"Educational Research",Woman,"College degree",56000.0000
+"Educational technology",Woman,"Master's degree",63000.0000
+"Educational Technology - hybrid between book publishing and technology really",Woman,"College degree",67000.0000
+"Emergency Management",Woman,"Master's degree",76000.0000
+Energy,Man,PhD,265000.0000
+Energy,Man,"Professional degree (MD, JD, etc.)",185000.0000
+Energy,Man,"Master's degree",132999.0000
+Energy,Man,"Some college",107000.0000
+Energy,Unknown,Unknown,70720.0000
+Energy,Woman,"Master's degree",186500.0000
+Energy,Woman,"Professional degree (MD, JD, etc.)",148000.0000
+Energy,Woman,"College degree",97583.3333
+"Energy (oil & gas & associated products, renewable power, etc)",Woman,"Master's degree",253300.0000
+"Energy (Oil & Gas)",Man,"Some college",120000.0000
+"Energy Sector: Oil & Gas",Man,"High School",47000.0000
+"Energy Supplier",Woman,"Master's degree",73000.0000
+"Energy, Oil & Gas",Woman,"Master's degree",130000.0000
+"Energy, Oil and Gas",Woman,"College degree",125000.0000
+"Energy: oil & gas",Man,PhD,75000.0000
+Energy/oil,Woman,"Some college",62000.0000
+"Engineering - Mining",Man,"College degree",127000.0000
+"Engineering and Environmental Consulting",Woman,"Master's degree",75000.0000
+"Engineering or Manufacturing",Man,"Master's degree",176419.3534
+"Engineering or Manufacturing",Man,PhD,139350.0000
+"Engineering or Manufacturing",Man,Unknown,120000.0000
+"Engineering or Manufacturing",Man,"College degree",100223.9567
+"Engineering or Manufacturing",Man,"Professional degree (MD, JD, etc.)",90974.6667
+"Engineering or Manufacturing",Man,"Some college",90009.0909
+"Engineering or Manufacturing",Man,"High School",83157.1429
+"Engineering or Manufacturing",Non-binary,"Master's degree",83100.0000
+"Engineering or Manufacturing",Non-binary,"College degree",70108.5714
+"Engineering or Manufacturing",Non-binary,PhD,47000.0000
+"Engineering or Manufacturing",Non-binary,"Some college",39000.0000
+"Engineering or Manufacturing","Other or prefer not to answer",PhD,136000.0000
+"Engineering or Manufacturing","Other or prefer not to answer","College degree",92000.0000
+"Engineering or Manufacturing","Other or prefer not to answer","Master's degree",71580.0000
+"Engineering or Manufacturing","Other or prefer not to answer","High School",44184.0000
+"Engineering or Manufacturing",Unknown,PhD,160000.0000
+"Engineering or Manufacturing",Unknown,"Master's degree",106466.6667
+"Engineering or Manufacturing",Unknown,"College degree",94980.0000
+"Engineering or Manufacturing",Woman,"Professional degree (MD, JD, etc.)",116888.8889
+"Engineering or Manufacturing",Woman,PhD,114404.4038
+"Engineering or Manufacturing",Woman,"Master's degree",106435.4518
+"Engineering or Manufacturing",Woman,"College degree",92426.5753
+"Engineering or Manufacturing",Woman,"High School",59517.8889
+"Engineering or Manufacturing",Woman,"Some college",58948.8718
+"Engineering or Manufacturing",Woman,Unknown,49320.0000
+Entertainment,Man,"College degree",1027850.3571
+Entertainment,Man,"High School",300000.0000
+Entertainment,Man,"Master's degree",134783.3333
+Entertainment,Man,"Some college",55336.6667
+Entertainment,Non-binary,"College degree",936250.0000
+Entertainment,Non-binary,"Master's degree",38400.0000
+Entertainment,"Other or prefer not to answer","Professional degree (MD, JD, etc.)",175000.0000
+Entertainment,"Other or prefer not to answer","College degree",88361.4286
+Entertainment,Woman,"Some college",130210.0000
+Entertainment,Woman,PhD,129000.0000
+Entertainment,Woman,"Professional degree (MD, JD, etc.)",109333.3333
+Entertainment,Woman,"College degree",96646.0130
+Entertainment,Woman,Unknown,92500.0000
+Entertainment,Woman,"Master's degree",73197.2609
+Entertainment,Woman,"High School",63500.0000
+"Entertainment data",Non-binary,"College degree",52000.0000
+"Entrepreneur high net worth ",Woman,"High School",46000.0000
+"Env. Consulting",Man,"College degree",60000.0000
+"Enviromental ",Man,"College degree",72000.0000
+Environment,Man,"College degree",46000.0000
+Environment,Woman,"College degree",730000.0000
+Environment,Woman,PhD,45000.0000
+"Environment - Oil and Gas",Woman,"College degree",124800.0000
+"Environment, health, and safety",Woman,"College degree",70000.0000
+Environmental,Man,"College degree",76350.0000
+Environmental,Man,"Master's degree",43500.0000
+environmental,Woman,"Master's degree",87880.0000
+Environmental,Woman,"High School",47840.0000
+Environmental,Woman,"College degree",47826.6667
+"Environmental ",Man,"Master's degree",131000.0000
+"Environmental ",Man,"College degree",74750.0000
+"Environmental ",Woman,"College degree",40000.0000
+"Environmental compliance",Woman,"Master's degree",81000.0000
+"environmental compliance ",Woman,"College degree",40000.0000
+"environmental compliance/engineering",Woman,"Master's degree",87460.0000
+"Environmental Consulting",Man,"Master's degree",132000.0000
+"Environmental Consulting","Other or prefer not to answer","Master's degree",89000.0000
+"Environmental Consulting",Woman,PhD,85000.0000
+"Environmental consulting",Woman,"College degree",66090.0000
+"Environmental Consulting",Woman,"Master's degree",58433.3333
+"Environmental Consulting ",Woman,"College degree",68000.0000
+"Environmental Health + Pest Control",Woman,"College degree",57900.0000
+"environmental health and safety",Woman,"Master's degree",52000.0000
+"Environmental health and safety compliance",Woman,"Some college",48000.0000
+"Environmental Planning",Woman,"College degree",77500.0000
+"Environmental Science",Woman,"Master's degree",84000.0000
+"Environmental Science",Woman,"College degree",65000.0000
+"Environmental science ",Man,"College degree",70000.0000
+"Environmental Sciences",Woman,"College degree",68000.0000
+"Environmental sciences",Woman,"Some college",42000.0000
+"Environmental survey",Woman,PhD,52000.0000
+"Environmental/Cultural Resource Management",Woman,"Master's degree",48500.0000
+"Environmnetal ",Woman,"College degree",43000.0000
+"ESL Teacher",Man,"College degree",36000000.0000
+"Executive Leadership Servis",Woman,"College degree",88000.0000
+"Executive search",Woman,"Master's degree",95000.0000
+"Executive Search",Woman,"College degree",90000.0000
+Faith/spirituality,Woman,"Master's degree",72000.0000
+"Family Office",Woman,"College degree",125000.0000
+"Family office ",Woman,"College degree",120000.0000
+Fashion,Woman,"College degree",90000.0000
+"Fashion/e-commerce ",Woman,"College degree",58500.0000
+"Fast casual restaurant ",Non-binary,"College degree",38188.0000
+"Federal Government Contracting",Woman,"Master's degree",125500.0000
+"Film Post-Production",Man,"College degree",95000.0000
+Finance,Man,"Master's degree",200000.0000
+Finance,Woman,"Professional degree (MD, JD, etc.)",129000.0000
+Finance,Woman,"College degree",96500.0000
+"Finance ",Woman,"College degree",109000.0000
+"Finance/Investment Management but in legal/compliance, so back-office",Woman,"College degree",125000.0000
+Fintech,Woman,"College degree",145000.0000
+Fintech,Woman,"Master's degree",110000.0000
+"FinTech/Payment Processing",Woman,"College degree",58500.0000
+"Fire protection",Woman,"College degree",70000.0000
+fitness,Woman,"College degree",54500.0000
+"Fitness & Entertainment",Woman,PhD,75000.0000
+"FMCG development ",Man,"Master's degree",32524.0000
+Food,Woman,"Some college",130000.0000
+Food,Woman,"Master's degree",47000.0000
+Food,Woman,"College degree",33000.0000
+"Food & Beverage",Man,"Master's degree",113500.0000
+"Food & Beverage",Woman,"Master's degree",450000.0000
+"Food & Beverage",Woman,"College degree",67000.0000
+"Food & Beverages",Woman,"Master's degree",55000.0000
+"Food & Nutrition","Other or prefer not to answer","College degree",105000.0000
+"Food and Beverage",Man,"Master's degree",20000.0000
+"Food and Drink ",Woman,"College degree",20287.0000
+"Food and Flavor",Woman,"Master's degree",104000.0000
+"Food demos",Woman,"College degree",27000.0000
+"Food distribution",Woman,"College degree",50960.0000
+"Food Distribution",Woman,"Master's degree",45000.0000
+"Food Industry",Man,"College degree",68000.0000
+"Food Industry",Woman,PhD,85000.0000
+"Food industry ",Woman,"College degree",60000.0000
+"Food Manufacture",Man,PhD,63000.0000
+"Food manufacturers ",Woman,"College degree",22000.0000
+"Food Manufacturing",Woman,"College degree",60000.0000
+"Food manufacturing",Woman,"Some college",47000.0000
+"Food manufacturing ",Woman,"College degree",65000.0000
+"Food Processing",Woman,"Some college",80000.0000
+"Food processing",Woman,"College degree",62000.0000
+"Food processing and packaging",Woman,"College degree",84000.0000
+"Food production",Woman,"College degree",62840.0000
+"Food Service",Unknown,"Some college",21000.0000
+"Food Service",Woman,"College degree",34700.0000
+"Food service ",Woman,"College degree",29000.0000
+"Food Service --- Baking",Woman,"Some college",35350.0000
+"Food/Beverage Manufacturing- Quality/Laboratory",Woman,"College degree",52500.0000
+"Food/Quick Service Restaurant (QSR)",Man,"College degree",110000.0000
+Foodservice,Woman,"College degree",115000.0000
+"For profit education",Woman,"College degree",66000.0000
+Forensics,Woman,"College degree",65000.0000
+"Forklift operator warehouse",Man,"High School",40560.0000
+"Freelance Journalism",Man,"College degree",12000.0000
+"Freelance/Self-Employed Consultant ",Man,"College degree",120000.0000
+Fundraising,Woman,"Master's degree",125000.0000
+Fundraising,Woman,"College degree",53000.0000
+"Fundraising in Higher Education; nonclinical, nonacademic","Other or prefer not to answer","Some college",44000.0000
+Funeral,Woman,"Some college",54000.0000
+"Funeral Service ",Woman,"College degree",36000.0000
+"Funeral Service ",Woman,"Some college",33280.0000
+"funeral services",Woman,"Master's degree",30284.0000
+Gambling,Woman,"College degree",66820.0000
+"Game development",Woman,"Master's degree",110000.0000
+"Game Development",Woman,"College degree",83000.0000
+"Games development",Woman,"Master's degree",48000.0000
+Gaming,Woman,"College degree",68500.0000
+"Gaming (Gambling)",Man,"Master's degree",72000.0000
+Geospatial,Man,"Master's degree",88007.0000
+"Global Mobility",Woman,"College degree",57500.0000
+"Government ",Woman,"Master's degree",70000.0000
+"Government Affairs/Lobbying",Woman,"Professional degree (MD, JD, etc.)",250000.0000
+"Government Affairs/Lobbying",Woman,"Master's degree",130000.0000
+"Government and Public Administration",Man,"High School",126171.4286
+"Government and Public Administration",Man,PhD,122434.4286
+"Government and Public Administration",Man,"Professional degree (MD, JD, etc.)",106407.8000
+"Government and Public Administration",Man,"Master's degree",93002.8421
+"Government and Public Administration",Man,"College degree",80191.7049
+"Government and Public Administration",Man,"Some college",58543.6000
+"Government and Public Administration",Man,Unknown,35000.0000
+"Government and Public Administration",Non-binary,PhD,92200.0000
+"Government and Public Administration",Non-binary,"Professional degree (MD, JD, etc.)",78175.0000
+"Government and Public Administration",Non-binary,"Some college",60000.0000
+"Government and Public Administration",Non-binary,"Master's degree",55442.8182
+"Government and Public Administration",Non-binary,"College degree",49627.2222
+"Government and Public Administration","Other or prefer not to answer","Master's degree",89596.0000
+"Government and Public Administration","Other or prefer not to answer","College degree",75706.8750
+"Government and Public Administration","Other or prefer not to answer","Some college",48000.0000
+"Government and Public Administration",Unknown,PhD,123859.5000
+"Government and Public Administration",Unknown,"Master's degree",118750.0000
+"Government and Public Administration",Woman,PhD,116649.3051
+"Government and Public Administration",Woman,"Professional degree (MD, JD, etc.)",99148.6600
+"Government and Public Administration",Woman,"Master's degree",89132.6016
+"Government and Public Administration",Woman,"College degree",78899.7044
+"Government and Public Administration",Woman,"High School",63585.9412
+"Government and Public Administration",Woman,"Some college",62150.5333
+"Government and Public Administration",Woman,Unknown,60325.0000
+"Government Contracting",Woman,"Some college",130800.0000
+"Government contracting",Woman,"Master's degree",112000.0000
+"Government contracting",Woman,"College degree",95500.0000
+"Government contracting (data analytics and program evaluations)",Woman,"Master's degree",86000.0000
+"Government Contracting R&D",Woman,"College degree",100000.0000
+"Government contractor",Woman,"Master's degree",84000.0000
+"Government Contractor",Woman,"College degree",61442.0000
+"Government contractor ",Woman,"Some college",70000.0000
+"Government Contractor (R&D)",Woman,"College degree",55000.0000
+"government contractor, international development",Woman,"Master's degree",135000.0000
+"Government Relation",Woman,"Master's degree",130000.0000
+"Government Relations",Woman,"College degree",93125.0000
+"Government Research",Woman,"Master's degree",75400.0000
+"Government- Scientist",Woman,"Master's degree",100000.0000
+"Govt contractor - not direct govt but they pay my company who in turn pays me",Woman,"College degree",100000.0000
+"Govt contractor - not directly govt but they pay me",Woman,"College degree",100000.0000
+"Graduate Student",Man,"Master's degree",2350.0000
+"Grantwriting Consultants",Woman,"Master's degree",94000.0000
+"Grocery delivery",Woman,"College degree",50000.0000
+"Grocery Distribution",Non-binary,"College degree",52532.0000
+"Grocery Distribution",Woman,"High School",52600.0000
+Gyms,Woman,"Master's degree",60000.0000
+"Hardware Manufacturing",Woman,"College degree",95000.0000
+"Haz/Ind/Rad Waste Management ",Woman,"College degree",100000.0000
+"Health and fitness",Woman,"College degree",43680.0000
+"Health care",Man,"Professional degree (MD, JD, etc.)",224474.0588
+"Health care",Man,PhD,173818.1818
+"Health care",Man,"Master's degree",91561.6098
+"Health care",Man,"Some college",91395.1111
+"Health care",Man,"College degree",83966.0893
+"Health care",Man,"High School",70833.3333
+"Health care",Non-binary,PhD,220000.0000
+"Health care",Non-binary,"Professional degree (MD, JD, etc.)",131350.0000
+"Health care",Non-binary,"College degree",75601.5882
+"Health care",Non-binary,"Master's degree",67235.0000
+"Health care",Non-binary,"Some college",55000.0000
+"Health care","Other or prefer not to answer","Professional degree (MD, JD, etc.)",135000.0000
+"Health care","Other or prefer not to answer","College degree",81700.0000
+"Health care","Other or prefer not to answer","Master's degree",50900.0000
+"Health care",Unknown,"Master's degree",162500.0000
+"Health care",Unknown,"Professional degree (MD, JD, etc.)",134966.6667
+"Health care",Unknown,"Some college",58000.0000
+"Health care",Unknown,"College degree",49700.0000
+"Health care",Unknown,"High School",38000.0000
+"Health care",Woman,"Professional degree (MD, JD, etc.)",170717.9224
+"Health care",Woman,Unknown,126057.5000
+"Health care",Woman,PhD,126009.2727
+"Health care",Woman,"College degree",123857.8072
+"Health care",Woman,"Master's degree",103761.0720
+"Health care",Woman,"Some college",55582.6392
+"Health care",Woman,"High School",51071.4783
+"Health Insurance ",Woman,"College degree",72000.0000
+"Health Research",Woman,"Master's degree",61000.0000
+"Healthcare Information Technology",Woman,"College degree",63000.0000
+"Healthcare IT",Woman,"Master's degree",106080.0000
+"Healthcare technology ",Woman,"Master's degree",83900.0000
+Heritage,Woman,"Master's degree",21179.0000
+"Heritage ",Woman,"Master's degree",49000.0000
+"Heritage/Public History",Woman,"Master's degree",37500.0000
+"High end outdoor furniture manufacturer ",Woman,"College degree",53000.0000
+"Higher education fundraising",Woman,"Master's degree",59000.0000
+"Higher education/Libraries",Woman,"Master's degree",62000.0000
+"Historic Preservation",Woman,"Master's degree",75000.0000
+"Horticulture (Admin)",Woman,"High School",50600.0000
+"Hospitality & Events",Man,"Master's degree",132500.0000
+"Hospitality & Events",Man,"Some college",75228.5714
+"Hospitality & Events",Man,"College degree",60078.6667
+"Hospitality & Events",Man,"High School",53500.0000
+"Hospitality & Events",Non-binary,"Some college",32850.0000
+"Hospitality & Events",Non-binary,"College degree",30596.6667
+"Hospitality & Events",Non-binary,"High School",25600.0000
+"Hospitality & Events","Other or prefer not to answer","Some college",28000.0000
+"Hospitality & Events",Unknown,"College degree",75000.0000
+"Hospitality & Events",Woman,PhD,115000.0000
+"Hospitality & Events",Woman,"Master's degree",114059.7368
+"Hospitality & Events",Woman,"College degree",69056.4314
+"Hospitality & Events",Woman,"Some college",49280.6000
+"Hospitality & Events",Woman,"High School",40308.5714
+Housekeeper/cook,Woman,"College degree",44000.0000
+HRO,Woman,"College degree",64000.0000
+"Human Capital Management",Woman,"College degree",108000.0000
+"Human Resources",Woman,"Some college",57383.0000
+"Hybrid Nonprofit Higher Education (we are part of a university but our entire budget comes from grants)",Woman,"Master's degree",49500.0000
+"I have two jobs. Marketing / Business ",Woman,"College degree",135000.0000
+"I work for Indeed.com",Woman,"College degree",68000.0000
+"I work in the finance function of a large global conglomerate",Woman,"Master's degree",90000.0000
+"In-House Marketing",Woman,"College degree",72000.0000
+"individual & family services",Woman,"Master's degree",80000.0000
+"Industrial Cleaning & Non Hazardous Transport",Woman,"Some college",55000.0000
+"Industrial Hygiene",Woman,"Master's degree",90000.0000
+"Industrial Supply",Man,"Some college",67000.0000
+"Information Management/Archives",Woman,"Master's degree",55000.0000
+"Information services (libraries)",Woman,"Master's degree",67231.0000
+"Information services (library)",Woman,"College degree",35172.0000
+"Information Services/Libraries",Woman,"Master's degree",53000.0000
+"Information Technology",Woman,"Master's degree",99952.0000
+"Information technology (IT)",Woman,"College degree",102000.0000
+"Instructional Design and Training",Woman,"College degree",104000.0000
+"Instructional Design, Aviation Industry",Woman,"Master's degree",52000.0000
+"Instructional Designer",Woman,"College degree",80000.0000
+Insurance,Man,"Master's degree",143997.4286
+Insurance,Man,"High School",111000.0000
+Insurance,Man,"College degree",106928.9474
+Insurance,Man,PhD,104571.4286
+Insurance,Man,"Some college",88000.0000
+Insurance,Non-binary,"College degree",114375.4000
+Insurance,Non-binary,"Master's degree",48630.0000
+Insurance,Non-binary,"Some college",40088.5000
+Insurance,"Other or prefer not to answer","College degree",129166.6667
+Insurance,"Other or prefer not to answer","Some college",34000.0000
+Insurance,Unknown,"College degree",120000.0000
+Insurance,Unknown,"Professional degree (MD, JD, etc.)",80000.0000
+Insurance,Woman,"Professional degree (MD, JD, etc.)",106375.0000
+Insurance,Woman,"Master's degree",94761.2118
+Insurance,Woman,PhD,92057.1429
+Insurance,Woman,Unknown,87500.0000
+Insurance,Woman,"College degree",81540.8522
+Insurance,Woman,"Some college",70918.7778
+Insurance,Woman,"High School",56301.0769
+Intelligence,Woman,"College degree",110000.0000
+"Intergovernmental organization",Woman,"Master's degree",60000.0000
+"Interior Design (commercial)",Non-binary,"College degree",40000.0000
+"Interior Design & Architecture",Woman,"Some college",59000.0000
+"Interior landscaping ",Non-binary,"Some college",33000.0000
+"Internal Communications",Woman,"College degree",100800.0000
+"International defence",Woman,"Master's degree",75000.0000
+"International Development",Man,"College degree",55000.0000
+"International development",Woman,"Master's degree",128950.0000
+"International development",Woman,"Professional degree (MD, JD, etc.)",85000.0000
+"International Development",Woman,"College degree",71675.0000
+"International development (multilateral donor)",Woman,"Master's degree",111360.0000
+Internet,Woman,"Master's degree",145000.0000
+Interpretation,Woman,"Master's degree",905000.0000
+Investing,Woman,"Some college",58000.0000
+IT,Woman,"Master's degree",123600.0000
+IT,Woman,"College degree",33500.0000
+"IT MSP",Woman,"Some college",60000.0000
+"IT Security",Woman,"College degree",43680.0000
+Journalism,Man,"College degree",45000.0000
+"Labor Union",Woman,"College degree",129000.0000
+"labor union",Woman,"Some college",65557.0000
+"labour/professional organization",Woman,"Master's degree",62000.0000
+"Landed Estate",Woman,"Master's degree",39000.0000
+"Landscape Architecture",Woman,"Master's degree",82000.0000
+"Landscape Contracting",Woman,"College degree",47840.0000
+"Landscaping/Tree Work",Woman,"Some college",58240.0000
+"Language Services company, unsure the broad category to use. Our clients are branding agencies, and their clients are frequently (but not always) pharmaceutical companies.","Other or prefer not to answer","Master's degree",70000.0000
+Law,Man,"Professional degree (MD, JD, etc.)",161054.6579
+Law,Man,Unknown,132500.0000
+Law,Man,"Master's degree",94500.0000
+Law,Man,PhD,90000.0000
+Law,Man,"College degree",77829.0909
+Law,Man,"High School",65000.0000
+Law,Man,"Some college",64866.6667
+Law,Non-binary,"Professional degree (MD, JD, etc.)",89470.0000
+Law,Non-binary,"Master's degree",80100.0000
+Law,Non-binary,"Some college",50140.0000
+Law,Non-binary,"College degree",48400.0000
+Law,"Other or prefer not to answer",PhD,161000.0000
+Law,"Other or prefer not to answer","Professional degree (MD, JD, etc.)",125250.0000
+Law,"Other or prefer not to answer","College degree",92000.0000
+Law,"Other or prefer not to answer","Master's degree",49550.0000
+Law,Unknown,"Professional degree (MD, JD, etc.)",122100.0000
+Law,Unknown,Unknown,94000.0000
+Law,Woman,"Master's degree",606950.8000
+Law,Woman,Unknown,226000.0000
+Law,Woman,PhD,153460.8000
+Law,Woman,"Professional degree (MD, JD, etc.)",148188.3551
+Law,Woman,"College degree",66477.7341
+Law,Woman,"High School",65797.5000
+Law,Woman,"Some college",64525.7429
+"Law Enforcement & Security",Man,PhD,100000.0000
+"Law Enforcement & Security",Man,"High School",75000.0000
+"Law Enforcement & Security",Man,"Master's degree",74000.0000
+"Law Enforcement & Security",Man,"College degree",68333.3333
+"Law Enforcement & Security",Man,"Some college",35205.0000
+"Law Enforcement & Security",Non-binary,"College degree",38000.0000
+"Law Enforcement & Security",Woman,"Some college",86166.6667
+"Law Enforcement & Security",Woman,"Professional degree (MD, JD, etc.)",84200.0000
+"Law Enforcement & Security",Woman,"College degree",63785.3333
+"Law Enforcement & Security",Woman,"Master's degree",52333.3333
+"Learning & Development",Woman,PhD,68000.0000
+"Learning and Development",Man,"College degree",62000.0000
+"Legal Services",Woman,"Master's degree",98500.0000
+"Legal services",Woman,"Some college",18500.0000
+"Leisure, Sport & Tourism",Man,"College degree",86951.3333
+"Leisure, Sport & Tourism",Man,"Master's degree",58000.0000
+"Leisure, Sport & Tourism",Man,"Some college",26520.0000
+"Leisure, Sport & Tourism",Woman,"Professional degree (MD, JD, etc.)",215000.0000
+"Leisure, Sport & Tourism",Woman,"Master's degree",89506.7692
+"Leisure, Sport & Tourism",Woman,"College degree",66765.8140
+"Leisure, Sport & Tourism",Woman,PhD,42000.0000
+"Leisure, Sport & Tourism",Woman,"Some college",41812.3333
+Librarian,Woman,"Master's degree",53701.5000
+"Librarian ",Woman,"Master's degree",56591.0000
+"Librarian and Assistant Manager of a library",Woman,"Master's degree",81000.0000
+"Librarian in legal setting",Woman,"Master's degree",78000.0000
+"librarian--Contractor for NASA",Woman,"Master's degree",63000.0000
+Libraries,Man,"Master's degree",62000.0000
+Libraries,Non-binary,"Master's degree",55000.0000
+Libraries,Non-binary,"Some college",18720.0000
+Libraries,"Other or prefer not to answer","Master's degree",51300.0000
+Libraries,Woman,"Master's degree",63303.7391
+Libraries,Woman,"College degree",46867.0000
+"LIBRARIES ",Woman,"Master's degree",43000.0000
+"Libraries (Medical)",Woman,"Master's degree",92000.0000
+"Libraries (Public)",Non-binary,"Master's degree",46000.0000
+"Libraries (public)",Woman,"Master's degree",42000.0000
+"Libraries / Archives / Information",Woman,"Master's degree",51000.0000
+"Libraries & Archives",Woman,"Master's degree",28000.0000
+"Libraries and Archives",Woman,"Master's degree",44850.0000
+"Libraries and Archives (Academic)",Woman,"Master's degree",53000.0000
+Libraries/Museums/Archives,Woman,"Master's degree",40830.0000
+Library,Man,"Master's degree",50596.0000
+Library,Woman,PhD,78000.0000
+Library,Woman,"Master's degree",62781.9412
+Library,Woman,"College degree",44469.5556
+Library,Woman,"Some college",31200.0000
+"Library ","Other or prefer not to answer","College degree",30000.0000
+"Library ",Woman,"Master's degree",50454.0000
+"Library (its a non-profit and its a govt job - how would I list that? Not all libraries are govt jobs)",Woman,"Master's degree",41394.0000
+"Library (university)",Woman,"Master's degree",45726.0000
+"Library and Information Services",Woman,"Master's degree",55200.0000
+"Library Page (Public county library)",Woman,"College degree",38480.0000
+"Library Tech for a school system",Woman,"Some college",50000.0000
+Library--public,Woman,"Master's degree",81916.0000
+Library/Archive,Man,"College degree",40000.0000
+"Library/Archive/Research Center",Woman,"Master's degree",85000.0000
+Library/archives,Woman,"Master's degree",46700.0000
+"Life science capability development",Woman,"Master's degree",50000.0000
+"Life Sciences",Man,PhD,95000.0000
+"Life Sciences",Woman,"Master's degree",176800.0000
+"Life Sciences",Woman,"College degree",62000.0000
+"Life Sciences ",Man,PhD,69000.0000
+"Life Sciences ",Woman,PhD,74446.0000
+"Life sciences (not in academia)",Woman,PhD,111000.0000
+Literature,Woman,PhD,54000.0000
+Lobbying,Man,"Master's degree",80000.0000
+"Lobbying and consulting",Woman,"College degree",75000.0000
+Maintenance,Man,"College degree",87000.0000
+"Management Consulting",Woman,"College degree",180000.0000
+Manufacturing,Man,"College degree",85000.0000
+Manufacturing,Man,"Master's degree",77000.0000
+manufacturing,Man,"Some college",40476.0000
+Manufacturing,Unknown,"College degree",60800.0000
+manufacturing,Woman,"Master's degree",87816.6667
+manufacturing,Woman,"Some college",82500.0000
+Manufacturing,Woman,"College degree",74504.9474
+Manufacturing,Woman,"High School",51166.6667
+"Manufacturing ",Man,"Master's degree",66250.0000
+"Manufacturing ",Woman,"Master's degree",103750.0000
+"Manufacturing ",Woman,"College degree",91333.3333
+"Manufacturing ",Woman,"Professional degree (MD, JD, etc.)",71250.0000
+"Manufacturing ",Woman,PhD,65000.0000
+"Manufacturing ",Woman,"Some college",38000.0000
+"Manufacturing : corporate admin support",Woman,"College degree",70000.0000
+"Manufacturing (medical devices)",Woman,"Professional degree (MD, JD, etc.)",109000.0000
+"Manufacturing (personal care)",Woman,"High School",94000.0000
+"Manufacturing (pharmaceuticals) ",Woman,PhD,114240.0000
+"Manufacturing and distributing",Woman,"College degree",38800.0000
+"manufacturing security systems",Woman,"Master's degree",64260.0000
+"Manufacturing, Chemical",Woman,"Some college",67000.0000
+"Manufacturing/Consumer Packaged Goods",Woman,"College degree",100000.0000
+Manufacturing/Wholesale,Woman,"College degree",58212.0000
+"Market Research",Man,"College degree",77000.0000
+"Market research",Woman,"Master's degree",73416.6667
+"Market Research",Woman,"College degree",56375.0000
+"Marketing, Advertising & PR",Man,PhD,185000.0000
+"Marketing, Advertising & PR",Man,"College degree",95187.3544
+"Marketing, Advertising & PR",Man,"Some college",94320.0000
+"Marketing, Advertising & PR",Man,"Master's degree",82256.5833
+"Marketing, Advertising & PR",Man,"Professional degree (MD, JD, etc.)",67000.0000
+"Marketing, Advertising & PR",Man,"High School",55000.0000
+"Marketing, Advertising & PR",Man,Unknown,4740.0000
+"Marketing, Advertising & PR",Non-binary,"Some college",135000.0000
+"Marketing, Advertising & PR",Non-binary,"College degree",62227.8000
+"Marketing, Advertising & PR",Non-binary,"Master's degree",26000.0000
+"Marketing, Advertising & PR","Other or prefer not to answer","College degree",831200.0000
+"Marketing, Advertising & PR","Other or prefer not to answer","Master's degree",218500.0000
+"Marketing, Advertising & PR",Unknown,"Master's degree",76000.0000
+"Marketing, Advertising & PR",Unknown,Unknown,65000.0000
+"Marketing, Advertising & PR",Unknown,"College degree",62500.0000
+"Marketing, Advertising & PR",Woman,"Master's degree",100301.0065
+"Marketing, Advertising & PR",Woman,PhD,99237.5000
+"Marketing, Advertising & PR",Woman,"College degree",95251.2699
+"Marketing, Advertising & PR",Woman,Unknown,89000.0000
+"Marketing, Advertising & PR",Woman,"High School",85000.0000
+"Marketing, Advertising & PR",Woman,"Some college",68505.5556
+"Marketing, Advertising & PR",Woman,"Professional degree (MD, JD, etc.)",61250.0000
+MedComms,Woman,PhD,36000.0000
+"Media & Digital",Man,"Professional degree (MD, JD, etc.)",145000.0000
+"Media & Digital",Man,"Master's degree",121500.0000
+"Media & Digital",Man,"Some college",107968.0000
+"Media & Digital",Man,"College degree",104584.3889
+"Media & Digital",Man,"High School",52000.0000
+"Media & Digital",Non-binary,"Professional degree (MD, JD, etc.)",92000.0000
+"Media & Digital",Non-binary,"Master's degree",69000.0000
+"Media & Digital",Non-binary,"College degree",68736.7143
+"Media & Digital",Non-binary,"Some college",63750.0000
+"Media & Digital","Other or prefer not to answer","Master's degree",95000.0000
+"Media & Digital","Other or prefer not to answer","College degree",89085.7143
+"Media & Digital",Unknown,"Master's degree",85000.0000
+"Media & Digital",Unknown,"College degree",55000.0000
+"Media & Digital",Woman,"Professional degree (MD, JD, etc.)",110550.0000
+"Media & Digital",Woman,"Master's degree",88680.8119
+"Media & Digital",Woman,"College degree",88312.9148
+"Media & Digital",Woman,PhD,86250.0000
+"Media & Digital",Woman,"Some college",78706.3158
+"Media & Digital",Woman,Unknown,66040.0000
+"Media & Digital",Woman,"High School",54109.5000
+"Medica education",Woman,"College degree",90898.0000
+"Medical communications",Woman,PhD,117500.0000
+"Medical Device",Woman,PhD,130000.0000
+"Medical Device",Woman,"College degree",109000.0000
+"Medical Devices",Woman,"College degree",75577.5000
+"Medical research",Man,PhD,483600.0000
+"Medical Research",Non-binary,"College degree",43000.0000
+"Medical Research",Woman,"Master's degree",90000.0000
+"Medical Research",Woman,"College degree",45000.0000
+"medical research ",Woman,"College degree",69000.0000
+"Medical Sciences",Woman,PhD,41000.0000
+"Medical supply Wholesale & Warehousing",Woman,"College degree",33000.0000
+"Medical Technology",Woman,"Master's degree",133000.0000
+"Medical Technology",Woman,"College degree",77500.0000
+"Medical/Pharmaceutical ",Woman,"Master's degree",220000.0000
+"Mental Health",Woman,"Master's degree",43000.0000
+"Mental health ",Woman,PhD,30000.0000
+"Mental health therapist",Woman,"Master's degree",73611.0000
+Military,Woman,"College degree",120000.0000
+"Military ",Man,"College degree",55000.0000
+"Military ",Woman,"High School",125000.0000
+Mining,Man,"Master's degree",138000.0000
+Mining,Man,"High School",84500.0000
+Mining,Man,"College degree",73000.0000
+Mining,Woman,"College degree",84250.0000
+Mining,Woman,"Master's degree",59000.0000
+"Mining ",Woman,"Some college",55140.0000
+"Mining & Mineral Processing",Man,"College degree",55000.0000
+"Mining and natural resources",Man,"Master's degree",200000.0000
+"Mining/Mineral Exploration",Woman,"College degree",65000.0000
+"Mining/Resource Extraction",Woman,"Some college",74568.0000
+Ministry,Man,"College degree",42000.0000
+Ministry,Woman,"Master's degree",59750.0000
+Ministry,Woman,"College degree",32000.0000
+Mortgage,Woman,"High School",49000.0000
+"Multilateral Organisation ",Man,"Master's degree",250000.0000
+"municipal (public) libraries",Woman,"Master's degree",66000.0000
+"Municipal Government (Library)",Woman,"Master's degree",54953.0000
+Museum,Man,"Master's degree",52000.0000
+Museum,Man,"College degree",51150.0000
+Museum,Woman,"Master's degree",68895.6667
+"Museum - Nonprofit",Woman,"Master's degree",65000.0000
+"Museum (University Affiliated)",Woman,"Master's degree",40.0000
+"Museum education ",Woman,"Master's degree",36663.0000
+"Museum Library",Man,"Master's degree",30877.0000
+Museums,Man,"Master's degree",42500.0000
+Museums,Woman,PhD,75000.0000
+Museums,Woman,"Master's degree",55272.0000
+Museums,Woman,"College degree",53000.0000
+"museums & archives (not sure where this would fall)",Woman,"College degree",35360.0000
+"Museums: Nonprofit",Woman,"Master's degree",42000.0000
+Music,Man,"College degree",65000.0000
+"Music Licensing",Man,"Master's degree",58000.0000
+"music therapy ",Woman,"College degree",56000.0000
+"Music, education ",Woman,"Master's degree",100000.0000
+"Music: freelance, performing and education",Woman,"Master's degree",50000.0000
+"My company sells & services various types of printers, mostly Kyocera.",Woman,"Some college",35000.0000
+"Natural Resources",Woman,"College degree",50000.0000
+"Non profit theater",Woman,"Master's degree",108000.0000
+"Non-profit health care (I couldn’t select both)",Woman,"College degree",46700.0000
+"Non-profit Theatre",Woman,"College degree",72000.0000
+"Nonprofit - legal department",Woman,"College degree",69000.0000
+"Nonprofit - LORT D Theater",Woman,"College degree",43000.0000
+"Nonprofit association",Woman,"College degree",69000.0000
+"Nonprofit scholarly society publisher",Woman,"Master's degree",111000.0000
+Nonprofits,Man,"Professional degree (MD, JD, etc.)",140000.0000
+Nonprofits,Man,PhD,93000.0000
+Nonprofits,Man,"College degree",83224.7711
+Nonprofits,Man,"Some college",82250.0000
+Nonprofits,Man,"Master's degree",79183.5769
+Nonprofits,Man,Unknown,72000.0000
+Nonprofits,Man,"High School",47000.0000
+Nonprofits,Non-binary,PhD,74651.0000
+Nonprofits,Non-binary,"Master's degree",63092.5238
+Nonprofits,Non-binary,"Professional degree (MD, JD, etc.)",60250.0000
+Nonprofits,Non-binary,"Some college",54684.0000
+Nonprofits,Non-binary,"College degree",51595.3214
+Nonprofits,"Other or prefer not to answer",PhD,128750.0000
+Nonprofits,"Other or prefer not to answer","Master's degree",83666.6667
+Nonprofits,"Other or prefer not to answer","College degree",50980.0000
+Nonprofits,Unknown,"College degree",50500.0000
+Nonprofits,Woman,"Professional degree (MD, JD, etc.)",101202.1471
+Nonprofits,Woman,PhD,91658.2857
+Nonprofits,Woman,Unknown,84750.0000
+Nonprofits,Woman,"Master's degree",73711.4466
+Nonprofits,Woman,"College degree",68328.5380
+Nonprofits,Woman,"Some college",57716.5472
+Nonprofits,Woman,"High School",41115.3333
+"Not for profit education consultancy",Woman,"Master's degree",36700.0000
+"not-for-profit health research consulting",Man,PhD,160000.0000
+"not-for-profit membership organization",Woman,"College degree",77000.0000
+"Nuclear research",Man,"College degree",122000.0000
+"oceanography research",Non-binary,"College degree",45000.0000
+"Office Admin",Woman,"Some college",36400.0000
+"Office Administration",Woman,"College degree",41000.0000
+Oil,Man,"College degree",689000.0000
+"Oil & Gas",Man,"Master's degree",66022.5000
+"Oil & gas",Woman,"Master's degree",107500.0000
+"Oil & Gas",Woman,"College degree",101071.4286
+"Oil & Gas",Woman,"Some college",72250.0000
+"Oil & Gas - Non Destructive Testing",Woman,"College degree",59000.0000
+"Oil and gas",Man,PhD,142100.0000
+"Oil and gas",Man,"College degree",125000.0000
+"Oil and Gas",Man,"Some college",120000.0000
+"Oil and Gas",Woman,"Master's degree",134875.0000
+"Oil and gas",Woman,"College degree",88675.0000
+"Oil and gas ",Woman,"Some college",47000.0000
+"Oil and gas exploration ",Man,"College degree",41500.0000
+"Oilfield adjacent",Woman,"Some college",52234.0000
+"Online learning",Woman,"College degree",43000.0000
+"Operational Training",Woman,"College degree",45000.0000
+Operations,Woman,"College degree",110000.0000
+"Organizational Development ",Woman,"Master's degree",99100.0000
+"Organized Labor",Woman,"Professional degree (MD, JD, etc.)",103996.0000
+"Outdoor industry/repair and maintenance",Woman,"Some college",37000.0000
+"Outsourced Customer Service/Tech Support Call Centre",Woman,"High School",2400.0000
+"Outsourcing Services ",Man,"Some college",90000.0000
+"Paid student intern in Tech",Woman,"Some college",40000.0000
+"Patent translation",Woman,"College degree",52500.0000
+"Payment Processing",Woman,"College degree",73185.0000
+"Payroll Software",Woman,"College degree",51001.0000
+"Pension Benefit Administration",Man,"Some college",72000.0000
+"Per Sitter",Woman,"College degree",43800.0000
+"Performing Arts",Woman,"College degree",41500.0000
+"Pest Control",Woman,"Master's degree",75000.0000
+Pet,Woman,"College degree",53000.0000
+"Pet Care",Woman,"Master's degree",41600.0000
+"Pet care/grooming","Other or prefer not to answer","Some college",25000.0000
+Petroleum,Woman,"Master's degree",220000.0000
+Pharma,Man,"Master's degree",161000.0000
+Pharma,Man,"Professional degree (MD, JD, etc.)",122000.0000
+Pharma,Man,"College degree",91200.0000
+Pharma,Unknown,"College degree",107000.0000
+Pharma,Woman,"Professional degree (MD, JD, etc.)",192500.0000
+Pharma,Woman,"College degree",121333.3333
+Pharma,Woman,"Master's degree",107700.0000
+"Pharma ",Woman,PhD,125000.0000
+"pharma / medical device design and manufacturing",Woman,"Master's degree",188000.0000
+"Pharma & Biotech",Woman,"Master's degree",125760.0000
+"Pharma R&D",Woman,"Master's degree",165000.0000
+"Pharma research",Woman,PhD,180000.0000
+"Pharma/ Research",Woman,"Master's degree",185000.0000
+Pharma/biotech,Woman,PhD,175000.0000
+Pharma/Biotech,Woman,"Master's degree",128000.0000
+Pharma/biotechnology,Man,PhD,168000.0000
+"Pharma/biotechnology ",Woman,"Master's degree",104500.0000
+"Pharmaceitical manufacturing",Woman,"College degree",96304.0000
+Pharmaceutical,Non-binary,"Master's degree",98000.0000
+Pharmaceutical,Woman,"Master's degree",122200.0000
+Pharmaceutical,Woman,PhD,120839.5000
+Pharmaceutical,Woman,"College degree",105125.0000
+Pharmaceutical,Woman,"Some college",43000.0000
+"Pharmaceutical ",Man,PhD,82000.0000
+"Pharmaceutical ",Woman,PhD,185000.0000
+"Pharmaceutical ",Woman,"College degree",139000.0000
+"Pharmaceutical ",Woman,"Master's degree",138500.0000
+"Pharmaceutical ",Woman,"Some college",72605.5000
+"Pharmaceutical company ",Woman,PhD,188000.0000
+"Pharmaceutical Development",Woman,PhD,202000.0000
+"Pharmaceutical Industry",Woman,"College degree",96000.0000
+"Pharmaceutical industry ",Woman,"Some college",93500.0000
+"Pharmaceutical Manufacturing",Woman,PhD,114000.0000
+"Pharmaceutical Manufacturing",Woman,"College degree",70100.0000
+"Pharmaceutical Manufacturing ",Woman,"College degree",68500.0000
+"Pharmaceutical R&D",Man,"Master's degree",90000.0000
+"Pharmaceutical R&D",Man,"College degree",66000.0000
+"Pharmaceutical R&D",Woman,"Master's degree",199900.0000
+"Pharmaceutical R&D",Woman,PhD,119000.0000
+"Pharmaceutical research",Woman,"Master's degree",90000.0000
+"Pharmaceutical Research",Woman,"College degree",52500.0000
+"Pharmaceutical research ",Woman,PhD,120000.0000
+"Pharmaceutical research (chemist)",Woman,"Master's degree",64000.0000
+"Pharmaceutical research & development",Man,PhD,37500.0000
+Pharmaceutical/Biotech,Woman,"Professional degree (MD, JD, etc.)",160000.0000
+Pharmaceutical/biotechnology,Woman,PhD,227500.0000
+"Pharmaceutical/Contract Research Organization",Woman,"College degree",124000.0000
+Pharmaceuticals,Man,PhD,121000.0000
+Pharmaceuticals,Man,"College degree",52000.0000
+Pharmaceuticals,Woman,"Professional degree (MD, JD, etc.)",198500.0000
+Pharmaceuticals,Woman,"Master's degree",118333.3333
+Pharmaceuticals,Woman,PhD,113333.3333
+Pharmaceuticals,Woman,"College degree",83638.5714
+"Pharmaceuticals ",Man,"College degree",160000.0000
+"Pharmaceuticals ",Woman,"College degree",113750.0000
+"Pharmaceuticals ",Woman,PhD,100000.0000
+"Pharmaceuticals / Biotech",Woman,PhD,160000.0000
+"Pharmaceuticals R&D",Woman,"Master's degree",106000.0000
+Pharmaceuticals/Biotechnology,Woman,"Professional degree (MD, JD, etc.)",194000.0000
+Pharmacuticals,Woman,PhD,160000.0000
+PhD,Man,"Master's degree",19000.0000
+Philanthropy,Woman,"Master's degree",76000.0000
+Philanthropy,Woman,"College degree",71283.3333
+Philanthropy,Woman,PhD,65000.0000
+"Philanthropy ",Woman,"College degree",114000.0000
+"Philanthropy ",Woman,"Master's degree",107500.0000
+"Physical sciences",Man,PhD,103000.0000
+Planning,Woman,Unknown,72000.0000
+Plumbing,Man,"High School",30000.0000
+Plumbing,Man,Unknown,30000.0000
+"Policy research",Woman,"Master's degree",82000.0000
+"Political Campaigning",Woman,"College degree",42000.0000
+"Political Campaigns",Man,"College degree",104000.0000
+"Political Campaigns",Woman,"Professional degree (MD, JD, etc.)",78000.0000
+"Political Campaigns",Woman,"College degree",66000.0000
+"Political consulting ",Woman,"Some college",48000.0000
+"Political Research",Man,"College degree",40000.0000
+Politics,Non-binary,"College degree",64000.0000
+Politics,"Other or prefer not to answer","College degree",72000.0000
+Politics,Woman,"College degree",70800.0000
+Politics/campaigns,Woman,"Professional degree (MD, JD, etc.)",72000.0000
+"Politics/Government Relations",Woman,"College degree",108500.0000
+"Pre-primary education",Woman,"Master's degree",60000.0000
+"Preclinical Research",Woman,"College degree",82000.0000
+"Print / Mail",Man,"College degree",87000.0000
+"Print Distributor ",Woman,"College degree",62500.0000
+"Print publishing",Man,"College degree",68500.0000
+Printing,Man,"College degree",40000.0000
+"Private Equity",Woman,"College degree",106500.0000
+"Private Sector Emergency Management",Woman,"Master's degree",115000.0000
+Procurement,Woman,"College degree",43500.0000
+"Procurement ",Woman,"Master's degree",128000.0000
+"Procurement/Sourcing/Operations ",Woman,"College degree",103000.0000
+"Product Management",Man,"Master's degree",115000.0000
+"Product Management",Woman,PhD,134125.0000
+"Production and Manufacturing",Woman,"College degree",65000.0000
+"Professional Association ",Woman,"College degree",56500.0000
+"Professional Association in Finance",Woman,"Master's degree",140000.0000
+"Professional Public Librarian",Woman,"Master's degree",34500.0000
+"Professional regulation",Woman,"College degree",55000.0000
+"Professional Services",Woman,"College degree",185.0000
+"Professional services / architecture ",Woman,"College degree",78000.0000
+"Professional training",Woman,"Master's degree",24000.0000
+"project management ",Woman,"College degree",60000.0000
+"Property Management",Woman,"College degree",56784.0000
+"Property or Construction",Man,"Master's degree",98024.2667
+"Property or Construction",Man,"College degree",89798.2963
+"Property or Construction",Man,"Professional degree (MD, JD, etc.)",63000.0000
+"Property or Construction",Man,"Some college",60927.5000
+"Property or Construction",Man,"High School",54433.3333
+"Property or Construction",Non-binary,"Master's degree",90000.0000
+"Property or Construction",Non-binary,"College degree",70000.0000
+"Property or Construction","Other or prefer not to answer","Master's degree",117333.3333
+"Property or Construction","Other or prefer not to answer","College degree",70000.0000
+"Property or Construction",Unknown,"College degree",60000.0000
+"Property or Construction",Unknown,Unknown,55000.0000
+"Property or Construction",Woman,"Master's degree",87191.5745
+"Property or Construction",Woman,"College degree",70757.7222
+"Property or Construction",Woman,"Professional degree (MD, JD, etc.)",70500.0000
+"Property or Construction",Woman,Unknown,66950.0000
+"Property or Construction",Woman,"Some college",60197.8947
+"Property or Construction",Woman,"High School",50580.5217
+"Protective coatings",Man,"Some college",56000.0000
+Psychology,Woman,PhD,120000.0000
+"Public affairs / PR ",Woman,"College degree",88000.0000
+"public health",Woman,"College degree",87000.0000
+"Public Health",Woman,"Master's degree",63000.0000
+"Public health",Woman,Unknown,60000.0000
+"Public health ",Woman,"Master's degree",55000.0000
+"Public health (not medical)",Non-binary,"College degree",65000.0000
+"Public health in higher education",Woman,"Master's degree",67000.0000
+"Public Health Research",Woman,PhD,118000.0000
+"Public Health- state level",Woman,"Master's degree",71989.0000
+"Public Health, local government",Woman,"Master's degree",127000.0000
+"Public Librarian",Woman,"Master's degree",41800.0000
+"Public Libraries",Non-binary,"College degree",29000.0000
+"Public Libraries",Woman,"Master's degree",63439.3077
+"public libraries ",Unknown,"Master's degree",61157.0000
+"Public Library",Man,"College degree",82700.0000
+"Public Library",Man,"Master's degree",56000.0000
+"Public library",Man,"Professional degree (MD, JD, etc.)",40000.0000
+"Public library",Non-binary,"Master's degree",87000.0000
+"Public Library",Non-binary,"Some college",28000.0000
+"public library",Woman,"Master's degree",52615.3043
+"public library",Woman,"Professional degree (MD, JD, etc.)",51000.0000
+"Public Library",Woman,Unknown,44500.0000
+"Public Library",Woman,"College degree",43115.0000
+"Public Library ",Woman,"Master's degree",59833.3333
+"Public library ",Woman,"College degree",26000.0000
+"Public Library (technically City Govt.?) ",Woman,"Master's degree",76302.0000
+"Public Policy",Woman,"College degree",53080.0000
+"Public safety",Woman,"High School",35360.0000
+"Public safety ",Woman,"College degree",82550.0000
+"Public/Research Library",Woman,"Master's degree",72000.0000
+Publications,Man,"Master's degree",81000.0000
+Publishibg,Woman,"College degree",34770.0000
+Publishing,Man,"Master's degree",80.0000
+Publishing,Non-binary,"College degree",51500.0000
+publishing,Woman,"Some college",83500.0000
+Publishing,Woman,"College degree",59927.7273
+publishing,Woman,"Master's degree",52945.8333
+"Publishing ",Man,"College degree",120350.0000
+"Publishing ",Non-binary,PhD,37000.0000
+"Publishing ",Woman,"Master's degree",50000.0000
+"Publishing ",Woman,PhD,50000.0000
+"Publishing (book)",Woman,"College degree",56640.0000
+"Publishing, content as a service",Woman,"College degree",57500.0000
+"Publishing: Science, Academic, Technical ",Woman,"College degree",81500.0000
+Purchasing,Woman,"College degree",86200.0000
+"Quality Assurance",Man,"College degree",38700.0000
+"Quality Assurance Laboratory ",Woman,"College degree",64500.0000
+R&D,Woman,"Master's degree",160000.0000
+"R&D in Manufacturing",Woman,"College degree",60000.0000
+"Real Estate",Man,"College degree",120000.0000
+"Real Estate",Man,"Master's degree",100000.0000
+"Real estate",Non-binary,"College degree",31200.0000
+"Real Estate",Woman,"Some college",90000.0000
+"Real Estate",Woman,"Master's degree",82333.3333
+"Real Estate",Woman,"College degree",51607.6923
+"Real Estate ",Woman,"Master's degree",130000.0000
+"real estate ",Woman,"College degree",67000.0000
+"Real Estate / Housing",Man,"Master's degree",113000.0000
+"Real Estate Corp. Office/not a Realtor",Woman,"College degree",55000.0000
+"Real Estate customer care",Woman,"College degree",50000.0000
+"Real Estate Development",Woman,"College degree",50000.0000
+"Real Estate Investment",Woman,"College degree",73000.0000
+"Real Estate Investment Support",Woman,"High School",63000.0000
+"Real estate services",Woman,"Master's degree",47500.0000
+"Real estate software",Woman,"Master's degree",114000.0000
+"Real Estate Title Company",Man,"Some college",47445.0000
+"Real estate valuation",Woman,"College degree",62000.0000
+"Real Estate/ Mortgage ",Woman,"Some college",47008.0000
+"Real Estate/Development",Woman,"College degree",65000.0000
+"Real World Evidence (data for pharma research)",Man,"Master's degree",181290.0000
+"Recruitment or HR",Man,"Master's degree",102000.0000
+"Recruitment or HR",Man,"College degree",94540.0000
+"Recruitment or HR",Man,"Some college",75750.0000
+"Recruitment or HR",Man,"High School",55000.0000
+"Recruitment or HR",Man,PhD,36000.0000
+"Recruitment or HR",Non-binary,"Master's degree",60033.6667
+"Recruitment or HR",Non-binary,"College degree",57500.0000
+"Recruitment or HR","Other or prefer not to answer","College degree",402000.0000
+"Recruitment or HR","Other or prefer not to answer","Master's degree",110000.0000
+"Recruitment or HR",Unknown,"College degree",150000.0000
+"Recruitment or HR",Woman,PhD,107343.7500
+"Recruitment or HR",Woman,"Professional degree (MD, JD, etc.)",99425.0000
+"Recruitment or HR",Woman,Unknown,87500.0000
+"Recruitment or HR",Woman,"Master's degree",87359.4605
+"Recruitment or HR",Woman,"Some college",80493.0000
+"Recruitment or HR",Woman,"College degree",76610.9286
+"Recruitment or HR",Woman,"High School",58700.0000
+"Regulatory Affairs- nutraceuticals ",Woman,"College degree",70980.0000
+Religion,Man,"Professional degree (MD, JD, etc.)",100000.0000
+Religion/church,Woman,"Master's degree",54000.0000
+Religious,Man,"College degree",53000.0000
+"Religious (church)",Woman,"College degree",49500.0000
+"Religious (synagogue)",Woman,"College degree",62400.0000
+"religious educator",Woman,"College degree",31200.0000
+"Religious institute",Woman,"College degree",32000.0000
+"Religious institution",Woman,"Master's degree",54080.0000
+"Renewable Energy",Non-binary,"College degree",71077.0000
+"Renewable energy",Woman,"Master's degree",89083.3333
+"Renewable Energy",Woman,"College degree",83000.0000
+"Renewable Energy ",Woman,"College degree",170000.0000
+"Renewable Energy Development",Man,"Professional degree (MD, JD, etc.)",170000.0000
+"Renewable fuels",Woman,"Master's degree",72000.0000
+Research,Man,PhD,65038.2500
+Research,Man,"College degree",47840.0000
+Research,Woman,PhD,78666.6667
+Research,Woman,"Master's degree",71441.8000
+Research,Woman,"College degree",49983.8571
+Research,Woman,"Some college",34320.0000
+"Research ",Unknown,"College degree",87000.0000
+"Research ",Woman,"Master's degree",107000.0000
+"Research ",Woman,"College degree",54000.0000
+"Research - Public Health",Woman,"Master's degree",76000.0000
+"Research (health)",Woman,"Master's degree",74000.0000
+"Research & Development",Man,PhD,65000.0000
+"Research & Development",Woman,"College degree",90333.3333
+"Research & Development",Woman,"Master's degree",72000.0000
+"Research & Development ",Woman,PhD,65000.0000
+"Research & Development (Defense Industry)",Woman,"Some college",90000.0000
+"Research & Development (Physical Sciences)",Woman,PhD,130000.0000
+"Research Administration",Woman,"Master's degree",53000.0000
+"Research and Development",Man,PhD,113000.0000
+"Research and Development",Woman,PhD,145750.0000
+"Research and development",Woman,"College degree",58000.0000
+"Research and Development, Food and Beverage ",Woman,"Master's degree",50000.0000
+"Research and Evaluation",Woman,PhD,115000.0000
+"Research at a National Laboratory",Woman,PhD,90000.0000
+"Research at a State University",Woman,"College degree",55000.0000
+"Research Institute",Woman,"College degree",38000.0000
+"Research Institute",Woman,"Master's degree",30000.0000
+"Research science",Man,"Master's degree",60000.0000
+"Research science",Woman,PhD,35000.0000
+"Research Scientist, Pharma",Woman,"Master's degree",175000.0000
+Research/Academia,Woman,"Master's degree",43500.0000
+"Research/Social Science",Woman,PhD,110000.0000
+Restaurant,Man,"Some college",15080.0000
+Restaurant,Non-binary,"College degree",31200.0000
+"Restaurant ",Man,"High School",29120.0000
+"Restaurant ",Non-binary,"Some college",55000.0000
+"Restaurant ",Woman,"Some college",38000.0000
+Restaurant/Service,Woman,"College degree",107000.0000
+restoration,Woman,"College degree",184000.0000
+Retail,Man,"Master's degree",146552.7778
+Retail,Man,PhD,103000.0000
+Retail,Man,"Professional degree (MD, JD, etc.)",85000.0000
+Retail,Man,"College degree",70864.5526
+Retail,Man,"Some college",55743.6000
+Retail,Man,"High School",42195.5556
+Retail,Non-binary,"Master's degree",52000.0000
+Retail,Non-binary,"Some college",38366.6667
+Retail,Non-binary,"College degree",34950.0000
+Retail,Non-binary,"High School",26013.3333
+Retail,"Other or prefer not to answer","College degree",65900.0000
+Retail,"Other or prefer not to answer","Some college",36300.0000
+Retail,Unknown,"Some college",48000.0000
+Retail,Unknown,"High School",29120.0000
+Retail,Woman,"Master's degree",80619.1667
+Retail,Woman,"High School",66294.0000
+Retail,Woman,"College degree",63744.6503
+Retail,Woman,"Some college",49576.6316
+Retail,Woman,PhD,39520.0000
+Retail,Woman,"Professional degree (MD, JD, etc.)",34175.5000
+Retail,Woman,Unknown,32125.0000
+"Retail mid level management",Woman,"Some college",36000.0000
+"Retail pharmacy",Woman,"Master's degree",102924.0000
+"Retail real estate",Woman,"College degree",67000.0000
+Retired,Woman,"College degree",13000.0000
+Rideshare,Woman,"College degree",48000.0000
+Saas,Man,"College degree",85000.0000
+"Saas company/software",Woman,"College degree",160000.0000
+Sales,Man,Unknown,146000.0000
+Sales,Man,"College degree",113251.4286
+Sales,Man,"Master's degree",105788.8889
+Sales,Man,PhD,100000.0000
+Sales,Man,"Some college",86318.1818
+Sales,Man,"High School",57850.0000
+Sales,Non-binary,"College degree",34666.6667
+Sales,"Other or prefer not to answer","Some college",32300.0000
+Sales,Unknown,"Some college",80000.0000
+Sales,Woman,"Master's degree",295098.5385
+Sales,Woman,"Professional degree (MD, JD, etc.)",88333.3333
+Sales,Woman,"High School",76957.1429
+Sales,Woman,"College degree",74332.2500
+Sales,Woman,PhD,71666.6667
+Sales,Woman,"Some college",52416.5000
+Sales,Woman,Unknown,43313.0000
+"Sales ",Woman,"College degree",76000.0000
+"Sales operations",Man,"College degree",75000.0000
+"Sales Operations",Woman,"College degree",96000.0000
+"Sales Operations ",Woman,"Some college",55000.0000
+Science,Man,PhD,92665.3333
+Science,"Other or prefer not to answer","College degree",44000.0000
+Science,Woman,PhD,100000.0000
+Science,Woman,"College degree",65182.0000
+Science,Woman,"Master's degree",60333.3333
+"Science ",Woman,PhD,105000.0000
+"Science ",Woman,"College degree",20152.0000
+"Science (Laboratory)",Woman,"College degree",59000.0000
+"Science (Research, Biology)",Woman,PhD,55000.0000
+"Science academia",Woman,PhD,59000.0000
+"Science and reasearch",Woman,PhD,40000.0000
+"Science publishing",Woman,PhD,103000.0000
+"Science Research",Non-binary,"Master's degree",56763.0000
+"Science research",Woman,PhD,70500.0000
+"Science research",Woman,"College degree",44000.0000
+"Science Research, government",Woman,PhD,131000.0000
+"Science/Biotech ",Woman,"College degree",65000.0000
+"Science/government ",Woman,PhD,110500.0000
+Science/Research,Woman,"Master's degree",70000.0000
+"Science/Research (Academia)",Woman,"College degree",38784.0000
+"Science/research non-academic",Woman,PhD,76000.0000
+Sciences,Woman,"College degree",35500.0000
+Scientific,Woman,"College degree",80000.0000
+Scientific,Woman,"Master's degree",80000.0000
+"Scientific analysis",Woman,"Master's degree",70000.0000
+"Scientific publishing",Woman,PhD,65000.0000
+"Scientific Research",Man,"Master's degree",180000.0000
+"Scientific Research",Man,PhD,51950.0000
+"Scientific research",Woman,PhD,89800.0000
+"Scientific research",Woman,"Master's degree",84000.0000
+"Scientific Research",Woman,"Some college",31200.0000
+"Scientific Research",Woman,"College degree",29033.3333
+"Scientific Research ",Man,PhD,48000.0000
+"Scientific research (industry) ",Woman,PhD,122000.0000
+Scientist,Man,"College degree",125000.0000
+Scientist,Woman,"College degree",103500.0000
+Scientist,Woman,"Master's degree",76000.0000
+Security,Woman,"College degree",85000.0000
+"Security and manufacturing company",Woman,"College degree",36000.0000
+Service,Woman,"Some college",70000.0000
+"Service and repair",Woman,"Some college",51000.0000
+"Shared office space",Woman,"College degree",48000.0000
+"Sign Language Interpreter, Community",Woman,"College degree",124800.0000
+"Skilled trade ",Woman,"Some college",80000.0000
+"Small business/service company",Woman,"High School",41000.0000
+"Social Research",Woman,"Master's degree",34024.0000
+"Social science ",Woman,PhD,129000.0000
+"social science research - not quite academia, not quite nonprofit, not quite consulting",Woman,"Master's degree",91000.0000
+"Social sciences research",Woman,"College degree",55000.0000
+"Social Work",Man,"Master's degree",66733.3333
+"Social Work",Man,"College degree",47100.0000
+"Social Work",Man,"Professional degree (MD, JD, etc.)",43000.0000
+"Social Work",Man,"Some college",28080.0000
+"Social Work",Non-binary,"Professional degree (MD, JD, etc.)",72000.0000
+"Social Work",Non-binary,"Master's degree",54520.0000
+"Social Work","Other or prefer not to answer","College degree",90000.0000
+"Social Work",Woman,PhD,74595.0000
+"Social Work",Woman,"Master's degree",62954.3211
+"Social Work",Woman,"High School",45400.0000
+"Social Work",Woman,"College degree",44564.8222
+"Social Work",Woman,"Some college",38346.6667
+"Social Work",Woman,Unknown,31239.0000
+Software,Man,"Some college",78000.0000
+Software,Woman,"College degree",117666.6667
+Software,Woman,"Some college",92700.0000
+"Software as a Service SaaS",Woman,"College degree",68000.0000
+"Software Development",Woman,"College degree",145000.0000
+"Software Development / IT",Non-binary,"College degree",70000.0000
+"Software Products",Woman,"Master's degree",115000.0000
+Software/programming,Woman,"Some college",190000.0000
+"Sourcing & Procurement",Woman,"Professional degree (MD, JD, etc.)",105000.0000
+Space,Woman,"College degree",75000.0000
+"Specialist clothing",Woman,"College degree",72000.0000
+"Specialist policy consulting/research",Woman,"Master's degree",25000.0000
+Sports,Man,"College degree",300000.0000
+"Staffing & workforce solutions ",Woman,"College degree",59900.0000
+"Staffing agency",Woman,"Master's degree",62400.0000
+"Staffing Firm",Woman,"College degree",125000.0000
+"Staffing Industrry",Man,"Master's degree",60000.0000
+"State DOT",Man,"Some college",45000.0000
+"State-level public transportation agency",Man,"Master's degree",116000.0000
+"STEM medical research",Woman,"College degree",40000.0000
+"STEM research",Woman,PhD,135000.0000
+"STEM Research",Woman,"College degree",38000.0000
+"Storage Facility ",Woman,"College degree",120000.0000
+Strategy,Woman,"College degree",150000.0000
+"strategy consulting",Woman,"Master's degree",195000.0000
+Student,Man,"Some college",18720.0000
+Student,Woman,"Master's degree",85000.0000
+"student paid intern in computing",Woman,"Some college",40000.0000
+"Supply Chain",Man,"College degree",98736.0000
+"Supply Chain",Woman,"College degree",108250.0000
+"Supply chain",Woman,"Master's degree",56000.0000
+"Supply Chain Operations",Woman,"College degree",93000.0000
+"Supply Chain!",Woman,"College degree",144656.0000
+"Survey Research/Public Policy Research",Woman,"College degree",76000.0000
+Surveying,Man,"Some college",46280.0000
+"Surveying ",Man,"Master's degree",85000.0000
+"Synthetic Chemical Manufacturing",Woman,"Master's degree",103000.0000
+"Tabletop Games Publishing",Man,"College degree",42000.0000
+"Tabletop Gaming",Man,"Some college",44850.0000
+Tech,Woman,"Some college",160000.0000
+Tech,Woman,"College degree",58000.0000
+"Technical writing",Woman,"Master's degree",92000.0000
+Technical/Cybersecurity,Woman,"Master's degree",190000.0000
+Technology,Man,"College degree",58000.0000
+Technology,Woman,"College degree",178000.0000
+"Technology ",Woman,"Master's degree",98000.0000
+technology/SaaS,Woman,"College degree",87500.0000
+Telecommunications,Woman,"College degree",79000.0000
+"Telecommunications ",Woman,"College degree",78894.0000
+"Telecommunications (GPS)",Woman,"College degree",84500.0000
+"Textbook Copyeditor",Man,"College degree",56160.0000
+"Think tank",Woman,"Master's degree",90280.0000
+"Third sector/non profit - medical membership in UK",Woman,"College degree",41206.0000
+"TIC (Testing, Inspection & Certification)",Man,"College degree",34000.0000
+"Title/Real Estate ",Non-binary,"College degree",62500.0000
+"Tourism/Heritage -- but for a government building",Woman,"College degree",83175.0000
+Toxicology,Woman,"College degree",57000.0000
+"Trade Association",Woman,PhD,189000.0000
+"Trade association",Woman,"College degree",121500.0000
+"Trade Association",Woman,"Master's degree",111000.0000
+"Trade Association",Woman,"Professional degree (MD, JD, etc.)",83000.0000
+"trade association/membership",Woman,"College degree",65100.0000
+"Trade Associations",Woman,"College degree",67000.0000
+"Trades (Supply Chain) Oil and Gas",Woman,"College degree",91160.0000
+Training,Man,"College degree",88700.0000
+Training,Woman,"Master's degree",87000.0000
+"Training and Professional Services",Woman,"College degree",68700.0000
+Translation,Man,"Master's degree",48000.0000
+Translation,Non-binary,"College degree",35000.0000
+Translation,"Other or prefer not to answer","College degree",75000.0000
+Translation,"Other or prefer not to answer","Master's degree",22800.0000
+Translation,Woman,"College degree",26000.0000
+"Translation ",Woman,"Master's degree",60000.0000
+"Translation ",Woman,"Some college",8000.0000
+"Translation and Localization",Woman,"Master's degree",43000.0000
+Translation/transcription,Man,"College degree",38000.0000
+"Transport or Logistics",Man,"Master's degree",97033.5625
+"Transport or Logistics",Man,"College degree",83080.8148
+"Transport or Logistics",Man,"High School",67106.1111
+"Transport or Logistics",Man,"Some college",52796.3636
+"Transport or Logistics",Non-binary,"College degree",50066.6667
+"Transport or Logistics",Non-binary,"Some college",40584.0000
+"Transport or Logistics","Other or prefer not to answer","College degree",93000.0000
+"Transport or Logistics","Other or prefer not to answer","Some college",33000.0000
+"Transport or Logistics",Woman,"Professional degree (MD, JD, etc.)",130000.0000
+"Transport or Logistics",Woman,"High School",107226.6154
+"Transport or Logistics",Woman,"Master's degree",86325.7805
+"Transport or Logistics",Woman,"College degree",75499.5400
+"Transport or Logistics",Woman,"Some college",73442.1667
+Travel,Man,"College degree",95000.0000
+"Travel ",Woman,"Master's degree",145000.0000
+"Union/political organizing ",Woman,"Some college",103586.0000
+"University libraries",Non-binary,"Master's degree",54000.0000
+"University research",Woman,"Master's degree",43000.0000
+"University tech transfer (higher ed/marketing/writing)",Woman,"College degree",36000.0000
+Unknown,Man,"Master's degree",101800.0000
+Unknown,Man,"College degree",97500.0000
+Unknown,Man,"High School",47000.0000
+Unknown,Non-binary,"Professional degree (MD, JD, etc.)",10000000.0000
+Unknown,"Other or prefer not to answer","Master's degree",98000.0000
+Unknown,Woman,"Master's degree",91775.0000
+Unknown,Woman,"High School",82254.5000
+Unknown,Woman,PhD,80500.0000
+Unknown,Woman,"College degree",77764.6316
+Unknown,Woman,"Professional degree (MD, JD, etc.)",50000.0000
+Unknown,Woman,Unknown,47000.0000
+Unknown,Woman,"Some college",39410.8333
+"Urban Planning",Woman,"Master's degree",82500.0000
+"User Experience (UX) Research",Woman,"Master's degree",134000.0000
+"User Experience Design","Other or prefer not to answer","College degree",140000.0000
+"Utilities & Telecommunications",Man,"Professional degree (MD, JD, etc.)",168000.0000
+"Utilities & Telecommunications",Man,PhD,153550.0000
+"Utilities & Telecommunications",Man,"Master's degree",114066.6667
+"Utilities & Telecommunications",Man,"Some college",97958.6364
+"Utilities & Telecommunications",Man,"High School",91562.5000
+"Utilities & Telecommunications",Man,"College degree",91327.7895
+"Utilities & Telecommunications",Non-binary,"College degree",42415.5000
+"Utilities & Telecommunications",Non-binary,"Some college",41000.0000
+"Utilities & Telecommunications",Non-binary,"High School",29661.0000
+"Utilities & Telecommunications","Other or prefer not to answer","Master's degree",79900.0000
+"Utilities & Telecommunications",Woman,PhD,129666.6667
+"Utilities & Telecommunications",Woman,"Professional degree (MD, JD, etc.)",111750.0000
+"Utilities & Telecommunications",Woman,"Master's degree",97919.8621
+"Utilities & Telecommunications",Woman,Unknown,87360.0000
+"Utilities & Telecommunications",Woman,"College degree",84181.8224
+"Utilities & Telecommunications",Woman,"High School",76076.0000
+"Utilities & Telecommunications",Woman,"Some college",71380.7241
+"UX Research ",Woman,"College degree",82000.0000
+Veterinarian,Woman,"Professional degree (MD, JD, etc.)",78000.0000
+Veterinary,Woman,"Professional degree (MD, JD, etc.)",132500.0000
+Veterinary,Woman,"College degree",36750.0000
+"Veterinary ",Man,"College degree",42000.0000
+"Veterinary ",Woman,"College degree",52000.0000
+"Veterinary ",Woman,"Master's degree",35000.0000
+"Veterinary ",Woman,"High School",31200.0000
+"veterinary biotech",Woman,"Master's degree",89000.0000
+"Veterinary care",Woman,"Some college",36000.0000
+"Veterinary m&a",Woman,"College degree",49000.0000
+"Veterinary medicine",Non-binary,"College degree",34000.0000
+"Veterinary medicine",Woman,"Professional degree (MD, JD, etc.)",112400.0000
+"Veterinary medicine",Woman,PhD,108000.0000
+"Veterinary medicine",Woman,"College degree",48000.0000
+"Video Game Industry",Man,"High School",90000.0000
+"Video games",Man,"College degree",95000.0000
+"Video games",Non-binary,"Some college",80000.0000
+"Video Games",Woman,"College degree",868210.0000
+"Virtual Assisting ",Woman,"Master's degree",41600.0000
+"Virtual reality",Woman,"College degree",55000.0000
+Warehouse,Man,"College degree",60000.0000
+"Warehouse ",Woman,"College degree",40000.0000
+"Warehouse- Food and Beverage ",Woman,"College degree",47500.0000
+"Waste Management ",Woman,"Master's degree",140000.0000
+Wholesale,Woman,"College degree",69000.0000
+"Wholesale - Apparel",Woman,"College degree",90000.0000
+"Wholesale and retail trade",Woman,"Some college",25000.0000
+"wholesale distribution",Man,"High School",100006.0000
+"wholesale distribution",Woman,"Master's degree",100000.0000
+"wholesale distribution",Woman,"College degree",62000.0000
+"Wholesale Distribution B2B",Woman,"College degree",60000.0000
+"Wholesale Industrial & Welding Supplies & Equipment",Woman,"High School",50000.0000
+"Wine & Spirits",Woman,"College degree",105000.0000
+"Wine Importing/Distribution",Woman,"Master's degree",33000.0000
+"Wine Wholesale",Woman,"College degree",85000.0000
+Work-Study,Non-binary,"College degree",16000.0000
+"Workforce development ",Woman,"Master's degree",52000.0000
+"Writing and journalism ",Woman,"Some college",56000.0000
+Zoo,Woman,"College degree",80000.0000
+Zoo,Woman,"Master's degree",56000.0000
+"Zoos and Aquariums",Man,"College degree",37419.0000
